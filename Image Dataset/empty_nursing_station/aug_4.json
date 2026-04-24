@@ -1,0 +1,15 @@
+{
+  "image_id": "aug_4.jpg",
+  "category": "Empty / Unstaffed Nursing Station",
+  "folder": "empty_nursing_station",
+  "severity": "high",
+  "department": "Nursing / Administration",
+  "refined_caption": "The hospital nursing station is empty and unstaffed, with rows of chairs available for patients and visitors. There are no medical staff present at the station.",
+  "complaint_description": "I visited the hospital and was concerned to find the nursing station completely empty and unstaffed. I had to wait for a long time to get assistance, which delayed my treatment. This lack of staff is unacceptable and affects the quality of care.",
+  "voice_text": "I went to the hospital and the nursing station was empty, nobody was there to help me, it was really frustrating.",
+  "tags": [
+    "unstaffed",
+    "nursing station",
+    "hospital care"
+  ]
+}

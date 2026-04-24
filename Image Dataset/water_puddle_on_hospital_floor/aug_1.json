@@ -1,0 +1,15 @@
+{
+  "image_id": "aug_1.jpg",
+  "category": "Water Puddle on Hospital Floor",
+  "folder": "water_puddle_on_hospital_floor",
+  "severity": "medium",
+  "department": "General Ward",
+  "refined_caption": "There are water puddles on the hospital floor, which is also marked with orange lines. The floor appears to be wet and slippery.",
+  "complaint_description": "I was walking down the hospital floor and noticed that there were water puddles everywhere, which made the floor very slippery. I'm worried that someone might slip and fall. The hospital should clean this up as soon as possible.",
+  "voice_text": "There's water all over the floor here, it's really slippery, someone should clean it up.",
+  "tags": [
+    "water puddle",
+    "slippery floor",
+    "hospital safety"
+  ]
+}

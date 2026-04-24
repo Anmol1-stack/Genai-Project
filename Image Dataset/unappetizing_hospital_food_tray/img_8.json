@@ -1,0 +1,15 @@
+{
+  "image_id": "img_8.jpg",
+  "category": "Unappetizing Hospital Food Tray",
+  "folder": "unappetizing_hospital_food_tray",
+  "severity": "low",
+  "department": "Dietary / Canteen",
+  "refined_caption": "The hospital food tray contains bread, butter, jam, and a drink, but the presentation appears unappetizing. The food items are not arranged in an appealing manner.",
+  "complaint_description": "I was disappointed with the food served to me during my stay at the hospital. The food tray had a basic meal of bread, butter, and jam, but it looked unappetizing and lacked any effort in presentation. This made it difficult for me to eat and enjoy my meal.",
+  "voice_text": "The food they brought me looks really unappetizing, just some plain bread and stuff on a tray.",
+  "tags": [
+    "hospital food",
+    "unappetizing meal",
+    "poor presentation"
+  ]
+}

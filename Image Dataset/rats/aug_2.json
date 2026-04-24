@@ -1,0 +1,15 @@
+{
+  "image_id": "aug_2.jpg",
+  "category": "Rats / Rodent Infestation",
+  "folder": "rats",
+  "severity": "critical",
+  "department": "General / Pest Control",
+  "refined_caption": "A rodent is visible in the hospital room, with a person present in the background. The rodent appears to be roaming freely.",
+  "complaint_description": "I was shocked to see a rat in my hospital room while I was visiting a patient. The rodent was running around on the floor and it was very disturbing. This is unacceptable in a healthcare setting.",
+  "voice_text": "There's a rat in the hospital room, it's just walking around on the floor. This is disgusting and something needs to be done about it.",
+  "tags": [
+    "rodent infestation",
+    "hospital room",
+    "pest control"
+  ]
+}

@@ -1,0 +1,3261 @@
+[
+  {
+    "image_id": "aug_1.jpg",
+    "category": "Broken Hospital Bed",
+    "folder": "broken_hospital_bed",
+    "severity": "high",
+    "department": "General Ward",
+    "refined_caption": "The hospital bed appears to be broken or damaged, with visible signs of wear and tear. The surrounding area is also in disarray, with graffiti on the walls.",
+    "complaint_description": "I was shocked to see a broken hospital bed in one of the rooms, which is a serious concern for patient safety and comfort. The bed was clearly damaged and unusable, and the overall condition of the room was unacceptable. This is not the kind of environment I expect to see in a hospital.",
+    "voice_text": "There's a broken hospital bed in one of the rooms, it's really concerning. The whole room looks like it's been abandoned and vandalized.",
+    "tags": [
+      "broken_bed",
+      "hospital_safety",
+      "patient_comfort"
+    ]
+  },
+  {
+    "image_id": "aug_10.jpg",
+    "category": "Broken Hospital Bed",
+    "folder": "broken_hospital_bed",
+    "severity": "high",
+    "department": "General Ward",
+    "refined_caption": "The hospital bed appears to be damaged, with a stripped sheet on it. The bed frame is visibly broken.",
+    "complaint_description": "I was assigned to a room with a broken hospital bed, which is unacceptable. The bed has a stripped sheet and the frame is damaged, making it unusable. This is a serious concern for patient safety and comfort.",
+    "voice_text": "The bed in my room is broken, it's got a stripped sheet and the frame is all messed up.",
+    "tags": [
+      "hospital_equipment",
+      "patient_safety",
+      "maintenance_issue"
+    ]
+  },
+  {
+    "image_id": "aug_11.jpg",
+    "category": "Broken Hospital Bed",
+    "folder": "broken_hospital_bed",
+    "severity": "high",
+    "department": "General Ward",
+    "refined_caption": "The hospital bed appears to be broken or damaged, with visible signs of wear and tear. A man is standing next to it in a dimly lit room.",
+    "complaint_description": "I was shocked to see a broken hospital bed in one of the rooms, it looks like it hasn't been maintained properly. The bed is damaged and the room is not well lit, which is concerning for patient safety. I hope the hospital takes immediate action to replace the bed and improve the overall condition of the room.",
+    "voice_text": "There's a broken hospital bed in one of the rooms, it's really concerning. The room is also really dark, I don't think it's safe for patients.",
+    "tags": [
+      "hospital_bed",
+      "broken_equipment",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "aug_12.jpg",
+    "category": "Broken Hospital Bed",
+    "folder": "broken_hospital_bed",
+    "severity": "high",
+    "department": "General Ward",
+    "refined_caption": "The hospital bed appears to be damaged, with visible signs of wear and tear. The bed's frame is broken, indicating a need for repair or replacement.",
+    "complaint_description": "I was shocked to see the state of the hospital bed in my room, it's clearly broken and looks like it hasn't been maintained in a long time. As a patient, I'm concerned about my safety and comfort. The hospital should provide a functional and clean bed for all patients.",
+    "voice_text": "The bed in my hospital room is broken, it's really worn out and looks unsafe. Can someone please fix or replace it?",
+    "tags": [
+      "hospital_bed",
+      "broken_equipment",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "aug_2.jpg",
+    "category": "Broken Hospital Bed",
+    "folder": "broken_hospital_bed",
+    "severity": "high",
+    "department": "General Ward",
+    "refined_caption": "The hospital bed appears to be damaged, with visible signs of wear and tear. The room also looks run down.",
+    "complaint_description": "I was shocked to see the state of the hospital bed in my room, it's clearly broken and looks like it hasn't been maintained in a while. The room itself is also in a poor condition, which is unacceptable for a healthcare facility. I'm worried about my safety and comfort during my stay.",
+    "voice_text": "The bed in my hospital room is all broken and the room is a mess, it's really concerning.",
+    "tags": [
+      "hospital_bed",
+      "maintenance",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "aug_3.jpg",
+    "category": "Broken Hospital Bed",
+    "folder": "broken_hospital_bed",
+    "severity": "high",
+    "department": "General Ward",
+    "refined_caption": "The hospital bed appears to be broken or damaged, with visible signs of wear and tear in a run-down room.",
+    "complaint_description": "I was shocked to see the state of the hospital bed in my room, it's clearly broken and looks like it hasn't been maintained in a while. The room itself also looks run down, which is concerning for a place where patients are supposed to recover. I'm worried about the safety and hygiene of this environment.",
+    "voice_text": "The bed in my hospital room is all broken and the room looks really run down, I'm worried about my safety here.",
+    "tags": [
+      "hospital_bed",
+      "broken_equipment",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "aug_4.jpg",
+    "category": "Broken Hospital Bed",
+    "folder": "broken_hospital_bed",
+    "severity": "high",
+    "department": "General Ward",
+    "refined_caption": "The hospital bed appears to be damaged, with visible signs of breakage. It is sitting on a plain surface, unusable in its current state.",
+    "complaint_description": "I was shocked to see a broken hospital bed just sitting in the room, it looks like it's been that way for a while. As a patient, I'm concerned about the safety and cleanliness of the hospital. This broken bed is not only an eyesore, but it's also a hazard.",
+    "voice_text": "There's a broken hospital bed just sitting here, it's really concerning. Can someone please fix or remove it?",
+    "tags": [
+      "hospital_equipment",
+      "patient_safety",
+      "maintenance_issue"
+    ]
+  },
+  {
+    "image_id": "aug_5.jpg",
+    "category": "Broken Hospital Bed",
+    "folder": "broken_hospital_bed",
+    "severity": "high",
+    "department": "General Ward",
+    "refined_caption": "The hospital bed is broken or damaged and appears to be in a state of disrepair. The surrounding area has graffiti on the walls.",
+    "complaint_description": "I was shocked to see a broken hospital bed in one of the rooms, it looks like it has been out of order for a while. The condition of the bed and the room is unacceptable, it's not hygienic and doesn't give me confidence in the hospital's ability to provide proper care. I hope this can be addressed as soon as possible.",
+    "voice_text": "There's a broken hospital bed in one of the rooms, it's really run down and has graffiti all over the walls.",
+    "tags": [
+      "hospital_equipment",
+      "maintenance",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "aug_6.jpg",
+    "category": "Broken Hospital Bed",
+    "folder": "broken_hospital_bed",
+    "severity": "high",
+    "department": "General Ward",
+    "refined_caption": "The hospital bed appears to be damaged, with visible signs of wear and tear. The room also looks run down.",
+    "complaint_description": "I was shocked to see the state of the hospital bed in my room, it's clearly broken and looks like it hasn't been maintained in a while. The room itself is also in a poor condition, which is unacceptable for a healthcare facility. I'm worried about the safety and hygiene of the environment.",
+    "voice_text": "The bed in my hospital room is all broken and the room is a mess, it's really concerning.",
+    "tags": [
+      "hospital_bed",
+      "broken_equipment",
+      "poor_maintenance"
+    ]
+  },
+  {
+    "image_id": "aug_7.jpg",
+    "category": "Broken Hospital Bed",
+    "folder": "broken_hospital_bed",
+    "severity": "high",
+    "department": "General Ward",
+    "refined_caption": "The hospital bed appears to be damaged, with visible signs of wear and tear. The bed's frame is broken, rendering it unusable.",
+    "complaint_description": "I was shocked to see the state of the hospital bed in my room, it's completely broken and I'm not sure how I'm supposed to rest. The bed's condition is not only uncomfortable but also poses a risk to patient safety. I request that it be replaced immediately.",
+    "voice_text": "The hospital bed in my room is broken, can someone please fix it or replace it?",
+    "tags": [
+      "hospital_equipment",
+      "patient_safety",
+      "maintenance_issue"
+    ]
+  },
+  {
+    "image_id": "aug_8.jpg",
+    "category": "Broken Hospital Bed",
+    "folder": "broken_hospital_bed",
+    "severity": "high",
+    "department": "General Ward",
+    "refined_caption": "The hospital bed appears to be damaged and is sitting in an abandoned room. The bed's frame is visibly broken.",
+    "complaint_description": "I was shocked to see a broken hospital bed just sitting in an abandoned room. This is a serious safety concern and it's unacceptable that it's been left unattended. The hospital should take immediate action to repair or replace the bed.",
+    "voice_text": "There's a broken hospital bed just sitting in a room, it's really concerning. Someone should fix it ASAP.",
+    "tags": [
+      "broken_bed",
+      "hospital_equipment",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "aug_9.jpg",
+    "category": "Broken Hospital Bed",
+    "folder": "broken_hospital_bed",
+    "severity": "high",
+    "department": "General Ward",
+    "refined_caption": "The hospital bed appears to be broken or damaged, with visible signs of wear and tear in a run-down room.",
+    "complaint_description": "I was shocked to see the state of the hospital bed in my room, it's clearly broken and hasn't been replaced. The room itself looks like it hasn't been maintained in a while, which is really concerning for patient care. I'm worried about the safety and hygiene of this environment.",
+    "voice_text": "There's a broken bed in my hospital room, it's really run down in here.",
+    "tags": [
+      "hospital_bed",
+      "broken_equipment",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "img_1.jpg",
+    "category": "Broken Hospital Bed",
+    "folder": "broken_hospital_bed",
+    "severity": "high",
+    "department": "General Ward",
+    "refined_caption": "The hospital bed appears to be broken or damaged, with visible signs of wear and tear. The surrounding area is also in disarray with graffiti on the walls.",
+    "complaint_description": "I was shocked to see a broken hospital bed in one of the rooms, it looks like it has been out of order for a while. The condition of the bed and the room is unacceptable, it's a health and safety hazard. I'm concerned about the overall maintenance and upkeep of the hospital.",
+    "voice_text": "There's a broken hospital bed in one of the rooms, it's really run down and looks like it's been that way for a while.",
+    "tags": [
+      "broken_bed",
+      "hospital_maintenance",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "img_10.jpg",
+    "category": "Broken Hospital Bed",
+    "folder": "broken_hospital_bed",
+    "severity": "high",
+    "department": "General Ward",
+    "refined_caption": "The hospital bed appears to be damaged, with visible signs of wear and tear. The bed's frame is broken, indicating a need for immediate repair or replacement.",
+    "complaint_description": "I was shocked to see the state of the hospital bed in my room, it's clearly broken and looks like it hasn't been maintained in a while. As a patient, I'm concerned about my safety and comfort. The hospital should provide a decent and functional bed for its patients.",
+    "voice_text": "The bed in my hospital room is totally broken, it's really uncomfortable and I'm worried about my safety.",
+    "tags": [
+      "broken_bed",
+      "hospital_maintenance",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "img_11.jpg",
+    "category": "Broken Hospital Bed",
+    "folder": "broken_hospital_bed",
+    "severity": "high",
+    "department": "General Ward",
+    "refined_caption": "A hospital bed appears to be broken or damaged, with a man standing next to it in a dark room. The bed's condition is visibly compromised.",
+    "complaint_description": "I was assigned to a room with a broken hospital bed, which is unacceptable for a place that's supposed to provide care and comfort. The bed looks like it has been damaged for a while, and it's surprising that it hasn't been replaced or repaired yet. This is a serious concern for patient safety and well-being.",
+    "voice_text": "There's a broken bed in my hospital room, it's really concerning and I don't think it's safe to use.",
+    "tags": [
+      "hospital_equipment",
+      "patient_safety",
+      "maintenance_issue"
+    ]
+  },
+  {
+    "image_id": "img_12.jpg",
+    "category": "Broken Hospital Bed",
+    "folder": "broken_hospital_bed",
+    "severity": "high",
+    "department": "General Ward",
+    "refined_caption": "The hospital bed appears to be broken or damaged, with visible signs of wear and tear in a run-down room.",
+    "complaint_description": "I was shocked to see the state of the hospital bed in my room, it's clearly broken and looks like it hasn't been maintained in a while. The room itself is also in a poor condition, which is concerning for patient care. I'm worried about the safety and hygiene of the environment.",
+    "voice_text": "The bed in my hospital room is broken, it's really run down in here.",
+    "tags": [
+      "broken_bed",
+      "hospital_maintenance",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "img_13.jpg",
+    "category": "Broken Hospital Bed",
+    "folder": "broken_hospital_bed",
+    "severity": "high",
+    "department": "General Ward",
+    "refined_caption": "The hospital bed appears to be damaged, with visible signs of wear and tear. The bed frame is broken, indicating a need for immediate repair or replacement.",
+    "complaint_description": "I was shocked to see the state of the hospital bed in my room, it's clearly broken and looks like it hasn't been maintained in a long time. As a patient, I'm concerned about my safety and comfort. The hospital should provide a decent and functional bed for its patients.",
+    "voice_text": "The bed in my hospital room is broken, it's really uncomfortable and I'm worried about my safety.",
+    "tags": [
+      "broken_bed",
+      "hospital_maintenance",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "img_14.jpg",
+    "category": "Broken Hospital Bed",
+    "folder": "broken_hospital_bed",
+    "severity": "high",
+    "department": "General Ward",
+    "refined_caption": "The hospital bed appears to be broken or damaged, with visible signs of wear and tear. It is no longer in a usable condition.",
+    "complaint_description": "I was shocked to see the state of the hospital bed in my room, it's clearly broken and hasn't been replaced. As a patient, I'm concerned about my safety and comfort. The hospital should provide a functional bed for its patients.",
+    "voice_text": "There's a broken bed in my hospital room, it's really worn out and I don't think it's safe to use.",
+    "tags": [
+      "hospital_equipment",
+      "patient_safety",
+      "maintenance_issue"
+    ]
+  },
+  {
+    "image_id": "img_2.jpg",
+    "category": "Broken Hospital Bed",
+    "folder": "broken_hospital_bed",
+    "severity": "high",
+    "department": "General Ward",
+    "refined_caption": "A hospital bed appears to be broken or damaged, with visible signs of wear and tear. The bed is located in an abandoned area with graffiti on the walls.",
+    "complaint_description": "I was shocked to see a broken hospital bed in one of the rooms, it looks like it has been out of order for a while. The condition of the bed and the surrounding area is unacceptable, it's a health and safety hazard. I'm concerned about the overall maintenance and upkeep of the hospital.",
+    "voice_text": "There's a broken hospital bed in one of the rooms, it's really run down and looks like it's been abandoned. The whole area is a mess, it's not what you'd expect from a hospital.",
+    "tags": [
+      "broken_bed",
+      "hospital_maintenance",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "img_3.jpg",
+    "category": "Broken Hospital Bed",
+    "folder": "broken_hospital_bed",
+    "severity": "high",
+    "department": "General Ward",
+    "refined_caption": "A hospital bed appears to be damaged, with visible signs of disrepair. The bed is sitting in a room with a window.",
+    "complaint_description": "I was assigned to a room with a broken hospital bed, which is unacceptable for a place of healing. The bed looks like it has been damaged for some time and I'm concerned about my safety and comfort during my stay. I request that the bed be replaced or repaired immediately.",
+    "voice_text": "There's a broken bed in my hospital room, can someone please fix it or move me to a different room?",
+    "tags": [
+      "hospital_equipment",
+      "patient_safety",
+      "maintenance_issue"
+    ]
+  },
+  {
+    "image_id": "img_4.jpg",
+    "category": "Broken Hospital Bed",
+    "folder": "broken_hospital_bed",
+    "severity": "high",
+    "department": "General Ward",
+    "refined_caption": "The hospital bed appears to be damaged, with visible signs of wear and tear. A blanket is draped over the bed.",
+    "complaint_description": "I was assigned to a room with a broken hospital bed, which is unacceptable for a place of healing. The bed looks like it has been damaged for a while and it's surprising that it hasn't been replaced yet. This is a serious concern for patient safety and comfort.",
+    "voice_text": "There's a broken bed in my hospital room, it's really worn out and has a blanket just thrown on it.",
+    "tags": [
+      "hospital_equipment",
+      "patient_safety",
+      "maintenance_issue"
+    ]
+  },
+  {
+    "image_id": "img_5.jpg",
+    "category": "Broken Hospital Bed",
+    "folder": "broken_hospital_bed",
+    "severity": "high",
+    "department": "General Ward",
+    "refined_caption": "The hospital bed appears to be broken or damaged, with visible signs of wear and tear in a run-down room.",
+    "complaint_description": "I was shocked to see the state of the hospital bed in my room, it's clearly broken and looks like it hasn't been maintained in a while. The room itself is also in a poor condition, which is concerning for patient care. I'm worried about the safety and hygiene of the environment.",
+    "voice_text": "The bed in my hospital room is broken, it's really worn out and the whole room looks like it needs a renovation.",
+    "tags": [
+      "hospital_equipment",
+      "patient_safety",
+      "maintenance_issues"
+    ]
+  },
+  {
+    "image_id": "img_6.jpg",
+    "category": "Broken Hospital Bed",
+    "folder": "broken_hospital_bed",
+    "severity": "high",
+    "department": "General Ward",
+    "refined_caption": "The hospital bed appears to be damaged, with visible signs of wear and tear. The surrounding room also looks run down.",
+    "complaint_description": "I was shocked to see the state of the hospital bed in my room, it's clearly broken and looks like it hasn't been maintained in a while. The room itself is also in a poor condition, which is concerning for a place where patients are supposed to recover. I'm worried about the safety and hygiene of this environment.",
+    "voice_text": "The bed in my hospital room is all broken and the room is a mess, it's really worrying.",
+    "tags": [
+      "hospital_bed",
+      "broken_equipment",
+      "poor_maintenance"
+    ]
+  },
+  {
+    "image_id": "img_7.jpg",
+    "category": "Broken Hospital Bed",
+    "folder": "broken_hospital_bed",
+    "severity": "high",
+    "department": "General Ward",
+    "refined_caption": "A hospital bed is visibly damaged and sitting in a room that appears to have been burned. The bed's frame is broken and its mattress is exposed.",
+    "complaint_description": "I was shocked to see a broken hospital bed in one of the rooms, it looks like it's been through a fire. The bed is clearly unusable and it's a serious concern for patient safety. I hope the hospital takes immediate action to replace it.",
+    "voice_text": "There's a broken hospital bed in one of the rooms, it looks like it's been burned or something. It's really concerning, someone should fix it ASAP.",
+    "tags": [
+      "hospital_bed",
+      "broken_equipment",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "img_8.jpg",
+    "category": "Broken Hospital Bed",
+    "folder": "broken_hospital_bed",
+    "severity": "high",
+    "department": "General Ward",
+    "refined_caption": "The hospital bed appears to be damaged, with a stripped sheet on it. The bed's frame is visibly broken.",
+    "complaint_description": "I was shocked to see the state of the hospital bed in my room, it's broken and the sheet is all torn. I'm worried about my safety and comfort during my stay. The hospital should provide a decent bed for patients to recover.",
+    "voice_text": "The bed in my room is all broken, can someone please fix it or get me a new one?",
+    "tags": [
+      "hospital_bed",
+      "broken_furniture",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "img_9.jpg",
+    "category": "Broken Hospital Bed",
+    "folder": "broken_hospital_bed",
+    "severity": "high",
+    "department": "General Ward",
+    "refined_caption": "A hospital bed is visibly damaged and broken, with graffiti on the surrounding walls. The room appears to be abandoned.",
+    "complaint_description": "I was shocked to see a broken hospital bed in one of the rooms, which not only looks unhygienic but also raises concerns about patient safety. The room was also covered in graffiti, giving an overall impression of neglect. This is unacceptable for a healthcare facility.",
+    "voice_text": "There's a broken bed in one of the rooms, it's really concerning. The whole room looks abandoned and has graffiti everywhere.",
+    "tags": [
+      "hospital_equipment",
+      "patient_safety",
+      "facility_maintenance"
+    ]
+  },
+  {
+    "image_id": "img_1.jpg",
+    "category": "Crowded Hospital Waiting Room",
+    "folder": "crowded_hospital_waiting_room",
+    "severity": "medium",
+    "department": "OPD / Waiting Area",
+    "refined_caption": "The hospital waiting room is overcrowded with multiple patients waiting. There are limited seats available.",
+    "complaint_description": "I visited the hospital for my appointment and was shocked to see the waiting room overcrowded with patients. The lack of seating and space made it uncomfortable for everyone. It seems like the hospital is not managing its patient flow efficiently.",
+    "voice_text": "The waiting room is super crowded, there's barely any space to sit. It's really uncomfortable.",
+    "tags": [
+      "overcrowding",
+      "waiting_room",
+      "seating_issue"
+    ]
+  },
+  {
+    "image_id": "img_10.jpg",
+    "category": "Crowded Hospital Waiting Room",
+    "folder": "crowded_hospital_waiting_room",
+    "severity": "medium",
+    "department": "OPD / Waiting Area",
+    "refined_caption": "The hospital waiting room is crowded with patients and medical staff, with many people wearing face masks. The room appears to be filled beyond its capacity.",
+    "complaint_description": "I visited the hospital today and was shocked to see the waiting room overcrowded with patients and staff. It was difficult to maintain social distancing and I felt uncomfortable waiting for my appointment. The hospital should consider improving the waiting area to accommodate more patients comfortably.",
+    "voice_text": "The waiting room is super crowded, it's really uncomfortable and hard to social distance with so many people around.",
+    "tags": [
+      "overcrowding",
+      "waiting_room",
+      "social_distancing"
+    ]
+  },
+  {
+    "image_id": "img_11.jpg",
+    "category": "Crowded Hospital Waiting Room",
+    "folder": "crowded_hospital_waiting_room",
+    "severity": "medium",
+    "department": "OPD / Waiting Area",
+    "refined_caption": "The hospital waiting room is overcrowded with patients and medical staff. There are many people standing or sitting in close proximity to each other.",
+    "complaint_description": "I visited the hospital today and was shocked to see the waiting room packed with people. It was difficult to find a seat and the atmosphere was uncomfortable. The overcrowding made me anxious about my health and safety.",
+    "voice_text": "The waiting room is super crowded, it's really uncomfortable. I'm worried about getting sick with all these people around me",
+    "tags": [
+      "overcrowding",
+      "waiting_room",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "img_12.jpg",
+    "category": "Crowded Hospital Waiting Room",
+    "folder": "crowded_hospital_waiting_room",
+    "severity": "medium",
+    "department": "OPD / Waiting Area",
+    "refined_caption": "The hospital waiting room is overcrowded with patients sitting on the floor due to insufficient seating. The room appears to be filled beyond its capacity.",
+    "complaint_description": "I visited the hospital today and was shocked to see the waiting room in such a state. There were not enough chairs for all the patients, and many were forced to sit on the floor. This is not only uncomfortable but also unhygienic and stressful for those waiting to receive medical attention.",
+    "voice_text": "The waiting room is super crowded, people are sitting on the floor because there aren't enough seats.",
+    "tags": [
+      "overcrowding",
+      "insufficient_seating",
+      "patient_comfort"
+    ]
+  },
+  {
+    "image_id": "img_13.jpg",
+    "category": "Crowded Hospital Waiting Room",
+    "folder": "crowded_hospital_waiting_room",
+    "severity": "medium",
+    "department": "OPD / Waiting Area",
+    "refined_caption": "The hospital waiting room is crowded with multiple patients waiting. There is limited seating available.",
+    "complaint_description": "I had to wait for over an hour to see the doctor and the waiting room was extremely crowded. There were not enough seats for all the patients, and many of us had to stand. This made the waiting experience very uncomfortable.",
+    "voice_text": "The waiting room is super crowded, I've been standing here for over an hour waiting to see the doctor.",
+    "tags": [
+      "crowded",
+      "waiting_room",
+      "seating_issue"
+    ]
+  },
+  {
+    "image_id": "img_14.jpg",
+    "category": "Crowded Hospital Waiting Room",
+    "folder": "crowded_hospital_waiting_room",
+    "severity": "medium",
+    "department": "OPD / Waiting Area",
+    "refined_caption": "The hospital waiting room is overcrowded with patients sitting on the floor. There is a lack of available seating.",
+    "complaint_description": "I visited the hospital today and was shocked to see the waiting room was extremely crowded, with many patients forced to sit on the floor. This is not only uncomfortable but also unsanitary. The hospital should provide more seating and improve the waiting area conditions.",
+    "voice_text": "The waiting room is super crowded, people are sitting on the floor, it's really uncomfortable and not clean.",
+    "tags": [
+      "overcrowding",
+      "insufficient_seating",
+      "waiting_area_issues"
+    ]
+  },
+  {
+    "image_id": "img_15.jpg",
+    "category": "Crowded Hospital Waiting Room",
+    "folder": "crowded_hospital_waiting_room",
+    "severity": "medium",
+    "department": "OPD / Waiting Area",
+    "refined_caption": "The hospital waiting room is crowded with multiple patients waiting in line. There appears to be a lack of available seating.",
+    "complaint_description": "I visited the hospital today and was shocked to see how crowded the waiting room was. There were many patients waiting in line, and it seemed like there weren't enough seats for everyone. This made the wait feel even longer and more uncomfortable.",
+    "voice_text": "The waiting room is super crowded, there's barely any seats available. It's really uncomfortable to wait here.",
+    "tags": [
+      "crowded",
+      "waiting_room",
+      "seating_issue"
+    ]
+  },
+  {
+    "image_id": "img_16.jpg",
+    "category": "Crowded Hospital Waiting Room",
+    "folder": "crowded_hospital_waiting_room",
+    "severity": "medium",
+    "department": "OPD / Waiting Area",
+    "refined_caption": "The hospital waiting room is overcrowded with patients sitting on the floor. There is a lack of available seating.",
+    "complaint_description": "I visited the hospital today and was shocked to see the waiting room was extremely crowded. Patients, including the elderly, were forced to sit on the floor due to the lack of available seating. This is unacceptable and uncomfortable for those waiting to receive medical attention.",
+    "voice_text": "The waiting room is super crowded, people are sitting on the floor, it's really uncomfortable.",
+    "tags": [
+      "overcrowding",
+      "insufficient_seating",
+      "patient_discomfort"
+    ]
+  },
+  {
+    "image_id": "img_17.jpg",
+    "category": "Crowded Hospital Waiting Room",
+    "folder": "crowded_hospital_waiting_room",
+    "severity": "medium",
+    "department": "OPD / Waiting Area",
+    "refined_caption": "The hospital waiting room is overcrowded with patients sleeping on the floor. There is a lack of available seating.",
+    "complaint_description": "I visited the hospital today and was shocked to see the waiting room in such a state. Patients, including the elderly, were forced to sleep on the floor due to the lack of seating. This is unacceptable and highlights the need for better waiting area management.",
+    "voice_text": "The waiting room is super crowded, people are even sleeping on the floor, it's really bad.",
+    "tags": [
+      "overcrowding",
+      "waiting_room",
+      "seating_shortage"
+    ]
+  },
+  {
+    "image_id": "img_18.jpg",
+    "category": "Crowded Hospital Waiting Room",
+    "folder": "crowded_hospital_waiting_room",
+    "severity": "medium",
+    "department": "OPD / Waiting Area",
+    "refined_caption": "The hospital waiting room is crowded with many patients and medical staff. There appears to be limited seating available.",
+    "complaint_description": "I visited the hospital today and was shocked to see how crowded the waiting room was. There were not enough seats for all the patients and their families, and it was very uncomfortable. The staff seemed overwhelmed with the number of people waiting.",
+    "voice_text": "The waiting room is super crowded, there's barely any seats left. It's really uncomfortable in here.",
+    "tags": [
+      "crowded",
+      "waiting_room",
+      "overcrowding"
+    ]
+  },
+  {
+    "image_id": "img_19.jpg",
+    "category": "Crowded Hospital Waiting Room",
+    "folder": "crowded_hospital_waiting_room",
+    "severity": "medium",
+    "department": "OPD / Waiting Area",
+    "refined_caption": "The hospital waiting room is overcrowded with multiple patients and medical staff present. There is limited seating available.",
+    "complaint_description": "I visited the hospital today and was shocked to see the waiting room packed with people. There were not enough seats for everyone, and it was difficult to move around. This made my waiting experience very uncomfortable.",
+    "voice_text": "The waiting room is super crowded, I had to stand for a long time because there were no seats available.",
+    "tags": [
+      "overcrowding",
+      "waiting_room",
+      "seating_issue"
+    ]
+  },
+  {
+    "image_id": "img_2.jpg",
+    "category": "Crowded Hospital Waiting Room",
+    "folder": "crowded_hospital_waiting_room",
+    "severity": "medium",
+    "department": "OPD / Waiting Area",
+    "refined_caption": "The hospital waiting room is crowded with multiple patients waiting. There are many people seated and some standing, indicating a high volume of patients.",
+    "complaint_description": "I visited the hospital today and was shocked to see how crowded the waiting room was. There were not enough seats for all the patients, and many were left standing for a long time. This is very uncomfortable and frustrating for those who are already not feeling well.",
+    "voice_text": "The waiting room is super crowded, there's nowhere to sit and people are standing all over the place.",
+    "tags": [
+      "crowded",
+      "waiting_room",
+      "hospital"
+    ]
+  },
+  {
+    "image_id": "img_20.jpg",
+    "category": "Crowded Hospital Waiting Room",
+    "folder": "crowded_hospital_waiting_room",
+    "severity": "medium",
+    "department": "OPD / Waiting Area",
+    "refined_caption": "The hospital waiting room is overcrowded with multiple patients waiting. There is limited seating available.",
+    "complaint_description": "I visited the hospital today and was shocked to see how crowded the waiting room was. There were not enough seats for all the patients, and many were standing or sitting on the floor. This is really uncomfortable and unhygienic.",
+    "voice_text": "The waiting room is super crowded, there's nowhere to sit. It's really uncomfortable.",
+    "tags": [
+      "overcrowding",
+      "waiting_room",
+      "seating_issue"
+    ]
+  },
+  {
+    "image_id": "img_21.jpg",
+    "category": "Crowded Hospital Waiting Room",
+    "folder": "crowded_hospital_waiting_room",
+    "severity": "medium",
+    "department": "OPD / Waiting Area",
+    "refined_caption": "The hospital waiting room is overcrowded with multiple patients waiting. There appears to be a lack of available seating.",
+    "complaint_description": "I visited the hospital today and was shocked to see how crowded the waiting room was. There were not enough seats for all the patients, and many were left standing or sitting on the floor. This is not only uncomfortable but also unsanitary.",
+    "voice_text": "The waiting room is super crowded, there's nowhere to sit. It's really uncomfortable and doesn't feel very clean.",
+    "tags": [
+      "overcrowding",
+      "waiting_room",
+      "seating"
+    ]
+  },
+  {
+    "image_id": "img_22.jpg",
+    "category": "Crowded Hospital Waiting Room",
+    "folder": "crowded_hospital_waiting_room",
+    "severity": "medium",
+    "department": "OPD / Waiting Area",
+    "refined_caption": "The hospital waiting room is overcrowded with patients and medical staff. There are many people standing or sitting in close proximity.",
+    "complaint_description": "I visited the hospital today and was shocked to see the waiting room packed with people. It was difficult to find a seat and the atmosphere was uncomfortable. The overcrowding made me anxious about the risk of infection.",
+    "voice_text": "The waiting room is super crowded, it's really uncomfortable and I'm worried about getting sick.",
+    "tags": [
+      "overcrowding",
+      "waiting_room",
+      "infection_risk"
+    ]
+  },
+  {
+    "image_id": "img_23.jpg",
+    "category": "Crowded Hospital Waiting Room",
+    "folder": "crowded_hospital_waiting_room",
+    "severity": "medium",
+    "department": "OPD / Waiting Area",
+    "refined_caption": "The hospital waiting room is crowded with multiple patients and medical staff, all wearing face masks. The room appears to be filled beyond its capacity.",
+    "complaint_description": "I visited the hospital today and was shocked to see the waiting room overcrowded with patients and staff. It was difficult to maintain social distancing and I felt uncomfortable waiting for my appointment. The hospital should consider managing the crowd better to prevent the spread of infections.",
+    "voice_text": "The waiting room is super crowded, it's really uncomfortable and I'm worried about getting sick. They should do something about it.",
+    "tags": [
+      "overcrowding",
+      "waiting_room",
+      "infection_control"
+    ]
+  },
+  {
+    "image_id": "img_24.jpg",
+    "category": "Crowded Hospital Waiting Room",
+    "folder": "crowded_hospital_waiting_room",
+    "severity": "medium",
+    "department": "OPD / Waiting Area",
+    "refined_caption": "The hospital waiting room is overcrowded with patients and medical personnel, with limited seating available. The room appears to be congested.",
+    "complaint_description": "I visited the hospital today and was shocked to see the waiting room packed with people. There were not enough seats for everyone, and it was difficult to move around. The overcrowding made me feel uncomfortable and worried about my health.",
+    "voice_text": "The waiting room is super crowded, I had to stand for a while before I could even get a seat. It's really uncomfortable and feels unsanitary.",
+    "tags": [
+      "overcrowding",
+      "waiting_room",
+      "hospital"
+    ]
+  },
+  {
+    "image_id": "img_25.jpg",
+    "category": "Crowded Hospital Waiting Room",
+    "folder": "crowded_hospital_waiting_room",
+    "severity": "medium",
+    "department": "OPD / Waiting Area",
+    "refined_caption": "The hospital waiting room is overcrowded with patients and medical staff. There are many people standing or sitting in close proximity to each other.",
+    "complaint_description": "I visited the hospital today and was shocked to see how crowded the waiting room was. There were not enough seats for all the patients and their families, and the staff seemed overwhelmed. This made it difficult for me to get the help I needed in a timely manner.",
+    "voice_text": "The waiting room is super crowded, it's really uncomfortable and hard to get help.",
+    "tags": [
+      "overcrowding",
+      "waiting_room",
+      "hospital"
+    ]
+  },
+  {
+    "image_id": "img_26.jpg",
+    "category": "Crowded Hospital Waiting Room",
+    "folder": "crowded_hospital_waiting_room",
+    "severity": "medium",
+    "department": "OPD / Waiting Area",
+    "refined_caption": "The hospital waiting room is overcrowded with patients and medical staff. There are many people standing or sitting in close proximity to each other.",
+    "complaint_description": "I visited the hospital today and was shocked to see how crowded the waiting room was. There were not enough seats for all the patients and their families, and the staff seemed overwhelmed. This made it difficult for me to get the help I needed in a timely manner.",
+    "voice_text": "The waiting room is super crowded, it's really uncomfortable and hard to get help.",
+    "tags": [
+      "overcrowding",
+      "waiting_room",
+      "hospital"
+    ]
+  },
+  {
+    "image_id": "img_3.jpg",
+    "category": "Crowded Hospital Waiting Room",
+    "folder": "crowded_hospital_waiting_room",
+    "severity": "medium",
+    "department": "OPD / Waiting Area",
+    "refined_caption": "The hospital waiting room is overcrowded with multiple patients waiting for their appointments. There are many people standing or sitting in close proximity to each other.",
+    "complaint_description": "I visited the hospital for my appointment and was shocked to see the waiting room was extremely crowded. There were not enough seats for all the patients, and many were standing or sitting on the floor. This made me feel uncomfortable and worried about the risk of infection.",
+    "voice_text": "The waiting room is super crowded, I had to stand for a while before I could even get a seat. It's really uncomfortable and I'm worried about getting sick.",
+    "tags": [
+      "overcrowding",
+      "waiting_room",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "img_4.jpg",
+    "category": "Crowded Hospital Waiting Room",
+    "folder": "crowded_hospital_waiting_room",
+    "severity": "medium",
+    "department": "OPD / Waiting Area",
+    "refined_caption": "The hospital waiting room is overcrowded with multiple patients waiting. There is limited seating available.",
+    "complaint_description": "I visited the hospital today and was shocked to see how crowded the waiting room was. There were not enough seats for all the patients, and many were standing or sitting on the floor. This made the waiting experience very uncomfortable and unhygienic.",
+    "voice_text": "The waiting room is super crowded, there's nowhere to sit. It's really uncomfortable and doesn't feel very clean.",
+    "tags": [
+      "overcrowding",
+      "waiting_room",
+      "seating_issue"
+    ]
+  },
+  {
+    "image_id": "img_5.jpg",
+    "category": "Crowded Hospital Waiting Room",
+    "folder": "crowded_hospital_waiting_room",
+    "severity": "medium",
+    "department": "OPD / Waiting Area",
+    "refined_caption": "The hospital waiting room is crowded with patients seated in chairs, and a man is sitting in the middle of the room. The room appears to be filled beyond its capacity.",
+    "complaint_description": "I visited the hospital today and was shocked to see the waiting room was extremely crowded. There were not enough seats for all the patients, and some were even sitting on the floor. This is not only uncomfortable but also unhygienic.",
+    "voice_text": "The waiting room is super crowded, there's barely any space to sit. It's really uncomfortable and doesn't feel very clean.",
+    "tags": [
+      "crowded",
+      "waiting_room",
+      "hospital"
+    ]
+  },
+  {
+    "image_id": "img_6.jpg",
+    "category": "Crowded Hospital Waiting Room",
+    "folder": "crowded_hospital_waiting_room",
+    "severity": "medium",
+    "department": "OPD / Waiting Area",
+    "refined_caption": "The hospital waiting room is crowded with multiple patients seated in chairs. A man in a protective suit is also present.",
+    "complaint_description": "I visited the hospital today and was shocked to see the waiting room overcrowded with patients. There were not enough chairs for everyone, and it was difficult to maintain social distancing. The atmosphere was uncomfortable and stressful.",
+    "voice_text": "The waiting room is super crowded, it's really uncomfortable. I don't feel safe with so many people around.",
+    "tags": [
+      "overcrowding",
+      "waiting_room",
+      "social_distancing"
+    ]
+  },
+  {
+    "image_id": "img_7.jpg",
+    "category": "Crowded Hospital Waiting Room",
+    "folder": "crowded_hospital_waiting_room",
+    "severity": "medium",
+    "department": "OPD / Waiting Area",
+    "refined_caption": "The hospital waiting room is overcrowded with patients waiting in line. There are many people standing and sitting, indicating a lack of available seating.",
+    "complaint_description": "I visited the hospital today and was shocked to see how crowded the waiting room was. There were not enough seats for all the patients, and many were forced to stand or sit on the floor. This made the waiting experience very uncomfortable and frustrating.",
+    "voice_text": "The waiting room is super crowded, there's nowhere to sit. It's really uncomfortable and frustrating to wait like this.",
+    "tags": [
+      "crowded",
+      "waiting_room",
+      "overcrowding"
+    ]
+  },
+  {
+    "image_id": "img_8.jpg",
+    "category": "Crowded Hospital Waiting Room",
+    "folder": "crowded_hospital_waiting_room",
+    "severity": "medium",
+    "department": "OPD / Waiting Area",
+    "refined_caption": "The hospital waiting room is overcrowded with multiple patients waiting for their appointments. There are limited seats available.",
+    "complaint_description": "I visited the hospital for my appointment and was shocked to see the waiting room packed with patients. There were not enough seats, and many people were standing or sitting on the floor. This is not a comfortable or hygienic environment for patients who are already unwell.",
+    "voice_text": "The waiting room is super crowded, there's barely anywhere to sit. It's really uncomfortable and not very clean.",
+    "tags": [
+      "overcrowding",
+      "waiting_room",
+      "hospital"
+    ]
+  },
+  {
+    "image_id": "img_9.jpg",
+    "category": "Crowded Hospital Waiting Room",
+    "folder": "crowded_hospital_waiting_room",
+    "severity": "medium",
+    "department": "OPD / Waiting Area",
+    "refined_caption": "The hospital waiting room is crowded with multiple patients. Patients are wearing face masks.",
+    "complaint_description": "I visited the hospital today and was shocked to see the waiting room overcrowded with patients. It's uncomfortable and worrying to see so many people in close proximity, especially during a pandemic. The hospital should consider improving their waiting area to ensure patient safety and comfort.",
+    "voice_text": "The waiting room is super crowded, it's really uncomfortable and I'm worried about getting sick.",
+    "tags": [
+      "crowded",
+      "waiting_room",
+      "overcrowding"
+    ]
+  },
+  {
+    "image_id": "Screenshot 2026-04-18 at 5.07.25\u202fPM.png",
+    "category": "Dirty Hospital Bathroom",
+    "folder": "dirty_hospital_bathroom",
+    "severity": "high",
+    "department": "Sanitation",
+    "refined_caption": "The hospital bathroom appears to be unhygienic with visible dirt and a trash can. The toilet is also present in the dirty environment.",
+    "complaint_description": "I was shocked to see the state of the hospital bathroom, it was dirty and had a strong unpleasant odor. The trash can was not emptied and the toilet was not clean. This is unacceptable for a hospital where patients are supposed to recover.",
+    "voice_text": "The hospital bathroom is really dirty and disgusting, there's trash everywhere and the toilet is not clean.",
+    "tags": [
+      "dirty_bathroom",
+      "unhygienic_conditions",
+      "hospital_sanitation"
+    ]
+  },
+  {
+    "image_id": "Screenshot 2026-04-18 at 5.07.34\u202fPM.png",
+    "category": "Dirty Hospital Bathroom",
+    "folder": "dirty_hospital_bathroom",
+    "severity": "high",
+    "department": "Sanitation",
+    "refined_caption": "The hospital bathroom appears to be unhygienic and dirty, with visible issues. A toilet and radiator are present in the bathroom.",
+    "complaint_description": "I was shocked to see the state of the hospital bathroom, it was dirty and unhygienic. The toilet and surrounding areas were not clean, and it looked like they had not been properly maintained. This is unacceptable for a healthcare facility.",
+    "voice_text": "The hospital bathroom is really dirty and unhygienic, I saw a dirty toilet and it looks like it hasn't been cleaned in a while.",
+    "tags": [
+      "dirty_bathroom",
+      "unhygienic_conditions",
+      "hospital_sanitation"
+    ]
+  },
+  {
+    "image_id": "Screenshot 2026-04-18 at 5.07.44\u202fPM.png",
+    "category": "Dirty Hospital Bathroom",
+    "folder": "dirty_hospital_bathroom",
+    "severity": "high",
+    "department": "Sanitation",
+    "refined_caption": "The hospital bathroom appears to be unhygienic with visible dirt. The toilet and sink are not clean.",
+    "complaint_description": "I was appalled by the condition of the hospital bathroom I used during my visit. The bathroom was dirty and had an unpleasant odor, which made me concerned about the overall cleanliness of the hospital. I hope the hospital takes immediate action to address this issue.",
+    "voice_text": "The bathroom in this hospital is disgusting, it's really dirty and smells bad.",
+    "tags": [
+      "dirty_bathroom",
+      "unhygienic_conditions",
+      "hospital_sanitation"
+    ]
+  },
+  {
+    "image_id": "Screenshot 2026-04-18 at 5.08.11\u202fPM.png",
+    "category": "Dirty Hospital Bathroom",
+    "folder": "dirty_hospital_bathroom",
+    "severity": "high",
+    "department": "Sanitation",
+    "refined_caption": "The hospital bathroom is dirty with toilet paper scattered all over the floor. The area appears to be unhygienic.",
+    "complaint_description": "I was shocked to see the state of the hospital bathroom, it was filthy with toilet paper all over the floor. This is unacceptable for a place where patients are supposed to receive care. The hospital needs to improve its sanitation standards.",
+    "voice_text": "The bathroom in this hospital is disgusting, there's toilet paper all over the floor. It's really unhygienic.",
+    "tags": [
+      "dirty_bathroom",
+      "unhygienic_conditions",
+      "hospital_sanitation"
+    ]
+  },
+  {
+    "image_id": "Screenshot 2026-04-18 at 5.08.23\u202fPM.png",
+    "category": "Dirty Hospital Bathroom",
+    "folder": "dirty_hospital_bathroom",
+    "severity": "high",
+    "department": "Sanitation",
+    "refined_caption": "The hospital bathroom is dirty with toilet paper scattered all over the floor. The overall condition appears unhygienic.",
+    "complaint_description": "I was shocked to see the state of the hospital bathroom, it was filthy with toilet paper all over the floor. As a patient, I'm concerned about the hygiene and cleanliness of the facility. This is unacceptable and needs to be addressed immediately.",
+    "voice_text": "The bathroom in this hospital is disgusting, there's toilet paper all over the floor. It's really unhygienic and needs to be cleaned.",
+    "tags": [
+      "dirty_bathroom",
+      "hospital_sanitation",
+      "unhygienic_conditions"
+    ]
+  },
+  {
+    "image_id": "Screenshot 2026-04-18 at 5.08.55\u202fPM.png",
+    "category": "Dirty Hospital Bathroom",
+    "folder": "dirty_hospital_bathroom",
+    "severity": "high",
+    "department": "Sanitation",
+    "refined_caption": "The hospital bathroom appears to be unhygienic with visible dirt. The toilet, sink, and urinal are present in the image.",
+    "complaint_description": "I was shocked to see the state of the hospital bathroom, it was filthy and clearly hadn't been cleaned in a while. The dirt and grime were visible on all the fixtures, including the toilet, sink, and urinal. This is unacceptable for a healthcare facility.",
+    "voice_text": "The bathroom in this hospital is disgusting, it's really dirty and hasn't been cleaned.",
+    "tags": [
+      "unhygienic",
+      "dirty_bathroom",
+      "hospital_sanitation"
+    ]
+  },
+  {
+    "image_id": "Screenshot 2026-04-18 at 5.10.20\u202fPM.png",
+    "category": "Dirty Hospital Bathroom",
+    "folder": "dirty_hospital_bathroom",
+    "severity": "high",
+    "department": "Sanitation",
+    "refined_caption": "The hospital bathroom appears to be dirty and unhygienic, with a trash can present. The toilet is also visible in the image.",
+    "complaint_description": "I was shocked to see the state of the hospital bathroom, it was filthy and had a strong unpleasant odor. The trash can was not emptied and there were visible stains on the floor. This is unacceptable for a healthcare facility.",
+    "voice_text": "The bathroom in this hospital is disgusting, it's really dirty and smells bad.",
+    "tags": [
+      "dirty_bathroom",
+      "unhygienic_conditions",
+      "hospital_sanitation"
+    ]
+  },
+  {
+    "image_id": "Screenshot 2026-04-18 at 5.10.44\u202fPM.png",
+    "category": "Dirty Hospital Bathroom",
+    "folder": "dirty_hospital_bathroom",
+    "severity": "high",
+    "department": "Sanitation",
+    "refined_caption": "The hospital bathroom appears to be unhygienic with visible dirt and grime. Urinals on the wall are also present.",
+    "complaint_description": "I was shocked to see the state of the hospital bathroom, it was filthy and clearly hadn't been cleaned in a while. The dirt and grime were visible everywhere, which is unacceptable for a healthcare facility. This is a serious concern for patient health and safety.",
+    "voice_text": "The bathroom in this hospital is disgusting, it's really dirty and hasn't been cleaned.",
+    "tags": [
+      "unhygienic",
+      "dirty_bathroom",
+      "hospital_sanitation"
+    ]
+  },
+  {
+    "image_id": "Screenshot 2026-04-18 at 5.11.14\u202fPM.png",
+    "category": "Dirty Hospital Bathroom",
+    "folder": "dirty_hospital_bathroom",
+    "severity": "high",
+    "department": "Sanitation",
+    "refined_caption": "The hospital bathroom appears to be unhygienic with visible dirt. There are two sinks and a toilet in the bathroom.",
+    "complaint_description": "I was shocked to see the state of the hospital bathroom, it was dirty and unhygienic. The bathroom had two sinks and a toilet, but it looked like it hadn't been cleaned in a while. This is unacceptable for a hospital where patients are supposed to receive care.",
+    "voice_text": "The hospital bathroom is really dirty and gross, it's got two sinks and a toilet but it looks like it hasn't been cleaned.",
+    "tags": [
+      "dirty_bathroom",
+      "unhygienic_conditions",
+      "hospital_sanitation"
+    ]
+  },
+  {
+    "image_id": "Screenshot 2026-04-18 at 5.11.56\u202fPM.png",
+    "category": "Dirty Hospital Bathroom",
+    "folder": "dirty_hospital_bathroom",
+    "severity": "high",
+    "department": "Sanitation",
+    "refined_caption": "The hospital bathroom appears to be dirty and unhygienic, with visible dirt and grime on the toilet and urinals. The overall condition of the bathroom is unsanitary.",
+    "complaint_description": "I was appalled by the condition of the hospital bathroom I visited, which was filthy and clearly hadn't been cleaned in a while. The toilet and urinals were dirty, and the whole area looked like it hadn't been disinfected. This is unacceptable for a healthcare facility.",
+    "voice_text": "The bathroom in this hospital is disgusting, it's all dirty and gross.",
+    "tags": [
+      "dirty_bathroom",
+      "unhygienic_conditions",
+      "hospital_sanitation"
+    ]
+  },
+  {
+    "image_id": "Screenshot 2026-04-18 at 5.12.55\u202fPM.png",
+    "category": "Dirty Hospital Bathroom",
+    "folder": "dirty_hospital_bathroom",
+    "severity": "high",
+    "department": "Sanitation",
+    "refined_caption": "The hospital bathroom has two sinks and appears to be dirty and unhygienic. The state of the bathroom suggests a lack of proper cleaning and maintenance.",
+    "complaint_description": "I was shocked to see the condition of the hospital bathroom, it was dirty and unhygienic. The sinks were not clean and the overall state of the bathroom was unacceptable. As a patient, I expect a clean and safe environment, especially in a hospital.",
+    "voice_text": "The hospital bathroom is really dirty and gross, it's not clean at all. I'm worried about getting sick from using it.",
+    "tags": [
+      "dirty_bathroom",
+      "unhygienic_conditions",
+      "hospital_sanitation"
+    ]
+  },
+  {
+    "image_id": "Screenshot 2026-04-18 at 5.13.21\u202fPM.png",
+    "category": "Dirty Hospital Bathroom",
+    "folder": "dirty_hospital_bathroom",
+    "severity": "high",
+    "department": "Sanitation",
+    "refined_caption": "The hospital bathroom appears to be unhygienic with visible dirt. There are two sinks and a window in the bathroom.",
+    "complaint_description": "I was shocked to see the state of the hospital bathroom, it was extremely dirty and unhygienic. The bathroom had two sinks and a window, but the overall condition was unacceptable. This is a serious concern for patient health and safety.",
+    "voice_text": "The hospital bathroom is really dirty and gross, it's got two sinks and a window but it's just not clean.",
+    "tags": [
+      "dirty_bathroom",
+      "unhygienic_conditions",
+      "hospital_sanitation"
+    ]
+  },
+  {
+    "image_id": "Screenshot 2026-04-18 at 5.13.37\u202fPM.png",
+    "category": "Dirty Hospital Bathroom",
+    "folder": "dirty_hospital_bathroom",
+    "severity": "high",
+    "department": "Sanitation",
+    "refined_caption": "The hospital bathroom appears to be unhygienic and dirty. A toilet is visible in the middle of the room.",
+    "complaint_description": "I was shocked to see the state of the hospital bathroom, it was filthy and clearly hadn't been cleaned in a while. The toilet was right in the middle of the room and the whole area looked unhygienic. This is unacceptable for a healthcare facility.",
+    "voice_text": "The bathroom in this hospital is disgusting, it's really dirty and the toilet is just sitting out in the open.",
+    "tags": [
+      "dirty_bathroom",
+      "unhygienic_conditions",
+      "hospital_sanitation"
+    ]
+  },
+  {
+    "image_id": "img_1.jpg",
+    "category": "Dirty Hospital Bathroom",
+    "folder": "dirty_hospital_bathroom",
+    "severity": "high",
+    "department": "Sanitation",
+    "refined_caption": "The hospital bathroom appears to be unhygienic with visible dirt and grime. Urinals are present and seem to be in a state of disrepair.",
+    "complaint_description": "I was appalled by the condition of the hospital bathroom, which was filthy and clearly hadn't been cleaned in a while. The urinals were dirty and had visible stains, making it uncomfortable for patients and visitors to use the facilities. This is unacceptable for a healthcare setting.",
+    "voice_text": "The bathroom here is disgusting, it's all dirty and gross. I don't feel safe using it.",
+    "tags": [
+      "unhygienic",
+      "dirty",
+      "bathroom",
+      "urinals",
+      "sanitation"
+    ]
+  },
+  {
+    "image_id": "img_10.jpg",
+    "category": "Dirty Hospital Bathroom",
+    "folder": "dirty_hospital_bathroom",
+    "severity": "high",
+    "department": "Sanitation",
+    "refined_caption": "The hospital bathroom appears to be unhygienic with visible dirt. A dirty toilet and bathtub are noticeable.",
+    "complaint_description": "I was appalled by the condition of the hospital bathroom, it was filthy and had a strong unpleasant odor. The toilet and bathtub were visibly dirty, which is unacceptable for a healthcare facility. This is a serious concern for patient health and safety.",
+    "voice_text": "The bathroom in this hospital is disgusting, it's really dirty and smells bad.",
+    "tags": [
+      "dirty_bathroom",
+      "unhygienic_conditions",
+      "hospital_sanitation"
+    ]
+  },
+  {
+    "image_id": "img_12.jpg",
+    "category": "Dirty Hospital Bathroom",
+    "folder": "dirty_hospital_bathroom",
+    "severity": "high",
+    "department": "Sanitation",
+    "refined_caption": "The hospital bathroom appears to be unhygienic with visible dirt. A ladder is also present in the bathroom.",
+    "complaint_description": "I was shocked to see the state of the hospital bathroom, it was dirty and unhygienic. The presence of a ladder in the bathroom is also a concern. This is unacceptable for a healthcare facility.",
+    "voice_text": "The bathroom in this hospital is disgusting, it's really dirty and there's even a ladder just sitting there.",
+    "tags": [
+      "dirty_bathroom",
+      "unhygienic_conditions",
+      "hospital_sanitation"
+    ]
+  },
+  {
+    "image_id": "img_2.jpg",
+    "category": "Dirty Hospital Bathroom",
+    "folder": "dirty_hospital_bathroom",
+    "severity": "high",
+    "department": "Sanitation",
+    "refined_caption": "The hospital bathroom appears dirty and unhygienic, with visible signs of neglect. The bathroom's condition suggests a lack of regular cleaning and maintenance.",
+    "complaint_description": "I was appalled by the condition of the hospital bathroom, which was filthy and clearly hadn't been cleaned in a long time. The state of the bathroom made me question the overall cleanliness and hygiene of the hospital. As a patient, I expect a clean and safe environment, which this bathroom clearly did not provide.",
+    "voice_text": "The bathroom in this hospital is disgusting, it's really dirty and looks like it hasn't been cleaned in ages.",
+    "tags": [
+      "dirty_bathroom",
+      "hospital_sanitation",
+      "unhygienic_conditions"
+    ]
+  },
+  {
+    "image_id": "img_6.jpg",
+    "category": "Dirty Hospital Bathroom",
+    "folder": "dirty_hospital_bathroom",
+    "severity": "high",
+    "department": "Sanitation",
+    "refined_caption": "The hospital bathroom appears to be unhygienic with visible dirt and grime. The urinals and sink are particularly affected.",
+    "complaint_description": "I was appalled by the state of the hospital bathroom, which was filthy and clearly hadn't been cleaned in a while. The urinals and sink were clogged with dirt and grime, making it unusable. This is unacceptable for a healthcare facility.",
+    "voice_text": "The bathroom in this hospital is disgusting, it's all dirty and gross. You can't even use the sink or urinals.",
+    "tags": [
+      "unhygienic",
+      "dirty_bathroom",
+      "hospital_sanitation"
+    ]
+  },
+  {
+    "image_id": "img_7.jpg",
+    "category": "Dirty Hospital Bathroom",
+    "folder": "dirty_hospital_bathroom",
+    "severity": "high",
+    "department": "Sanitation",
+    "refined_caption": "The hospital bathroom appears to be unhygienic with a urinal on the floor. The area is visibly dirty.",
+    "complaint_description": "I was shocked to see the state of the hospital bathroom, it was filthy and had a urinal on the floor. This is unacceptable for a place where patients are supposed to receive care. The lack of cleanliness is a serious concern for patient health and safety.",
+    "voice_text": "The bathroom in this hospital is disgusting, there's a urinal just sitting on the floor and it's really dirty.",
+    "tags": [
+      "unhygienic",
+      "dirty_bathroom",
+      "hospital_sanitation"
+    ]
+  },
+  {
+    "image_id": "img_8.jpg",
+    "category": "Dirty Hospital Bathroom",
+    "folder": "dirty_hospital_bathroom",
+    "severity": "high",
+    "department": "Sanitation",
+    "refined_caption": "The hospital bathroom appears to be unhygienic with visible dirt and buckets. A urinal is also present in the dirty environment.",
+    "complaint_description": "I was shocked to see the state of the hospital bathroom, it was filthy and had buckets scattered all over the floor. The urinal was also not properly cleaned, which is unacceptable for a healthcare facility. This is a serious concern for patient health and safety.",
+    "voice_text": "The bathroom in this hospital is disgusting, it's got buckets all over the place and the urinal is all dirty.",
+    "tags": [
+      "dirty_bathroom",
+      "unhygienic_conditions",
+      "hospital_sanitation"
+    ]
+  },
+  {
+    "image_id": "img_9.jpg",
+    "category": "Dirty Hospital Bathroom",
+    "folder": "dirty_hospital_bathroom",
+    "severity": "high",
+    "department": "Sanitation",
+    "refined_caption": "The hospital bathroom appears to be unhygienic with visible dirt and a trash can. The toilet is also present in the dirty environment.",
+    "complaint_description": "I was appalled by the condition of the hospital bathroom, which was dirty and had a strong unpleasant odor. The trash can was overflowing and the toilet was not clean. This is unacceptable for a healthcare facility.",
+    "voice_text": "The bathroom in this hospital is disgusting, it's really dirty and smells bad.",
+    "tags": [
+      "dirty_bathroom",
+      "unhygienic_conditions",
+      "hospital_sanitation"
+    ]
+  },
+  {
+    "image_id": "aug_1.jpg",
+    "category": "Empty / Unstaffed Nursing Station",
+    "folder": "empty_nursing_station",
+    "severity": "high",
+    "department": "Nursing / Administration",
+    "refined_caption": "The hospital nursing station is empty and unstaffed, with no medical personnel present. The waiting room has chairs but appears to be unattended.",
+    "complaint_description": "I visited the hospital and was concerned to find the nursing station completely empty and unstaffed. As a patient, I expect to receive timely care and attention, but the lack of staff is alarming. This is unacceptable and I hope the hospital takes immediate action to address this issue.",
+    "voice_text": "I just got to the hospital and the nursing station is totally empty, there's no one here to help.",
+    "tags": [
+      "unstaffed",
+      "nursing_station",
+      "hospital_neglect"
+    ]
+  },
+  {
+    "image_id": "aug_2.jpg",
+    "category": "Empty / Unstaffed Nursing Station",
+    "folder": "empty_nursing_station",
+    "severity": "high",
+    "department": "Nursing / Administration",
+    "refined_caption": "The hospital nursing station is empty and unstaffed, with no medical personnel present. The area appears to be unmanned, with large windows visible.",
+    "complaint_description": "I visited the hospital and was shocked to find the nursing station completely empty and unstaffed. There was no one to attend to patients or answer questions, which is concerning for the quality of care. This lack of staffing is unacceptable and puts patients at risk.",
+    "voice_text": "I just got to the hospital and the nursing station is totally empty, there's no one here to help or answer questions.",
+    "tags": [
+      "unstaffed",
+      "nursing_station",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "aug_3.jpg",
+    "category": "Empty / Unstaffed Nursing Station",
+    "folder": "empty_nursing_station",
+    "severity": "high",
+    "department": "Nursing / Administration",
+    "refined_caption": "The hospital nursing station is empty and unstaffed, with no medical personnel present. There are chairs and a counter, but no one is available to assist.",
+    "complaint_description": "I visited the nursing station to ask for help, but there was no one there to assist me. The station was completely empty, which was concerning and made me feel like I wasn't being taken care of. This lack of staffing is unacceptable and puts patients at risk.",
+    "voice_text": "I went to the nursing station and there was nobody there, it's really concerning and I don't feel like I'm getting the care I need.",
+    "tags": [
+      "unstaffed",
+      "nursing_station",
+      "patient_care"
+    ]
+  },
+  {
+    "image_id": "aug_4.jpg",
+    "category": "Empty / Unstaffed Nursing Station",
+    "folder": "empty_nursing_station",
+    "severity": "high",
+    "department": "Nursing / Administration",
+    "refined_caption": "The hospital nursing station is empty and unstaffed, with rows of chairs available for patients and visitors. There are no medical staff present at the station.",
+    "complaint_description": "I visited the hospital and was concerned to find the nursing station completely empty and unstaffed. I had to wait for a long time to get assistance, which delayed my treatment. This lack of staff is unacceptable and affects the quality of care.",
+    "voice_text": "I went to the hospital and the nursing station was empty, nobody was there to help me, it was really frustrating.",
+    "tags": [
+      "unstaffed",
+      "nursing_station",
+      "hospital_care"
+    ]
+  },
+  {
+    "image_id": "aug_5.jpg",
+    "category": "Empty / Unstaffed Nursing Station",
+    "folder": "empty_nursing_station",
+    "severity": "high",
+    "department": "Nursing / Administration",
+    "refined_caption": "The hospital nursing station is empty and unstaffed, with only two chairs and a desk present. There is no medical personnel in sight.",
+    "complaint_description": "I visited my family member at the hospital and was shocked to see the nursing station completely empty and unstaffed. This is concerning as it may affect the quality of care provided to patients. I hope the hospital takes immediate action to address this issue.",
+    "voice_text": "I just saw the nursing station and there's no one there, it's completely empty and unstaffed, I'm really worried about the care my family member is getting.",
+    "tags": [
+      "unstaffed",
+      "nursing_station",
+      "patient_care"
+    ]
+  },
+  {
+    "image_id": "aug_6.jpg",
+    "category": "Empty / Unstaffed Nursing Station",
+    "folder": "empty_nursing_station",
+    "severity": "high",
+    "department": "Nursing / Administration",
+    "refined_caption": "The hospital nursing station is empty and unstaffed, with people waiting at the counter. There are no medical staff visible in the area.",
+    "complaint_description": "I visited the hospital and was surprised to find the nursing station completely empty and unstaffed. There were people waiting to be helped, but no one was available to assist them. This is concerning and makes me question the quality of care at this hospital.",
+    "voice_text": "I went to the nursing station and there was no one there, just people waiting around. It's really concerning that there's no staff available to help.",
+    "tags": [
+      "unstaffed",
+      "nursing_station",
+      "hospital_care"
+    ]
+  },
+  {
+    "image_id": "img_1.jpg",
+    "category": "Empty / Unstaffed Nursing Station",
+    "folder": "empty_nursing_station",
+    "severity": "high",
+    "department": "Nursing / Administration",
+    "refined_caption": "The hospital nursing station is empty and unstaffed, with no personnel present at the reception desk. The area appears to be unmanned.",
+    "complaint_description": "I visited the nursing station to ask for assistance, but there was no one available to help me. The station was completely empty and I was left waiting with no idea when someone would arrive. This lack of staffing is concerning and affects the quality of care.",
+    "voice_text": "I went to the nursing station and there was nobody there, it's really concerning that it's just empty like that.",
+    "tags": [
+      "unstaffed",
+      "nursing_station",
+      "abandoned"
+    ]
+  },
+  {
+    "image_id": "img_10.jpg",
+    "category": "Empty / Unstaffed Nursing Station",
+    "folder": "empty_nursing_station",
+    "severity": "high",
+    "department": "Nursing / Administration",
+    "refined_caption": "The hospital nursing station is empty and unstaffed, with two chairs and a desk present. There is no medical personnel in sight.",
+    "complaint_description": "I visited my family member at the hospital and was shocked to find the nursing station completely empty and unstaffed. This is concerning as it may impact the quality of care provided to patients. I hope the hospital takes immediate action to address this issue.",
+    "voice_text": "I just saw the nursing station and it's completely empty, there's no one there to help with anything.",
+    "tags": [
+      "unstaffed",
+      "nursing_station",
+      "patient_care"
+    ]
+  },
+  {
+    "image_id": "img_11.jpg",
+    "category": "Empty / Unstaffed Nursing Station",
+    "folder": "empty_nursing_station",
+    "severity": "high",
+    "department": "Nursing / Administration",
+    "refined_caption": "The hospital nursing station is empty and unstaffed, with no personnel present at the reception counter. There are chairs available, but no staff to attend to patients or visitors.",
+    "complaint_description": "I visited the nursing station to ask for assistance, but there was no one available to help me. The station was completely empty, with no staff in sight. This lack of staffing is concerning and affects the quality of care.",
+    "voice_text": "I went to the nursing station and there was nobody there, it's really concerning. The station was empty, no staff at all.",
+    "tags": [
+      "unstaffed",
+      "nursing_station",
+      "lack_of_care"
+    ]
+  },
+  {
+    "image_id": "img_12.jpg",
+    "category": "Empty / Unstaffed Nursing Station",
+    "folder": "empty_nursing_station",
+    "severity": "high",
+    "department": "Nursing / Administration",
+    "refined_caption": "The hospital nursing station is empty and unstaffed, with no medical personnel present. The area appears to be unmanned and unattended.",
+    "complaint_description": "I visited the hospital and was shocked to find the nursing station completely empty and unstaffed. There was no one to assist me or provide any medical help. This is a serious concern for patient care and safety.",
+    "voice_text": "I just got to the hospital and the nursing station is totally empty, there's no one here to help.",
+    "tags": [
+      "unstaffed",
+      "nursing_station",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "img_13.jpg",
+    "category": "Empty / Unstaffed Nursing Station",
+    "folder": "empty_nursing_station",
+    "severity": "high",
+    "department": "Nursing / Administration",
+    "refined_caption": "The hospital nursing station is empty and unstaffed, with waiting chairs available for patients or visitors. There are no medical personnel present.",
+    "complaint_description": "I visited the hospital and was surprised to find the nursing station completely empty and unstaffed. There were chairs for patients to wait, but no one was available to assist or provide information. This lack of staffing is concerning and affects the quality of care.",
+    "voice_text": "I went to the hospital and the nursing station was empty, no one was there to help or answer questions.",
+    "tags": [
+      "unstaffed",
+      "nursing_station",
+      "hospital_care"
+    ]
+  },
+  {
+    "image_id": "img_15.jpg",
+    "category": "Empty / Unstaffed Nursing Station",
+    "folder": "empty_nursing_station",
+    "severity": "high",
+    "department": "Nursing / Administration",
+    "refined_caption": "The hospital nursing station is empty and unstaffed, with no medical personnel present. The curved counter is visible but there is no one to attend to patients.",
+    "complaint_description": "I visited the hospital and was shocked to find the nursing station completely empty and unstaffed. There was no one to ask for help or assistance, and it was unclear when someone would be available. This lack of staffing is concerning and affects the quality of care.",
+    "voice_text": "I just got to the hospital and the nursing station is totally empty, there's no one here to help.",
+    "tags": [
+      "unstaffed",
+      "nursing_station",
+      "hospital_care"
+    ]
+  },
+  {
+    "image_id": "img_16.jpg",
+    "category": "Empty / Unstaffed Nursing Station",
+    "folder": "empty_nursing_station",
+    "severity": "high",
+    "department": "Nursing / Administration",
+    "refined_caption": "The hospital nursing station is empty and unstaffed, with no medical personnel present. The desk and chairs are vacant.",
+    "complaint_description": "I visited the nursing station to ask for assistance, but there was no one available to help me. The station was completely empty and unstaffed, which was concerning and made me feel neglected. This lack of staffing is unacceptable, especially in a hospital setting.",
+    "voice_text": "I went to the nursing station and there was nobody there, it's really concerning that it's just empty and unstaffed.",
+    "tags": [
+      "unstaffed",
+      "nursing_station",
+      "neglect"
+    ]
+  },
+  {
+    "image_id": "img_17.jpg",
+    "category": "Empty / Unstaffed Nursing Station",
+    "folder": "empty_nursing_station",
+    "severity": "high",
+    "department": "Nursing / Administration",
+    "refined_caption": "The hospital nursing station is empty and unstaffed, with no medical personnel present. The counter is blue and white.",
+    "complaint_description": "I visited the nursing station and found it to be empty and unstaffed, which is concerning as I needed assistance. The lack of staff at the station made me feel neglected and worried about the quality of care. This is unacceptable for a hospital.",
+    "voice_text": "I just went to the nursing station and there's no one there, it's completely empty and unstaffed.",
+    "tags": [
+      "unstaffed",
+      "nursing_station",
+      "neglect"
+    ]
+  },
+  {
+    "image_id": "img_18.jpg",
+    "category": "Empty / Unstaffed Nursing Station",
+    "folder": "empty_nursing_station",
+    "severity": "high",
+    "department": "Nursing / Administration",
+    "refined_caption": "The hospital nursing station is empty and unstaffed, with blue chairs visible. There are no medical staff or personnel present.",
+    "complaint_description": "I visited the hospital and was concerned to find the nursing station completely unstaffed. The area was empty, with no one available to provide assistance or answer questions. This lack of staffing is alarming and raises concerns about patient care.",
+    "voice_text": "I just got to the hospital and the nursing station is totally empty, there's no one here to help.",
+    "tags": [
+      "unstaffed",
+      "nursing_station",
+      "patient_care"
+    ]
+  },
+  {
+    "image_id": "img_2.jpg",
+    "category": "Empty / Unstaffed Nursing Station",
+    "folder": "empty_nursing_station",
+    "severity": "high",
+    "department": "Nursing / Administration",
+    "refined_caption": "The hospital nursing station is empty and unstaffed, with a clock on the wall. There is no one present to attend to patients' needs.",
+    "complaint_description": "I visited my family member at the hospital and was shocked to find the nursing station completely empty and unstaffed. This is concerning as it may delay patient care and attention. The lack of staff at the nursing station is unacceptable and requires immediate attention.",
+    "voice_text": "I just walked by the nursing station and there's no one there, it's completely empty and unstaffed, that's really concerning.",
+    "tags": [
+      "unstaffed",
+      "nursing_station",
+      "patient_care"
+    ]
+  },
+  {
+    "image_id": "img_20.jpg",
+    "category": "Empty / Unstaffed Nursing Station",
+    "folder": "empty_nursing_station",
+    "severity": "high",
+    "department": "Nursing / Administration",
+    "refined_caption": "The hospital nursing station is empty and unstaffed, with patients and visitors waiting in the area. There are no medical personnel visible at the station.",
+    "complaint_description": "I arrived at the hospital and was surprised to find the nursing station completely empty and unstaffed. There were several people waiting, including myself, but no one was available to assist us or provide information. This lack of staffing is concerning and makes me question the quality of care provided by the hospital.",
+    "voice_text": "I'm at the hospital and the nursing station is completely empty, there's no one here to help us.",
+    "tags": [
+      "unstaffed",
+      "nursing_station",
+      "hospital_care"
+    ]
+  },
+  {
+    "image_id": "img_3.jpg",
+    "category": "Empty / Unstaffed Nursing Station",
+    "folder": "empty_nursing_station",
+    "severity": "high",
+    "department": "Nursing / Administration",
+    "refined_caption": "The hospital nursing station is empty and unstaffed, with no medical personnel present. The waiting room has chairs but appears to be unmanned.",
+    "complaint_description": "I visited the hospital and was shocked to find the nursing station completely empty and unstaffed. As a patient, I expect to receive prompt attention and care, but the lack of staff is concerning. This is unacceptable and I hope the hospital takes immediate action to address this issue.",
+    "voice_text": "I just got to the hospital and the nursing station is totally empty, there's no one here to help me.",
+    "tags": [
+      "unstaffed",
+      "nursing_station",
+      "hospital_care"
+    ]
+  },
+  {
+    "image_id": "img_4.jpg",
+    "category": "Empty / Unstaffed Nursing Station",
+    "folder": "empty_nursing_station",
+    "severity": "high",
+    "department": "Nursing / Administration",
+    "refined_caption": "The hospital nursing station is unstaffed and empty, with rows of chairs available for patients and visitors. There are no medical staff present at the station.",
+    "complaint_description": "I visited the hospital and was shocked to find the nursing station completely unstaffed. There were no nurses or doctors available to assist with patient care or answer questions. This lack of staffing is concerning and affects the quality of care provided to patients.",
+    "voice_text": "I just got to the hospital and the nursing station is empty, there's no one here to help",
+    "tags": [
+      "unstaffed",
+      "nursing_station",
+      "patient_care"
+    ]
+  },
+  {
+    "image_id": "img_6.jpg",
+    "category": "Empty / Unstaffed Nursing Station",
+    "folder": "empty_nursing_station",
+    "severity": "high",
+    "department": "Nursing / Administration",
+    "refined_caption": "The hospital nursing station is empty and unstaffed, with chairs and desks present but no personnel in sight. The area appears to be unmanned.",
+    "complaint_description": "I visited the nursing station to ask for assistance, but there was no one available to help me. The station was completely empty, which was concerning and made me feel like my needs were being neglected. This lack of staffing is unacceptable and affects the quality of care.",
+    "voice_text": "I went to the nursing station and there was nobody there, it was completely empty and that's really scary when you need help.",
+    "tags": [
+      "unstaffed",
+      "nursing_station",
+      "abandoned"
+    ]
+  },
+  {
+    "image_id": "img_7.jpg",
+    "category": "Empty / Unstaffed Nursing Station",
+    "folder": "empty_nursing_station",
+    "severity": "high",
+    "department": "Nursing / Administration",
+    "refined_caption": "The nursing station is empty and unstaffed, with no medical personnel present. The waiting room has chairs but appears to be unattended.",
+    "complaint_description": "I visited the hospital and was surprised to find the nursing station completely empty and unstaffed. I was expecting to receive assistance or guidance, but there was no one available to help. This lack of staffing is concerning and affects the quality of care.",
+    "voice_text": "I just got to the hospital and the nursing station is totally empty, there's no one here to help.",
+    "tags": [
+      "unstaffed",
+      "nursing_station",
+      "empty"
+    ]
+  },
+  {
+    "image_id": "img_8.jpg",
+    "category": "Empty / Unstaffed Nursing Station",
+    "folder": "empty_nursing_station",
+    "severity": "high",
+    "department": "Nursing / Administration",
+    "refined_caption": "The hospital nursing station is unstaffed and empty, with no medical personnel present. The area has brightly colored stools but appears to be unmanned.",
+    "complaint_description": "I visited the hospital and was concerned to find the nursing station completely unstaffed. There was no one available to answer questions or provide assistance, which is unacceptable for a healthcare facility. This lack of staffing is alarming and raises concerns about patient care.",
+    "voice_text": "I just got to the hospital and the nursing station is totally empty, there's no one here to help or answer questions.",
+    "tags": [
+      "unstaffed",
+      "nursing_station",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "img_9.jpg",
+    "category": "Empty / Unstaffed Nursing Station",
+    "folder": "empty_nursing_station",
+    "severity": "high",
+    "department": "Nursing / Administration",
+    "refined_caption": "The hospital nursing station is empty and unstaffed, with no medical personnel present. The area appears to be unmanned.",
+    "complaint_description": "I visited my family member at the hospital and was concerned to find the nursing station completely empty and unstaffed. This lack of staff is alarming and raises concerns about patient care. The absence of medical personnel at the station is unacceptable.",
+    "voice_text": "I just walked by the nursing station and there's no one there, it's completely empty. This is really concerning, where is everyone?",
+    "tags": [
+      "unstaffed",
+      "nursing_station",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "aug_1.jpg",
+    "category": "Overflowing Hospital Trash (Outside)",
+    "folder": "overflowing_hospital_trash_outside",
+    "severity": "medium",
+    "department": "Housekeeping",
+    "refined_caption": "The trash bins outside the hospital building are overflowing. A sign nearby indicates the presence of hazardous waste.",
+    "complaint_description": "I was appalled to see the trash bins outside the hospital overflowing with garbage. The sign warning of hazardous waste makes me concerned about the safety and hygiene of the hospital environment. This issue needs to be addressed immediately to prevent any potential health risks.",
+    "voice_text": "The trash cans outside the hospital are overflowing and there's a sign that says hazardous waste, it's really gross and worrying.",
+    "tags": [
+      "overflowing_trash",
+      "hazardous_waste",
+      "hospital_hygiene"
+    ]
+  },
+  {
+    "image_id": "aug_11.jpg",
+    "category": "Overflowing Hospital Trash (Outside)",
+    "folder": "overflowing_hospital_trash_outside",
+    "severity": "medium",
+    "department": "Housekeeping",
+    "refined_caption": "The trash bins outside the hospital are overflowing. A person is visible in the background.",
+    "complaint_description": "I visited the hospital and was disappointed to see the trash bins outside were overflowing. This is not only an eyesore, but it also creates an unsanitary environment for patients and visitors. The hospital should ensure that the trash is regularly emptied to maintain a clean and healthy environment.",
+    "voice_text": "The trash cans outside the hospital are totally overflowing, it's really gross. Someone should empty them ASAP.",
+    "tags": [
+      "overflowing_trash",
+      "hospital_cleanliness",
+      "unsanitary_conditions"
+    ]
+  },
+  {
+    "image_id": "aug_12.jpg",
+    "category": "Overflowing Hospital Trash (Outside)",
+    "folder": "overflowing_hospital_trash_outside",
+    "severity": "medium",
+    "department": "Housekeeping",
+    "refined_caption": "The trash bins outside the hospital are overflowing with waste. The surrounding area appears to be affected by the overflow.",
+    "complaint_description": "I visited the hospital today and was appalled to see the trash bins outside overflowing with garbage. The smell was unbearable and it's a health hazard for patients and visitors. The hospital should take immediate action to address this issue.",
+    "voice_text": "The trash cans outside the hospital are totally overflowing, it's really gross and smells terrible.",
+    "tags": [
+      "overflowing_trash",
+      "hospital_hygiene",
+      "public_health_risk"
+    ]
+  },
+  {
+    "image_id": "aug_2.jpg",
+    "category": "Overflowing Hospital Trash (Outside)",
+    "folder": "overflowing_hospital_trash_outside",
+    "severity": "medium",
+    "department": "Housekeeping",
+    "refined_caption": "The trash bins outside the hospital are overflowing with waste. The surrounding area appears to be well-maintained with trees in the background.",
+    "complaint_description": "I was appalled to see the trash bins outside the hospital overflowing with garbage. This is not only an eyesore, but it also poses a health risk to patients and visitors. The hospital should ensure that the trash is disposed of regularly.",
+    "voice_text": "The trash cans outside the hospital are totally overflowing, it's really gross and unhealthy.",
+    "tags": [
+      "overflowing_trash",
+      "hospital_hygiene",
+      "outside_maintenance"
+    ]
+  },
+  {
+    "image_id": "aug_3.jpg",
+    "category": "Overflowing Hospital Trash (Outside)",
+    "folder": "overflowing_hospital_trash_outside",
+    "severity": "medium",
+    "department": "Housekeeping",
+    "refined_caption": "The trash bins outside the hospital are overflowing with waste. The surrounding area appears to be littered with trash.",
+    "complaint_description": "I was appalled to see the trash bins outside the hospital overflowing with garbage. This is not only an eyesore, but it also poses a health risk to patients and visitors. The hospital should take immediate action to address this issue.",
+    "voice_text": "The trash cans outside the hospital are totally overflowing, it's really gross. Someone should clean them out ASAP.",
+    "tags": [
+      "overflowing_trash",
+      "hospital_cleanliness",
+      "health_hazard"
+    ]
+  },
+  {
+    "image_id": "aug_4.jpg",
+    "category": "Overflowing Hospital Trash (Outside)",
+    "folder": "overflowing_hospital_trash_outside",
+    "severity": "medium",
+    "department": "Housekeeping",
+    "refined_caption": "Trash bins outside the hospital building are overflowing. The overflowing bins are located next to a fire hydrant.",
+    "complaint_description": "I was appalled to see the trash bins outside the hospital building overflowing with garbage. This is not only an eyesore, but it also poses a health risk to patients and visitors. The hospital should ensure that the trash is disposed of regularly.",
+    "voice_text": "There's trash all over the place outside the hospital, the bins are overflowing and it's really gross.",
+    "tags": [
+      "overflowing_trash",
+      "hospital_hygiene",
+      "outside_area"
+    ]
+  },
+  {
+    "image_id": "aug_5.jpg",
+    "category": "Overflowing Hospital Trash (Outside)",
+    "folder": "overflowing_hospital_trash_outside",
+    "severity": "medium",
+    "department": "Housekeeping",
+    "refined_caption": "The trash bins outside the hospital are overflowing, with garbage visible on the ground. This is visible on a rainy day.",
+    "complaint_description": "I was appalled to see the trash bins outside the hospital overflowing with garbage, which is not only an eyesore but also a health concern. The fact that it's raining makes the situation even worse, as the trash is scattered all over the place. This is unacceptable for a hospital that is supposed to maintain high standards of cleanliness.",
+    "voice_text": "The trash cans outside the hospital are totally overflowing, it's disgusting. And with the rain, it's just getting worse.",
+    "tags": [
+      "overflowing_trash",
+      "hospital_cleanliness",
+      "housekeeping_issue"
+    ]
+  },
+  {
+    "image_id": "aug_6.jpg",
+    "category": "Overflowing Hospital Trash (Outside)",
+    "folder": "overflowing_hospital_trash_outside",
+    "severity": "medium",
+    "department": "Housekeeping",
+    "refined_caption": "The trash bins outside the hospital are overflowing with waste. The surrounding area appears to be littered with trash.",
+    "complaint_description": "I visited the hospital today and was appalled to see the trash bins outside overflowing with garbage. The smell was unbearable and it's a health hazard. The hospital should take immediate action to clean up the area.",
+    "voice_text": "The trash cans outside the hospital are totally overflowing, it's disgusting and smells so bad.",
+    "tags": [
+      "overflowing_trash",
+      "hospital_cleanliness",
+      "outside_area"
+    ]
+  },
+  {
+    "image_id": "aug_7.jpg",
+    "category": "Overflowing Hospital Trash (Outside)",
+    "folder": "overflowing_hospital_trash_outside",
+    "severity": "medium",
+    "department": "Housekeeping",
+    "refined_caption": "The trash bins outside the hospital are overflowing with garbage. The surrounding area appears to be littered with trash.",
+    "complaint_description": "I visited the hospital today and was appalled to see the trash bins outside overflowing with garbage. The smell was unbearable and it's a health hazard. The hospital should take immediate action to clean up the area.",
+    "voice_text": "The trash cans outside the hospital are overflowing, it's really gross and smells terrible.",
+    "tags": [
+      "overflowing_trash",
+      "hospital_cleanliness",
+      "outside_area"
+    ]
+  },
+  {
+    "image_id": "aug_8.jpg",
+    "category": "Overflowing Hospital Trash (Outside)",
+    "folder": "overflowing_hospital_trash_outside",
+    "severity": "medium",
+    "department": "Housekeeping",
+    "refined_caption": "The trash bins outside the hospital are overflowing with garbage. The surrounding area appears to be littered with waste.",
+    "complaint_description": "I was appalled to see the trash bins outside the hospital overflowing with garbage. The smell was unbearable and it's a health hazard. The hospital should take immediate action to clean up the area.",
+    "voice_text": "The trash cans outside the hospital are totally overflowing, it's disgusting and smells so bad.",
+    "tags": [
+      "overflowing_trash",
+      "hospital_cleanliness",
+      "health_hazard"
+    ]
+  },
+  {
+    "image_id": "aug_9.jpg",
+    "category": "Overflowing Hospital Trash (Outside)",
+    "folder": "overflowing_hospital_trash_outside",
+    "severity": "medium",
+    "department": "Housekeeping",
+    "refined_caption": "The trash bins outside the hospital are overflowing with garbage. The surrounding area appears to be littered with waste.",
+    "complaint_description": "I visited the hospital in a rural area and was appalled to see the trash bins outside overflowing with garbage. The area was littered with waste and had a strong unpleasant odor. This is a serious health concern and needs to be addressed immediately.",
+    "voice_text": "The trash cans outside the hospital are overflowing, it's really gross and smells bad.",
+    "tags": [
+      "overflowing_trash",
+      "hospital_hygiene",
+      "rural_hospital"
+    ]
+  },
+  {
+    "image_id": "img_1.jpg",
+    "category": "Overflowing Hospital Trash (Outside)",
+    "folder": "overflowing_hospital_trash_outside",
+    "severity": "medium",
+    "department": "Housekeeping",
+    "refined_caption": "Trash bins outside the hospital are overflowing with waste. The surrounding area appears to be littered with debris.",
+    "complaint_description": "I visited the hospital in a rural area and was appalled to see the trash bins outside overflowing with garbage. The smell was unbearable and it's a health hazard. The hospital should take immediate action to clean up the area.",
+    "voice_text": "The trash cans outside the hospital are totally overflowing, it's really gross and smells terrible.",
+    "tags": [
+      "overflowing_trash",
+      "hospital_hygiene",
+      "rural_hospital"
+    ]
+  },
+  {
+    "image_id": "img_11.jpg",
+    "category": "Overflowing Hospital Trash (Outside)",
+    "folder": "overflowing_hospital_trash_outside",
+    "severity": "medium",
+    "department": "Housekeeping",
+    "refined_caption": "Trash bins outside the hospital building are overflowing, with waste visible next to a wall. The bins appear to be full and not recently emptied.",
+    "complaint_description": "I was appalled to see the trash bins outside the hospital building overflowing with garbage. This is not only an eyesore, but it also creates an unsanitary environment for patients and visitors. The hospital should ensure that the trash is regularly collected and disposed of properly.",
+    "voice_text": "The trash cans outside the hospital are totally overflowing, it's really gross and unsanitary.",
+    "tags": [
+      "overflowing_trash",
+      "hospital_cleanliness",
+      "housekeeping_issue"
+    ]
+  },
+  {
+    "image_id": "img_12.jpg",
+    "category": "Overflowing Hospital Trash (Outside)",
+    "folder": "overflowing_hospital_trash_outside",
+    "severity": "medium",
+    "department": "Housekeeping",
+    "refined_caption": "Trash bins outside the hospital kitchen are overflowing, with food visible on the floor. The area appears to be unclean.",
+    "complaint_description": "I was appalled to see the trash bins outside the hospital kitchen overflowing with garbage, and there was even food scattered all over the floor. This is not only an eyesore, but it's also a health concern. I hope the hospital takes immediate action to address this issue.",
+    "voice_text": "There's trash all over the place outside the hospital kitchen, it's really gross and overflowing, someone should clean it up.",
+    "tags": [
+      "overflowing_trash",
+      "hospital_kitchen",
+      "unclean_area"
+    ]
+  },
+  {
+    "image_id": "img_2.jpg",
+    "category": "Overflowing Hospital Trash (Outside)",
+    "folder": "overflowing_hospital_trash_outside",
+    "severity": "medium",
+    "department": "Housekeeping",
+    "refined_caption": "The trash bins outside the hospital building are overflowing. A sign is visible on the wall nearby.",
+    "complaint_description": "I was appalled to see the trash bins outside the hospital overflowing with garbage. This is not only an eyesore, but it also poses a health risk to patients and visitors. The hospital should ensure that the trash is disposed of regularly.",
+    "voice_text": "The trash cans outside the hospital are totally overflowing, it's really gross. Someone should clean them out ASAP.",
+    "tags": [
+      "overflowing_trash",
+      "hospital_hygiene",
+      "housekeeping_issue"
+    ]
+  },
+  {
+    "image_id": "img_3.jpg",
+    "category": "Overflowing Hospital Trash (Outside)",
+    "folder": "overflowing_hospital_trash_outside",
+    "severity": "medium",
+    "department": "Housekeeping",
+    "refined_caption": "The trash bins outside the hospital are overflowing with waste. The surrounding area appears to be littered with trash.",
+    "complaint_description": "I was appalled to see the trash bins outside the hospital overflowing with garbage. This is not only an eyesore, but it also creates an unsanitary environment for patients and visitors. The hospital should take immediate action to address this issue.",
+    "voice_text": "The trash cans outside the hospital are totally overflowing, it's really gross. Can someone please take care of this?",
+    "tags": [
+      "overflowing_trash",
+      "hospital_hygiene",
+      "unsanitary_conditions"
+    ]
+  },
+  {
+    "image_id": "img_4.jpg",
+    "category": "Overflowing Hospital Trash (Outside)",
+    "folder": "overflowing_hospital_trash_outside",
+    "severity": "medium",
+    "department": "Housekeeping",
+    "refined_caption": "The trash bins outside the hospital building are overflowing, with a sign indicating hazardous waste nearby. The bins appear to be full and not properly maintained.",
+    "complaint_description": "I was appalled to see the trash bins outside the hospital building overflowing with waste. The sign indicating hazardous waste makes it even more concerning, as it poses a risk to patients, visitors, and staff. The hospital should take immediate action to address this issue and ensure a clean environment.",
+    "voice_text": "The trash cans outside the hospital are overflowing and it's really gross, especially with the hazardous waste sign right there.",
+    "tags": [
+      "overflowing_trash",
+      "hazardous_waste",
+      "hospital_cleanliness"
+    ]
+  },
+  {
+    "image_id": "img_5.jpg",
+    "category": "Overflowing Hospital Trash (Outside)",
+    "folder": "overflowing_hospital_trash_outside",
+    "severity": "medium",
+    "department": "Housekeeping",
+    "refined_caption": "The trash bins outside the hospital are overflowing with waste. The surrounding area appears to be littered with trash.",
+    "complaint_description": "I visited the hospital today and was appalled to see the trash bins outside overflowing with garbage. The smell was unbearable and it's a health hazard. The hospital should take immediate action to address this issue.",
+    "voice_text": "The trash cans outside the hospital are totally overflowing, it's really gross and smells bad.",
+    "tags": [
+      "overflowing_trash",
+      "hospital_cleanliness",
+      "health_hazard"
+    ]
+  },
+  {
+    "image_id": "img_6.jpg",
+    "category": "Overflowing Hospital Trash (Outside)",
+    "folder": "overflowing_hospital_trash_outside",
+    "severity": "medium",
+    "department": "Housekeeping",
+    "refined_caption": "The trash bins outside the hospital are overflowing with waste. The surrounding area appears to be affected by the overflow.",
+    "complaint_description": "I visited the hospital today and was appalled to see the trash bins outside overflowing with garbage. The smell and sight are unbearable, and it's a health concern for patients and visitors alike. The hospital should take immediate action to address this issue.",
+    "voice_text": "The trash cans outside the hospital are totally overflowing, it's really gross and smells terrible.",
+    "tags": [
+      "overflowing_trash",
+      "hospital_hygiene",
+      "public_health_concern"
+    ]
+  },
+  {
+    "image_id": "img_7.jpg",
+    "category": "Overflowing Hospital Trash (Outside)",
+    "folder": "overflowing_hospital_trash_outside",
+    "severity": "medium",
+    "department": "Housekeeping",
+    "refined_caption": "The trash bins outside the hospital building are overflowing with waste. A person is walking by, seemingly unaffected by the issue.",
+    "complaint_description": "I visited the hospital today and was appalled to see the trash bins outside the building overflowing with garbage. This is not only an eyesore, but it also poses a health risk to patients and visitors. The hospital should take immediate action to address this issue.",
+    "voice_text": "There's trash all over the place outside the hospital, it's really gross. Someone should clean it up ASAP.",
+    "tags": [
+      "overflowing_trash",
+      "hospital_cleanliness",
+      "outside_area"
+    ]
+  },
+  {
+    "image_id": "img_8.jpg",
+    "category": "Overflowing Hospital Trash (Outside)",
+    "folder": "overflowing_hospital_trash_outside",
+    "severity": "medium",
+    "department": "Housekeeping",
+    "refined_caption": "The trash bins outside the hospital are overflowing, with garbage visible on the ground. The scene is set on a rainy day.",
+    "complaint_description": "I was appalled to see the trash bins outside the hospital overflowing with garbage, which is not only an eyesore but also a health hazard. The hospital should ensure that the trash is collected regularly, especially on rainy days when the smell and mess can be worse. This is unacceptable for a healthcare facility.",
+    "voice_text": "The trash cans outside the hospital are overflowing, it's really gross and smells terrible, especially on a rainy day like today.",
+    "tags": [
+      "overflowing_trash",
+      "hospital_hygiene",
+      "housekeeping_issue"
+    ]
+  },
+  {
+    "image_id": "Screenshot 2026-04-18 at 4.55.35\u202fPM.png",
+    "category": "Rats / Rodent Infestation",
+    "folder": "rats",
+    "severity": "critical",
+    "department": "General / Pest Control",
+    "refined_caption": "A rodent is visible in the hospital room, interacting with a red cord. The rodent's presence poses a potential health risk.",
+    "complaint_description": "I was shocked to see a rat in my hospital room, playing with a cord on the floor. This is completely unacceptable and I'm worried about the cleanliness and safety of the hospital. I demand that something be done immediately to address this issue.",
+    "voice_text": "There's a rat in my hospital room, it's playing with a cord on the floor, this is disgusting and I'm really concerned about the cleanliness here.",
+    "tags": [
+      "rodent_infestation",
+      "hospital_safety",
+      "pest_control"
+    ]
+  },
+  {
+    "image_id": "Screenshot 2026-04-18 at 4.56.31\u202fPM.png",
+    "category": "Rats / Rodent Infestation",
+    "folder": "rats",
+    "severity": "critical",
+    "department": "General / Pest Control",
+    "refined_caption": "A rodent is visible in a hospital bed, surrounded by medical equipment. The rodent's presence poses a significant health risk.",
+    "complaint_description": "I was shocked to see a rat in one of the hospital beds, which is completely unacceptable and raises serious concerns about the cleanliness and safety of the facility. The presence of rodents can spread diseases and compromise patient care. I expect immediate action to address this issue.",
+    "voice_text": "There's a rat in one of the hospital beds, it's disgusting and I'm really worried about the health risks. Someone needs to do something about it right away.",
+    "tags": [
+      "rodent_infestation",
+      "hospital_safety",
+      "pest_control"
+    ]
+  },
+  {
+    "image_id": "Screenshot 2026-04-18 at 4.56.50\u202fPM.png",
+    "category": "Rats / Rodent Infestation",
+    "folder": "rats",
+    "severity": "critical",
+    "department": "General / Pest Control",
+    "refined_caption": "A rodent is visible in the hospital room, near a row of beds. The rodent appears to be in close proximity to patient care areas.",
+    "complaint_description": "I was shocked to see a rat in the hospital room where my family member is being treated. The rodent was roaming freely near the beds, which is completely unacceptable in a healthcare setting. This is a serious concern for patient safety and hygiene.",
+    "voice_text": "There's a rat in the hospital room, right next to the beds, it's disgusting and I'm worried about patient safety.",
+    "tags": [
+      "rodent_infestation",
+      "hospital_hygiene",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "Screenshot 2026-04-18 at 4.57.15\u202fPM.png",
+    "category": "Rats / Rodent Infestation",
+    "folder": "rats",
+    "severity": "critical",
+    "department": "General / Pest Control",
+    "refined_caption": "A rodent is visible in the hospital room, next to a hospital bed. The rodent appears to be in close proximity to the patient's area.",
+    "complaint_description": "I was shocked to see a rat in my hospital room, right next to my bed. This is completely unacceptable and I'm worried about my health and safety. I demand that something be done immediately to address this issue.",
+    "voice_text": "There's a rat in my hospital room, right next to my bed, this is disgusting and I need someone to do something about it now.",
+    "tags": [
+      "rodent_infestation",
+      "hospital_room",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "Screenshot 2026-04-18 at 4.57.36\u202fPM.png",
+    "category": "Rats / Rodent Infestation",
+    "folder": "rats",
+    "severity": "critical",
+    "department": "General / Pest Control",
+    "refined_caption": "A rodent is visible in the hospital room, posing a potential health risk. The rodent appears to be looking directly at the camera.",
+    "complaint_description": "I was shocked to see a rat in my hospital room, which is completely unacceptable. The presence of rodents in a healthcare setting is a serious concern for patient safety and hygiene. I demand immediate attention to this issue to ensure a clean and safe environment for all patients.",
+    "voice_text": "There's a rat in my hospital room, this is disgusting and I need someone to take care of it now.",
+    "tags": [
+      "rodent_infestation",
+      "hospital_safety",
+      "pest_control"
+    ]
+  },
+  {
+    "image_id": "Screenshot 2026-04-18 at 4.57.52\u202fPM.png",
+    "category": "Rats / Rodent Infestation",
+    "folder": "rats",
+    "severity": "critical",
+    "department": "General / Pest Control",
+    "refined_caption": "A rodent is visible in a hospital room. There is also a cat in the background.",
+    "complaint_description": "I was shocked to see a rat in my hospital room, which is completely unacceptable. The presence of a cat in the room suggests that the rodent problem is severe. I am concerned about the cleanliness and safety of the hospital.",
+    "voice_text": "There's a rat in my hospital room, it's disgusting. I also saw a cat, I don't know what's going on with pest control here.",
+    "tags": [
+      "rodent_infestation",
+      "hospital_cleanliness",
+      "pest_control"
+    ]
+  },
+  {
+    "image_id": "Screenshot 2026-04-18 at 4.58.50\u202fPM.png",
+    "category": "Rats / Rodent Infestation",
+    "folder": "rats",
+    "severity": "critical",
+    "department": "General / Pest Control",
+    "refined_caption": "A rodent is visible in a hospital hallway. The rodent appears to be present at night.",
+    "complaint_description": "I was shocked to see a rat in the hospital hallway while I was visiting my family member. The presence of rodents in a healthcare facility is unacceptable and raises serious concerns about cleanliness and patient safety. This incident occurred at night, which makes it even more disturbing.",
+    "voice_text": "There's a rat in the hospital hallway, I saw it when I was visiting at night, it's really gross and scary.",
+    "tags": [
+      "rodent_infestation",
+      "hospital_cleanliness",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "Screenshot 2026-04-18 at 5.01.22\u202fPM.png",
+    "category": "Rats / Rodent Infestation",
+    "folder": "rats",
+    "severity": "critical",
+    "department": "General / Pest Control",
+    "refined_caption": "A rodent is visible in the hospital room, next to a patient's bed. The rodent appears to be in close proximity to the bed.",
+    "complaint_description": "I was shocked to see a rat in my hospital room, right next to my bed. This is completely unacceptable and I'm worried about my health and safety. I demand that the hospital takes immediate action to address this issue.",
+    "voice_text": "There's a rat in my hospital room, right next to my bed, this is disgusting and I'm really concerned about my health.",
+    "tags": [
+      "rodent",
+      "hospital_room",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "aug_1.jpg",
+    "category": "Rats / Rodent Infestation",
+    "folder": "rats",
+    "severity": "critical",
+    "department": "General / Pest Control",
+    "refined_caption": "A rodent is visible in a hospital room with yellow walls. The rodent appears to be in close proximity to patient care areas.",
+    "complaint_description": "I was shocked to see a rat in my hospital room, which is completely unacceptable. The presence of rodents in a healthcare facility is a serious concern for patient safety and hygiene. I demand immediate attention to this issue.",
+    "voice_text": "There's a rat in my hospital room, this is disgusting and I need someone to take care of it now.",
+    "tags": [
+      "rodent_infestation",
+      "hospital_safety",
+      "pest_control"
+    ]
+  },
+  {
+    "image_id": "aug_17.jpg",
+    "category": "Rats / Rodent Infestation",
+    "folder": "rats",
+    "severity": "critical",
+    "department": "General / Pest Control",
+    "refined_caption": "A rodent is visible in a hospital bed, circled in red. The rodent appears to be in close proximity to a patient's sleeping area.",
+    "complaint_description": "I was shocked to see a rat in one of the hospital beds. The rodent was clearly visible and seemed to be roaming freely, which is completely unacceptable in a healthcare setting. This is a serious concern for patient safety and hygiene.",
+    "voice_text": "There's a rat in one of the hospital beds, it's disgusting and really worrying. I don't feel safe here with rodents running around.",
+    "tags": [
+      "rodent_infestation",
+      "hospital_safety",
+      "patient_hygiene"
+    ]
+  },
+  {
+    "image_id": "aug_18.jpg",
+    "category": "Rats / Rodent Infestation",
+    "folder": "rats",
+    "severity": "critical",
+    "department": "General / Pest Control",
+    "refined_caption": "A rodent is visible in a hospital bed, highlighted with a red circle. The rodent appears to be in close proximity to the bed's occupant.",
+    "complaint_description": "I was shocked to see a rat in one of the hospital beds. The rodent was clearly visible and seemed to be roaming freely, which is completely unacceptable in a healthcare setting. This is a serious concern for patient safety and hygiene.",
+    "voice_text": "There's a rat in one of the hospital beds, it's disgusting and totally unacceptable. Someone needs to do something about this ASAP.",
+    "tags": [
+      "rodent_infestation",
+      "hospital_safety",
+      "pest_control"
+    ]
+  },
+  {
+    "image_id": "aug_2.jpg",
+    "category": "Rats / Rodent Infestation",
+    "folder": "rats",
+    "severity": "critical",
+    "department": "General / Pest Control",
+    "refined_caption": "A rodent is visible in the hospital room, with a person present in the background. The rodent appears to be roaming freely.",
+    "complaint_description": "I was shocked to see a rat in my hospital room while I was visiting a patient. The rodent was running around on the floor and it was very disturbing. This is unacceptable in a healthcare setting.",
+    "voice_text": "There's a rat in the hospital room, it's just walking around on the floor. This is disgusting and something needs to be done about it.",
+    "tags": [
+      "rodent_infestation",
+      "hospital_room",
+      "pest_control"
+    ]
+  },
+  {
+    "image_id": "aug_3.jpg",
+    "category": "Rats / Rodent Infestation",
+    "folder": "rats",
+    "severity": "critical",
+    "department": "General / Pest Control",
+    "refined_caption": "A rodent is visible in a hospital cage with a blanket on its back. The cage appears to be in a hospital setting.",
+    "complaint_description": "I was shocked to see a rat in a cage in the hospital, it was even wearing a blanket. This is completely unacceptable and raises serious concerns about the cleanliness and safety of the hospital. I hope the hospital takes immediate action to address this issue.",
+    "voice_text": "There's a rat in a cage in the hospital, it's even got a blanket on it. This is disgusting and something needs to be done about it.",
+    "tags": [
+      "rodent_infestation",
+      "hospital_safety",
+      "pest_control"
+    ]
+  },
+  {
+    "image_id": "aug_4.jpg",
+    "category": "Rats / Rodent Infestation",
+    "folder": "rats",
+    "severity": "critical",
+    "department": "General / Pest Control",
+    "refined_caption": "A rodent is visible in the hospital room, near a bag of luggage. The rodent appears to be in close proximity to patient belongings.",
+    "complaint_description": "I was shocked to see a rat in my hospital room, right next to my luggage. This is completely unacceptable and I'm worried about the cleanliness and safety of the hospital. I demand that something be done about this immediately.",
+    "voice_text": "There's a rat in my hospital room, it's right next to my bag, this is disgusting. Can someone please do something about it?",
+    "tags": [
+      "rodent_infestation",
+      "hospital_cleanliness",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "aug_5.jpg",
+    "category": "Rats / Rodent Infestation",
+    "folder": "rats",
+    "severity": "critical",
+    "department": "General / Pest Control",
+    "refined_caption": "A rodent is visible in the hospital room, with a person in the background. The rodent appears to be roaming freely in the room.",
+    "complaint_description": "I was shocked to see a rat in my hospital room, it was running around on the floor while I was trying to rest. This is completely unacceptable and I'm worried about my health and safety. The hospital needs to take immediate action to address this issue.",
+    "voice_text": "There's a rat in my hospital room, I'm really concerned about the cleanliness and safety of this place.",
+    "tags": [
+      "rodent_infestation",
+      "hospital_cleanliness",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "aug_6.jpg",
+    "category": "Rats / Rodent Infestation",
+    "folder": "rats",
+    "severity": "critical",
+    "department": "General / Pest Control",
+    "refined_caption": "A rodent is visible in a hospital room with yellow walls. The rodent appears to be in the patient area.",
+    "complaint_description": "I was shocked to see a rat in my hospital room, which is completely unacceptable. The room had yellow walls and the rat was roaming around freely. This is a serious health concern and I demand immediate action.",
+    "voice_text": "There's a rat in my hospital room, it's disgusting and I'm really worried about my health. Can someone please do something about it?",
+    "tags": [
+      "rodent_infestation",
+      "hospital_room",
+      "pest_control"
+    ]
+  },
+  {
+    "image_id": "aug_7.jpg",
+    "category": "Rats / Rodent Infestation",
+    "folder": "rats",
+    "severity": "critical",
+    "department": "General / Pest Control",
+    "refined_caption": "A rodent is visible on the floor of a hospital room. The rodent appears to be in close proximity to patient areas.",
+    "complaint_description": "I was shocked to see a rat on the floor of my hospital room. This is completely unacceptable and I'm worried about the health and safety implications. I demand that the hospital takes immediate action to address this issue.",
+    "voice_text": "There's a rat in my hospital room, I'm really concerned about the cleanliness and safety here.",
+    "tags": [
+      "rodent_infestation",
+      "hospital_room",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "aug_8.jpg",
+    "category": "Rats / Rodent Infestation",
+    "folder": "rats",
+    "severity": "critical",
+    "department": "General / Pest Control",
+    "refined_caption": "A rodent is visible in the hospital room, with a person in the background. The rodent appears to be roaming freely in the room.",
+    "complaint_description": "I was shocked to see a rat in my hospital room while I was visiting a patient. The rodent was running around the room, and it was very disturbing. I'm concerned about the cleanliness and safety of the hospital.",
+    "voice_text": "There's a rat in the hospital room, it's just running around with people in there. This is really disgusting and something needs to be done about it.",
+    "tags": [
+      "rodent_infestation",
+      "hospital_safety",
+      "pest_control"
+    ]
+  },
+  {
+    "image_id": "img_1.jpg",
+    "category": "Rats / Rodent Infestation",
+    "folder": "rats",
+    "severity": "critical",
+    "department": "General / Pest Control",
+    "refined_caption": "A rodent is visible in a hospital room, near a sink. The rodent appears to be in close proximity to a patient care area.",
+    "complaint_description": "I was shocked to see a rat in my hospital room, right next to the sink where patients wash their hands. This is completely unacceptable and I'm worried about the health and safety of patients. The hospital needs to take immediate action to address this pest control issue.",
+    "voice_text": "There's a rat in my hospital room, right next to the sink, this is disgusting and I'm really concerned about patient safety.",
+    "tags": [
+      "rodent_infestation",
+      "hospital_safety",
+      "pest_control"
+    ]
+  },
+  {
+    "image_id": "img_2.jpg",
+    "category": "Rats / Rodent Infestation",
+    "folder": "rats",
+    "severity": "critical",
+    "department": "General / Pest Control",
+    "refined_caption": "A rodent is visible in a hospital bed, circled by a red circle. The rodent appears to be in close proximity to a patient's sleeping area.",
+    "complaint_description": "I was shocked to see a rat in one of the hospital beds during my visit. The rodent was clearly visible and seemed to be roaming freely, which is unacceptable in a healthcare setting. This is a serious concern for patient safety and hygiene.",
+    "voice_text": "There's a rat in one of the hospital beds, it's disgusting and really worrying. I don't think this is a safe place for patients to be.",
+    "tags": [
+      "rodent_infestation",
+      "patient_safety",
+      "hospital_hygiene"
+    ]
+  },
+  {
+    "image_id": "img_3.jpg",
+    "category": "Rats / Rodent Infestation",
+    "folder": "rats",
+    "severity": "critical",
+    "department": "General / Pest Control",
+    "refined_caption": "A rodent is visible in a hospital room, next to a bag of luggage. The rodent appears to be near patient belongings.",
+    "complaint_description": "I was shocked to see a rat in my hospital room, it was right next to my luggage. This is completely unacceptable and I'm worried about my health and safety. The hospital needs to take immediate action to address this pest control issue.",
+    "voice_text": "There's a rat in my hospital room, it's right next to my stuff. This is disgusting and I'm really concerned about getting sick.",
+    "tags": [
+      "rodent_infestation",
+      "hospital_room",
+      "pest_control"
+    ]
+  },
+  {
+    "image_id": "img_4.jpg",
+    "category": "Rats / Rodent Infestation",
+    "folder": "rats",
+    "severity": "critical",
+    "department": "General / Pest Control",
+    "refined_caption": "A rodent is visible in the hospital kitchen, eating food from a plate. The rodent appears to be accessing food meant for patients or staff.",
+    "complaint_description": "I was shocked to see a rat in the hospital kitchen eating food from a plate. This is completely unacceptable and raises serious concerns about the cleanliness and safety of the hospital. I fear for the health and well-being of patients and staff.",
+    "voice_text": "There's a rat in the hospital kitchen, eating off a plate, it's disgusting. This is a serious health risk, someone needs to do something about it.",
+    "tags": [
+      "rodent_infestation",
+      "hospital_kitchen",
+      "food_safety"
+    ]
+  },
+  {
+    "image_id": "img_5.jpg",
+    "category": "Rats / Rodent Infestation",
+    "folder": "rats",
+    "severity": "critical",
+    "department": "General / Pest Control",
+    "refined_caption": "A rodent is visible in the hospital room, with a person in the background. The rodent appears to be roaming freely.",
+    "complaint_description": "I was shocked to see a rat in my hospital room, it was running around on the floor while I was trying to rest. This is completely unacceptable and I'm worried about my health and safety. The hospital needs to take immediate action to address this issue.",
+    "voice_text": "There's a rat in my hospital room, I'm really concerned about the cleanliness and safety here. Can someone please do something about it?",
+    "tags": [
+      "rodent_infestation",
+      "hospital_cleanliness",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "img_6.jpg",
+    "category": "Rats / Rodent Infestation",
+    "folder": "rats",
+    "severity": "critical",
+    "department": "General / Pest Control",
+    "refined_caption": "A rodent is visible in a hospital room with yellow walls. The rodent appears to be in the patient care area.",
+    "complaint_description": "I was shocked to see a rat in my hospital room, which has yellow walls. This is completely unacceptable and I'm worried about my health and safety. The hospital needs to take immediate action to address this pest control issue.",
+    "voice_text": "There's a rat in my hospital room, it's disgusting and I'm really concerned about getting sick. Can someone please do something about it?",
+    "tags": [
+      "rodent_infestation",
+      "hospital_room",
+      "pest_control"
+    ]
+  },
+  {
+    "image_id": "img_7.jpg",
+    "category": "Rats / Rodent Infestation",
+    "folder": "rats",
+    "severity": "critical",
+    "department": "General / Pest Control",
+    "refined_caption": "A rodent is visible on the floor of a hospital room. The rodent appears to be in close proximity to patient areas.",
+    "complaint_description": "I was shocked to see a rat on the floor of my hospital room. This is completely unacceptable and I'm worried about the health and safety of patients. The hospital needs to take immediate action to address this pest control issue.",
+    "voice_text": "There's a rat in my hospital room, this is disgusting and I'm really concerned about patient safety.",
+    "tags": [
+      "rodent_infestation",
+      "hospital_safety",
+      "pest_control"
+    ]
+  },
+  {
+    "image_id": "img_8.jpg",
+    "category": "Rats / Rodent Infestation",
+    "folder": "rats",
+    "severity": "critical",
+    "department": "General / Pest Control",
+    "refined_caption": "A rodent is visible in a hospital cage with a blanket on its back. The rodent appears to be in close proximity to a potential patient area.",
+    "complaint_description": "I was visiting a patient and was shocked to see a rat in one of the hospital cages. The rat had a blanket on its back and seemed to be roaming freely. This is completely unacceptable and I'm concerned about the cleanliness and safety of the hospital.",
+    "voice_text": "There's a rat in one of the hospital cages, it's even got a blanket on its back. This is disgusting and something needs to be done about it.",
+    "tags": [
+      "rodent_infestation",
+      "hospital_cleanliness",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "aug_1.jpg",
+    "category": "Torn Hospital Privacy Curtain",
+    "folder": "torn_hospital_privacy_curtain",
+    "severity": "low",
+    "department": "General Ward",
+    "refined_caption": "The hospital privacy curtain in the room is visibly torn and damaged. The tear appears to be significant, potentially compromising patient privacy.",
+    "complaint_description": "I was admitted to the hospital and was shocked to see that the privacy curtain in my room was torn and damaged. This is a concern for me as it may compromise my privacy during my stay. I hope the hospital can replace or repair it as soon as possible.",
+    "voice_text": "The privacy curtain in my hospital room is all torn, can someone please fix it or replace it?",
+    "tags": [
+      "hospital_privacy",
+      "torn_curtain",
+      "patient_privacy"
+    ]
+  },
+  {
+    "image_id": "aug_10.jpg",
+    "category": "Torn Hospital Privacy Curtain",
+    "folder": "torn_hospital_privacy_curtain",
+    "severity": "low",
+    "department": "General Ward",
+    "refined_caption": "The hospital privacy curtain is torn or damaged, with a visible tear. A chair is also present in the background.",
+    "complaint_description": "I was visiting a patient in the general ward and noticed that the privacy curtain was torn and damaged. This is a concern for patient privacy and comfort. The hospital should replace or repair the curtain as soon as possible.",
+    "voice_text": "The privacy curtain in the general ward is all torn, can someone please fix it?",
+    "tags": [
+      "torn_curtain",
+      "hospital_privacy",
+      "general_ward"
+    ]
+  },
+  {
+    "image_id": "aug_3.jpg",
+    "category": "Torn Hospital Privacy Curtain",
+    "folder": "torn_hospital_privacy_curtain",
+    "severity": "low",
+    "department": "General Ward",
+    "refined_caption": "A hospital privacy curtain next to a hospital bed appears to be torn or damaged. The tear is visible, compromising patient privacy.",
+    "complaint_description": "I was visiting my family member in the hospital and noticed that the privacy curtain in their room was torn. This is concerning because it doesn't provide adequate privacy for patients. The hospital should replace or repair the curtain as soon as possible.",
+    "voice_text": "The privacy curtain in my room is all torn, can someone please fix it or replace it?",
+    "tags": [
+      "torn_curtain",
+      "hospital_privacy",
+      "patient_room"
+    ]
+  },
+  {
+    "image_id": "aug_5.jpg",
+    "category": "Torn Hospital Privacy Curtain",
+    "folder": "torn_hospital_privacy_curtain",
+    "severity": "low",
+    "department": "General Ward",
+    "refined_caption": "The hospital privacy curtain in the room appears to be torn or damaged. The tear is visible and may compromise patient privacy.",
+    "complaint_description": "I was admitted to the hospital and noticed that the privacy curtain in my room was torn. This is concerning because it may allow others to see into my room, which is a violation of my privacy. I hope this can be addressed soon.",
+    "voice_text": "The curtain in my hospital room is all torn, can someone please fix it?",
+    "tags": [
+      "hospital_privacy",
+      "torn_curtain",
+      "patient_room"
+    ]
+  },
+  {
+    "image_id": "aug_6.jpg",
+    "category": "Torn Hospital Privacy Curtain",
+    "folder": "torn_hospital_privacy_curtain",
+    "severity": "low",
+    "department": "General Ward",
+    "refined_caption": "A hospital privacy curtain in the hallway is visibly torn or damaged. The tear appears to be significant, potentially compromising patient privacy.",
+    "complaint_description": "I was walking down the hospital hallway and noticed that one of the privacy curtains was torn. This is concerning because it could affect the privacy of patients in the nearby rooms. I think it should be replaced as soon as possible to maintain a comfortable and private environment for everyone.",
+    "voice_text": "There's a torn curtain in the hospital hallway, it's pretty ripped up and I don't think it's doing its job for patient privacy.",
+    "tags": [
+      "hospital",
+      "privacy",
+      "maintenance"
+    ]
+  },
+  {
+    "image_id": "aug_8.jpg",
+    "category": "Torn Hospital Privacy Curtain",
+    "folder": "torn_hospital_privacy_curtain",
+    "severity": "low",
+    "department": "General Ward",
+    "refined_caption": "The hospital privacy curtain in the room appears to be torn or damaged. The tear is visible and may compromise patient privacy.",
+    "complaint_description": "I was admitted to the hospital and noticed that the privacy curtain in my room was torn, which made me feel uncomfortable and concerned about my privacy. The tear is quite noticeable and I think it should be replaced. I hope the hospital can take care of this issue soon.",
+    "voice_text": "There's a torn curtain in my hospital room, can someone please fix it? It's making me feel really uncomfortable.",
+    "tags": [
+      "hospital",
+      "privacy",
+      "maintenance"
+    ]
+  },
+  {
+    "image_id": "aug_9.jpg",
+    "category": "Torn Hospital Privacy Curtain",
+    "folder": "torn_hospital_privacy_curtain",
+    "severity": "low",
+    "department": "General Ward",
+    "refined_caption": "A hospital privacy curtain is torn or damaged, located next to a chair in a hallway. The tear appears to be noticeable and may compromise patient privacy.",
+    "complaint_description": "I was visiting a patient on the general ward and noticed that one of the privacy curtains was torn and damaged. This is concerning because it may affect the privacy of patients in the area. I hope this can be addressed soon to maintain a comfortable and private environment for all patients.",
+    "voice_text": "There's a torn curtain in the hallway on the general ward, it's pretty noticeable and I'm worried about patient privacy.",
+    "tags": [
+      "torn_curtain",
+      "hospital_privacy",
+      "general_ward"
+    ]
+  },
+  {
+    "image_id": "img_1.jpg",
+    "category": "Torn Hospital Privacy Curtain",
+    "folder": "torn_hospital_privacy_curtain",
+    "severity": "low",
+    "department": "General Ward",
+    "refined_caption": "A hospital privacy curtain in the hallway of a patient's room appears to be torn or damaged. The tear is visible, compromising patient privacy.",
+    "complaint_description": "I was visiting my family member in their hospital room and noticed that the privacy curtain in the hallway was torn, which made me concerned about the privacy and security of the patients. The tear was quite noticeable and seemed to be a maintenance issue that needed attention. I hope this can be fixed soon to ensure patient comfort and dignity.",
+    "voice_text": "There's a torn curtain in the hallway of my family member's hospital room, it's pretty noticeable and I'm worried about patient privacy.",
+    "tags": [
+      "hospital_maintenance",
+      "patient_privacy",
+      "torn_curtain"
+    ]
+  },
+  {
+    "image_id": "img_10.jpg",
+    "category": "Torn Hospital Privacy Curtain",
+    "folder": "torn_hospital_privacy_curtain",
+    "severity": "low",
+    "department": "General Ward",
+    "refined_caption": "The hospital privacy curtain in the room is torn and damaged. The tear is visible and appears to be a significant rip.",
+    "complaint_description": "I was admitted to the hospital and was shocked to see that the privacy curtain in my room was torn and damaged. This is a concern for me as it compromises my privacy and makes me feel uncomfortable. I hope this can be addressed as soon as possible.",
+    "voice_text": "The curtain in my hospital room is all torn, can someone please fix it?",
+    "tags": [
+      "hospital",
+      "privacy",
+      "curtain",
+      "damage",
+      "tear"
+    ]
+  },
+  {
+    "image_id": "img_11.jpg",
+    "category": "Torn Hospital Privacy Curtain",
+    "folder": "torn_hospital_privacy_curtain",
+    "severity": "low",
+    "department": "General Ward",
+    "refined_caption": "The hospital privacy curtain in the room is torn and damaged. The tear is visible and appears to be a significant hole.",
+    "complaint_description": "I was shocked to see that the privacy curtain in my hospital room was torn and damaged. This is a concern for patient privacy and dignity. I hope it can be replaced or repaired soon.",
+    "voice_text": "The privacy curtain in my room is all torn, can someone please fix it?",
+    "tags": [
+      "hospital_privacy",
+      "torn_curtain",
+      "patient_room"
+    ]
+  },
+  {
+    "image_id": "img_12.jpg",
+    "category": "Torn Hospital Privacy Curtain",
+    "folder": "torn_hospital_privacy_curtain",
+    "severity": "low",
+    "department": "General Ward",
+    "refined_caption": "The hospital privacy curtain in the room is torn and damaged. It appears to be hanging loosely from the rod.",
+    "complaint_description": "I was shocked to see the state of the privacy curtain in my hospital room. It's torn and doesn't provide any privacy, which is really concerning. I hope it can be replaced or fixed soon.",
+    "voice_text": "The curtain in my room is all torn, can someone please fix it or replace it?",
+    "tags": [
+      "hospital_maintenance",
+      "patient_privacy",
+      "room_condition"
+    ]
+  },
+  {
+    "image_id": "img_13.jpg",
+    "category": "Torn Hospital Privacy Curtain",
+    "folder": "torn_hospital_privacy_curtain",
+    "severity": "low",
+    "department": "General Ward",
+    "refined_caption": "A hospital privacy curtain next to a bed is visibly torn or damaged. The tear appears to be significant, potentially compromising patient privacy.",
+    "complaint_description": "I was admitted to the general ward and noticed that the privacy curtain in my room was torn, which made me feel uncomfortable and concerned about my privacy. The tear was quite large and seemed to be neglected. I hope this can be addressed to ensure patient dignity and confidentiality.",
+    "voice_text": "There's a torn curtain in my hospital room, it's really bothering me because I don't have any privacy.",
+    "tags": [
+      "hospital",
+      "privacy",
+      "maintenance"
+    ]
+  },
+  {
+    "image_id": "img_14.jpg",
+    "category": "Torn Hospital Privacy Curtain",
+    "folder": "torn_hospital_privacy_curtain",
+    "severity": "low",
+    "department": "General Ward",
+    "refined_caption": "A hospital privacy curtain next to a bed appears to be torn or damaged. The tear is visible, compromising patient privacy.",
+    "complaint_description": "I was admitted to the general ward and noticed that the privacy curtain in my room was torn, which made me feel uncomfortable and concerned about my privacy. The tear was quite noticeable and seemed to be a maintenance issue that needed attention. I hope this can be fixed soon to ensure patient dignity and comfort.",
+    "voice_text": "There's a torn curtain in my hospital room, it's really uncomfortable and I'm worried about my privacy.",
+    "tags": [
+      "hospital_maintenance",
+      "patient_privacy",
+      "torn_curtain"
+    ]
+  },
+  {
+    "image_id": "img_15.jpg",
+    "category": "Torn Hospital Privacy Curtain",
+    "folder": "torn_hospital_privacy_curtain",
+    "severity": "low",
+    "department": "General Ward",
+    "refined_caption": "A hospital privacy curtain is torn and damaged, located next to a hospital bed. The tear appears to be significant, potentially compromising patient privacy.",
+    "complaint_description": "I was admitted to the general ward and noticed that the privacy curtain in my room was torn and damaged. This is concerning as it may affect my privacy during my stay. I hope this can be addressed promptly to ensure a comfortable and private recovery.",
+    "voice_text": "The privacy curtain in my hospital room is all torn, can someone please fix it or replace it?",
+    "tags": [
+      "hospital_privacy",
+      "torn_curtain",
+      "patient_privacy"
+    ]
+  },
+  {
+    "image_id": "img_16.jpg",
+    "category": "Torn Hospital Privacy Curtain",
+    "folder": "torn_hospital_privacy_curtain",
+    "severity": "low",
+    "department": "General Ward",
+    "refined_caption": "The hospital privacy curtain in the room appears to be torn or damaged. The tear is visible and may compromise patient privacy.",
+    "complaint_description": "I was admitted to the hospital and noticed that the privacy curtain in my room was torn. This made me feel uncomfortable and concerned about my privacy. I hope this can be addressed soon to ensure all patients have a comfortable and private stay.",
+    "voice_text": "The curtain in my hospital room is all torn, can someone please fix it? It's making me feel really uncomfortable.",
+    "tags": [
+      "hospital_privacy",
+      "torn_curtain",
+      "patient_privacy"
+    ]
+  },
+  {
+    "image_id": "img_2.jpg",
+    "category": "Torn Hospital Privacy Curtain",
+    "folder": "torn_hospital_privacy_curtain",
+    "severity": "low",
+    "department": "General Ward",
+    "refined_caption": "A hospital privacy curtain in the hallway is visibly torn or damaged. The tear appears to be significant, potentially compromising patient privacy.",
+    "complaint_description": "I was walking down the hallway and noticed that one of the privacy curtains was torn, which made me concerned about the privacy of the patients in that area. The tear was quite large and seemed to be flapping open, which could be a problem. I think it should be fixed or replaced as soon as possible.",
+    "voice_text": "There's a torn curtain in the hallway, it's pretty ripped up and I'm worried about patient privacy.",
+    "tags": [
+      "hospital",
+      "privacy",
+      "maintenance"
+    ]
+  },
+  {
+    "image_id": "img_3.jpg",
+    "category": "Torn Hospital Privacy Curtain",
+    "folder": "torn_hospital_privacy_curtain",
+    "severity": "low",
+    "department": "General Ward",
+    "refined_caption": "The hospital privacy curtain in the room appears to be torn or damaged. The tear is visible and may compromise patient privacy.",
+    "complaint_description": "I was shocked to see that the privacy curtain in my hospital room was torn and damaged. This is a concern for me as it may affect my privacy during my stay. I hope it can be replaced or repaired soon.",
+    "voice_text": "The privacy curtain in my room is all torn, can someone please fix it or replace it?",
+    "tags": [
+      "hospital_privacy",
+      "torn_curtain",
+      "patient_room"
+    ]
+  },
+  {
+    "image_id": "img_4.jpg",
+    "category": "Torn Hospital Privacy Curtain",
+    "folder": "torn_hospital_privacy_curtain",
+    "severity": "low",
+    "department": "General Ward",
+    "refined_caption": "The hospital privacy curtain is torn and has a visible flower pattern. The tear appears to be noticeable.",
+    "complaint_description": "I was visiting my family member in the hospital and noticed that the privacy curtain in their room was torn. This made me concerned about their privacy and the overall cleanliness of the hospital. I hope this can be addressed soon.",
+    "voice_text": "The privacy curtain in my family member's hospital room is all torn, it's really concerning.",
+    "tags": [
+      "torn_curtain",
+      "hospital_privacy",
+      "patient_room"
+    ]
+  },
+  {
+    "image_id": "img_8.jpg",
+    "category": "Torn Hospital Privacy Curtain",
+    "folder": "torn_hospital_privacy_curtain",
+    "severity": "low",
+    "department": "General Ward",
+    "refined_caption": "The hospital privacy curtain in the room is torn and damaged. The tear is visible, compromising patient privacy.",
+    "complaint_description": "I was admitted to the hospital and was shocked to see that the privacy curtain in my room was torn. This is a concern for me as it affects my privacy and makes me feel uncomfortable. I hope this can be addressed soon.",
+    "voice_text": "The privacy curtain in my hospital room is all torn, can someone please fix it?",
+    "tags": [
+      "hospital",
+      "privacy",
+      "maintenance"
+    ]
+  },
+  {
+    "image_id": "img_9.jpg",
+    "category": "Torn Hospital Privacy Curtain",
+    "folder": "torn_hospital_privacy_curtain",
+    "severity": "low",
+    "department": "General Ward",
+    "refined_caption": "The hospital privacy curtain is torn and damaged. It hangs from the ceiling in a compromised state.",
+    "complaint_description": "I was shocked to see the state of the privacy curtain in my hospital room. It's torn and doesn't provide the privacy I need, which is really concerning. I hope it gets fixed soon.",
+    "voice_text": "The privacy curtain in my room is all torn, can someone please fix it?",
+    "tags": [
+      "torn_curtain",
+      "hospital_privacy",
+      "room_maintenance"
+    ]
+  },
+  {
+    "image_id": "aug_1.jpg",
+    "category": "Unappetizing Hospital Food Tray",
+    "folder": "unappetizing_hospital_food_tray",
+    "severity": "low",
+    "department": "Dietary / Canteen",
+    "refined_caption": "The hospital food tray appears unappetizing. A patient is sleeping in the background, seemingly uninterested in the food.",
+    "complaint_description": "I was disappointed to see the hospital food tray looked unappetizing, which made me lose my appetite. The presentation of the food was uninviting and I was not looking forward to eating it. This experience was not what I expected from a hospital.",
+    "voice_text": "The food here looks really unappetizing, I'm not even hungry anymore.",
+    "tags": [
+      "hospital_food",
+      "unappetizing",
+      "patient_care"
+    ]
+  },
+  {
+    "image_id": "aug_15.jpg",
+    "category": "Unappetizing Hospital Food Tray",
+    "folder": "unappetizing_hospital_food_tray",
+    "severity": "low",
+    "department": "Dietary / Canteen",
+    "refined_caption": "A hospital food tray appears unappetizing, with a patient sleeping in the background. The food tray is the main focus of the image.",
+    "complaint_description": "I was disappointed to see the hospital food tray looked unappetizing. The food did not look fresh or appealing, which was concerning given the importance of nutrition during recovery. I hope the hospital can improve their food quality.",
+    "voice_text": "The food tray looks really unappetizing, I'm worried about the quality of food they're serving here.",
+    "tags": [
+      "hospital_food",
+      "unappetizing_meal",
+      "patient_care"
+    ]
+  },
+  {
+    "image_id": "aug_2.jpg",
+    "category": "Unappetizing Hospital Food Tray",
+    "folder": "unappetizing_hospital_food_tray",
+    "severity": "low",
+    "department": "Dietary / Canteen",
+    "refined_caption": "The hospital food tray contains a bowl of fruit, bread, and butter, but the overall presentation appears unappetizing. The food items seem to be lacking in freshness and appeal.",
+    "complaint_description": "I was disappointed with the hospital food served to me today, the tray looked uninviting and the food did not seem fresh. The fruit was not ripe and the bread was stale, which made it hard for me to eat. I hope the hospital can improve the quality of their food.",
+    "voice_text": "The food they're serving here looks really unappetizing, I don't know if I can eat this.",
+    "tags": [
+      "hospital_food",
+      "unappetizing",
+      "food_quality"
+    ]
+  },
+  {
+    "image_id": "aug_3.jpg",
+    "category": "Unappetizing Hospital Food Tray",
+    "folder": "unappetizing_hospital_food_tray",
+    "severity": "low",
+    "department": "Dietary / Canteen",
+    "refined_caption": "The hospital food tray appears unappetizing. A patient is sleeping in the background, seemingly uninterested in the food.",
+    "complaint_description": "I was disappointed to see the hospital food tray looked unappetizing, which made me lose my appetite. The presentation was uninviting and I was expecting a more appealing meal. This experience was not what I expected from a hospital.",
+    "voice_text": "The food here looks really unappetizing, I'm not even hungry anymore. It's just not what I expected from a hospital.",
+    "tags": [
+      "hospital_food",
+      "unappetizing_meal",
+      "patient_care"
+    ]
+  },
+  {
+    "image_id": "aug_5.jpg",
+    "category": "Unappetizing Hospital Food Tray",
+    "folder": "unappetizing_hospital_food_tray",
+    "severity": "low",
+    "department": "Dietary / Canteen",
+    "refined_caption": "The hospital food tray contains bread, butter, jam, and a drink, but appears unappetizing. The presentation of the food is uninviting.",
+    "complaint_description": "I was disappointed with the food served to me during my hospital stay. The food tray had bread, butter, jam, and a drink, but it looked unappetizing and lacked presentation. I was expecting a more appealing meal to help with my recovery.",
+    "voice_text": "The food they're serving here looks really unappetizing, it's just a plain tray with some bread and stuff on it.",
+    "tags": [
+      "hospital_food",
+      "unappetizing_meal",
+      "patient_complaint"
+    ]
+  },
+  {
+    "image_id": "aug_6.jpg",
+    "category": "Unappetizing Hospital Food Tray",
+    "folder": "unappetizing_hospital_food_tray",
+    "severity": "low",
+    "department": "Dietary / Canteen",
+    "refined_caption": "The hospital food tray contains a tray of food and utensils that appear unappetizing. The presentation of the food is uninviting.",
+    "complaint_description": "I was disappointed with the food served to me during my stay at the hospital. The food on my tray looked unappetizing and I did not feel like eating it. This experience was unpleasant and I hope the hospital can improve their food quality.",
+    "voice_text": "The food they're serving here looks really gross, I don't want to eat it.",
+    "tags": [
+      "hospital_food",
+      "unappetizing",
+      "patient_experience"
+    ]
+  },
+  {
+    "image_id": "aug_7.jpg",
+    "category": "Unappetizing Hospital Food Tray",
+    "folder": "unappetizing_hospital_food_tray",
+    "severity": "low",
+    "department": "Dietary / Canteen",
+    "refined_caption": "The hospital food tray contains a variety of foods that appear unappetizing. The presentation of the food is uninviting.",
+    "complaint_description": "I was disappointed with the food served to me during my hospital stay. The food on my tray looked unappetizing and I did not feel like eating it. This experience was unpleasant and affected my overall satisfaction with the hospital.",
+    "voice_text": "The food they're serving here looks really unappetizing, I'm not sure I want to eat it.",
+    "tags": [
+      "hospital_food",
+      "food_quality",
+      "patient_satisfaction"
+    ]
+  },
+  {
+    "image_id": "img_1.jpg",
+    "category": "Unappetizing Hospital Food Tray",
+    "folder": "unappetizing_hospital_food_tray",
+    "severity": "low",
+    "department": "Dietary / Canteen",
+    "refined_caption": "The hospital food tray appears unappetizing, with a tray of food that does not look fresh. A woman is sitting nearby, using her cell phone.",
+    "complaint_description": "I was disappointed with the food served to me during my hospital stay. The food on my tray looked unappetizing and did not smell fresh. I was expecting a more satisfying meal to help with my recovery.",
+    "voice_text": "The food here looks really gross, I'm not even sure I want to eat it.",
+    "tags": [
+      "hospital_food",
+      "unappetizing_meal",
+      "patient_complaint"
+    ]
+  },
+  {
+    "image_id": "img_2.jpg",
+    "category": "Unappetizing Hospital Food Tray",
+    "folder": "unappetizing_hospital_food_tray",
+    "severity": "low",
+    "department": "Dietary / Canteen",
+    "refined_caption": "The hospital food tray contains a variety of foods that appear unappetizing. The presentation of the food is uninviting.",
+    "complaint_description": "I was disappointed with the food served to me during my hospital stay. The food on my tray looked unappetizing and I did not feel like eating it. This experience was unpleasant and I hope the hospital can improve their food quality.",
+    "voice_text": "The food they're serving here looks really gross, I don't want to eat it.",
+    "tags": [
+      "hospital_food",
+      "unappetizing",
+      "food_quality"
+    ]
+  },
+  {
+    "image_id": "img_3.jpg",
+    "category": "Unappetizing Hospital Food Tray",
+    "folder": "unappetizing_hospital_food_tray",
+    "severity": "low",
+    "department": "Dietary / Canteen",
+    "refined_caption": "The hospital food tray contains a tray of food and utensils that appear unappetizing. The food does not look fresh or appealing.",
+    "complaint_description": "I was disappointed with the food served to me during my hospital stay. The food on my tray looked unappetizing and did not smell fresh. I was expecting a more satisfying meal to help with my recovery.",
+    "voice_text": "The food they're serving here looks really unappetizing, I'm not sure I want to eat it.",
+    "tags": [
+      "hospital_food",
+      "unappetizing_meal",
+      "patient_complaint"
+    ]
+  },
+  {
+    "image_id": "img_4.jpg",
+    "category": "Unappetizing Hospital Food Tray",
+    "folder": "unappetizing_hospital_food_tray",
+    "severity": "low",
+    "department": "Dietary / Canteen",
+    "refined_caption": "The hospital food tray contains a variety of foods that appear unappetizing. The presentation of the food is unappealing.",
+    "complaint_description": "I was disappointed with the food served to me during my hospital stay. The food on the tray looked unappetizing and I did not feel like eating it. This is not the standard of food I expect from a hospital.",
+    "voice_text": "The food they're serving here looks really gross, I don't want to eat it.",
+    "tags": [
+      "hospital_food",
+      "unappetizing",
+      "patient_complaint"
+    ]
+  },
+  {
+    "image_id": "img_7.jpg",
+    "category": "Unappetizing Hospital Food Tray",
+    "folder": "unappetizing_hospital_food_tray",
+    "severity": "low",
+    "department": "Dietary / Canteen",
+    "refined_caption": "The hospital food tray contains a variety of foods that appear unappetizing. The presentation of the food is unappealing.",
+    "complaint_description": "I was disappointed with the food served to me during my hospital stay. The food on my tray looked unappetizing and I did not feel like eating it. This is not the standard of food I expect from a hospital.",
+    "voice_text": "The food on my hospital tray looks really gross, I don't want to eat it.",
+    "tags": [
+      "hospital_food",
+      "unappetizing",
+      "patient_complaint"
+    ]
+  },
+  {
+    "image_id": "img_8.jpg",
+    "category": "Unappetizing Hospital Food Tray",
+    "folder": "unappetizing_hospital_food_tray",
+    "severity": "low",
+    "department": "Dietary / Canteen",
+    "refined_caption": "The hospital food tray contains bread, butter, jam, and a drink, but the presentation appears unappetizing. The food items are not arranged in an appealing manner.",
+    "complaint_description": "I was disappointed with the food served to me during my stay at the hospital. The food tray had a basic meal of bread, butter, and jam, but it looked unappetizing and lacked any effort in presentation. This made it difficult for me to eat and enjoy my meal.",
+    "voice_text": "The food they brought me looks really unappetizing, just some plain bread and stuff on a tray.",
+    "tags": [
+      "hospital_food",
+      "unappetizing_meal",
+      "poor_presentation"
+    ]
+  },
+  {
+    "image_id": "img_9.jpg",
+    "category": "Unappetizing Hospital Food Tray",
+    "folder": "unappetizing_hospital_food_tray",
+    "severity": "low",
+    "department": "Dietary / Canteen",
+    "refined_caption": "A hospital food tray appears unappetizing, with a patient sleeping in the background. The food tray is the main focus of the image.",
+    "complaint_description": "I was disappointed to see the hospital food tray looked unappetizing. The food did not look fresh or appealing, which was concerning given the importance of nutrition during recovery. This experience was not what I expected from a hospital.",
+    "voice_text": "The hospital food looks really unappetizing, it's not what I expected. The tray just doesn't look fresh or appealing at all.",
+    "tags": [
+      "hospital_food",
+      "unappetizing_meal",
+      "patient_care"
+    ]
+  },
+  {
+    "image_id": "Screenshot 2026-04-18 at 5.18.21\u202fPM.png",
+    "category": "Unhygienic / Contaminated Hospital Food",
+    "folder": "unhygienic_hospital_food_contaminated",
+    "severity": "high",
+    "department": "Dietary / Canteen",
+    "refined_caption": "The hospital food on the plate appears to be contaminated with crumbs and other debris. The food does not look fresh or hygienically prepared.",
+    "complaint_description": "I was served a meal in the hospital that was clearly contaminated with crumbs and other debris. The food looked old and unappetizing, and I was worried about getting sick from eating it. I expect a higher standard of food quality and hygiene in a hospital.",
+    "voice_text": "I got a plate of food here in the hospital and it's got crumbs all over it, looks really unhygienic.",
+    "tags": [
+      "hospital_food",
+      "contamination",
+      "unhygienic_conditions"
+    ]
+  },
+  {
+    "image_id": "Screenshot 2026-04-18 at 5.23.23\u202fPM.png",
+    "category": "Unhygienic / Contaminated Hospital Food",
+    "folder": "unhygienic_hospital_food_contaminated",
+    "severity": "high",
+    "department": "Dietary / Canteen",
+    "refined_caption": "Hospital food items are left in a sink, appearing unhygienic and contaminated. The food is exposed to potential bacterial growth and other contaminants.",
+    "complaint_description": "I was appalled to see hospital food items left in a sink, which is a clear breach of hygiene standards. This is unacceptable and poses a significant risk to patient health. I demand immediate attention to this matter to ensure the food served to patients is safe and clean.",
+    "voice_text": "There's food just sitting in a sink, it's disgusting and not hygienic at all, someone should do something about it.",
+    "tags": [
+      "unhygienic_food",
+      "hospital_food_safety",
+      "contamination_risk"
+    ]
+  },
+  {
+    "image_id": "aug_1.jpg",
+    "category": "Unhygienic / Contaminated Hospital Food",
+    "folder": "unhygienic_hospital_food_contaminated",
+    "severity": "high",
+    "department": "Dietary / Canteen",
+    "refined_caption": "The hospital food appears to be contaminated and unhygienic. Visible signs of contamination are present on the food.",
+    "complaint_description": "I was served contaminated food during my stay at the hospital, which is unacceptable. The food had visible signs of contamination and I'm worried about my health. I hope the hospital takes immediate action to address this issue.",
+    "voice_text": "The food they served me at the hospital was disgusting, it was contaminated and I could see it, I'm really worried about getting sick from it.",
+    "tags": [
+      "unhygienic_food",
+      "hospital_contamination",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "aug_12.jpg",
+    "category": "Unhygienic / Contaminated Hospital Food",
+    "folder": "unhygienic_hospital_food_contaminated",
+    "severity": "high",
+    "department": "Dietary / Canteen",
+    "refined_caption": "The hospital kitchen is preparing food in an unhygienic environment, with visible signs of contamination. Food is being handled in a way that may compromise patient health.",
+    "complaint_description": "I was appalled to see the state of the hospital kitchen, where food was being prepared in an unhygienic environment. The food handlers were not following proper sanitation protocols, which is a serious concern for patient health. I fear that this could lead to the spread of infections and compromise the well-being of patients.",
+    "voice_text": "The hospital kitchen is disgusting, they're preparing food in a totally unhygienic environment, it's a health hazard.",
+    "tags": [
+      "unhygienic_food",
+      "hospital_kitchen",
+      "food_contamination"
+    ]
+  },
+  {
+    "image_id": "aug_13.jpg",
+    "category": "Unhygienic / Contaminated Hospital Food",
+    "folder": "unhygienic_hospital_food_contaminated",
+    "severity": "high",
+    "department": "Dietary / Canteen",
+    "refined_caption": "The hospital kitchen is preparing food in an unhygienic environment, with visible signs of contamination. Food is being handled in a way that may compromise patient health.",
+    "complaint_description": "I was appalled to see the state of the hospital kitchen where my food was being prepared. The kitchen was dirty and the staff seemed to be handling food in a way that could easily spread infection. As a patient, I'm worried about the risk of getting sick from the food.",
+    "voice_text": "The hospital food is being prepared in a really dirty kitchen, it's disgusting and I'm worried I'll get sick from eating it.",
+    "tags": [
+      "hospital_food_safety",
+      "kitchen_hygiene",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "aug_14.jpg",
+    "category": "Unhygienic / Contaminated Hospital Food",
+    "folder": "unhygienic_hospital_food_contaminated",
+    "severity": "high",
+    "department": "Dietary / Canteen",
+    "refined_caption": "The hospital kitchen is preparing food in an unhygienic environment, with visible signs of contamination. Food is being handled in a way that may compromise patient health.",
+    "complaint_description": "I was shocked to see the state of the hospital kitchen where my food was being prepared. The area was dirty and the staff seemed to be handling food in a way that was not hygienic. I am worried about the risk of infection and the overall quality of care.",
+    "voice_text": "The hospital food is being prepared in a really dirty kitchen, it's disgusting and I'm worried about getting sick.",
+    "tags": [
+      "unhygienic",
+      "contaminated_food",
+      "hospital_kitchen"
+    ]
+  },
+  {
+    "image_id": "aug_15.jpg",
+    "category": "Unhygienic / Contaminated Hospital Food",
+    "folder": "unhygienic_hospital_food_contaminated",
+    "severity": "high",
+    "department": "Dietary / Canteen",
+    "refined_caption": "A hospital food safety sign is placed on a metal shelf, but the surrounding area appears unhygienic and contaminated. The sign is visible, but the environment seems to be compromised.",
+    "complaint_description": "I was shocked to see the state of the hospital food area, with what looks like contaminated food and unhygienic conditions. The food safety sign on the metal shelf seems ironic given the visible state of the surroundings. I'm concerned about the health and safety of patients and staff.",
+    "voice_text": "The hospital food area is really dirty and contaminated, there's even a food safety sign on the shelf, it's pretty ironic.",
+    "tags": [
+      "hospital_food_safety",
+      "unhygienic_conditions",
+      "contaminated_food"
+    ]
+  },
+  {
+    "image_id": "aug_16.jpg",
+    "category": "Unhygienic / Contaminated Hospital Food",
+    "folder": "unhygienic_hospital_food_contaminated",
+    "severity": "high",
+    "department": "Dietary / Canteen",
+    "refined_caption": "Hospital food is being cooked in a large bowl, appearing unhygienic and contaminated. The food preparation area appears to be dirty.",
+    "complaint_description": "I was appalled to see the hospital food being prepared in an unhygienic manner. The food was being cooked in a large bowl that looked contaminated, and the surrounding area was dirty. This is unacceptable for a hospital that is supposed to prioritize patient health and safety.",
+    "voice_text": "The hospital food is being cooked in a dirty bowl, it's really unhygienic. I'm worried about the health and safety of the patients who are being served this food.",
+    "tags": [
+      "unhygienic_food",
+      "hospital_food_safety",
+      "contamination_risk"
+    ]
+  },
+  {
+    "image_id": "aug_17.jpg",
+    "category": "Unhygienic / Contaminated Hospital Food",
+    "folder": "unhygienic_hospital_food_contaminated",
+    "severity": "high",
+    "department": "Dietary / Canteen",
+    "refined_caption": "The hospital food appears to be contaminated and unhygienic. Visible signs of contamination are present on the food.",
+    "complaint_description": "I was served hospital food that looked contaminated and unhygienic. The food had visible signs of spoilage and I am concerned about the risk of foodborne illness. I expect the hospital to provide safe and clean food to its patients.",
+    "voice_text": "The food they're serving here is disgusting, it's all contaminated and stuff. I don't think it's safe to eat.",
+    "tags": [
+      "hospital_food",
+      "contamination",
+      "unhygienic_conditions"
+    ]
+  },
+  {
+    "image_id": "aug_18.jpg",
+    "category": "Unhygienic / Contaminated Hospital Food",
+    "folder": "unhygienic_hospital_food_contaminated",
+    "severity": "high",
+    "department": "Dietary / Canteen",
+    "refined_caption": "The hospital kitchen appears to be preparing food in an unhygienic environment. Visible contaminants are present in the food preparation area.",
+    "complaint_description": "I was appalled to see the state of the hospital kitchen where my food was being prepared. The area was dirty and there were visible signs of contamination, which is unacceptable for a healthcare facility. I'm worried about the risk of infection from the food.",
+    "voice_text": "The hospital food is being prepared in a really dirty kitchen, I can see contaminants everywhere. This is disgusting and I'm scared to eat the food.",
+    "tags": [
+      "unhygienic_food",
+      "hospital_kitchen",
+      "food_contamination"
+    ]
+  },
+  {
+    "image_id": "aug_19.jpg",
+    "category": "Unhygienic / Contaminated Hospital Food",
+    "folder": "unhygienic_hospital_food_contaminated",
+    "severity": "high",
+    "department": "Dietary / Canteen",
+    "refined_caption": "The hospital food storage area appears to be contaminated with food items scattered around. The area looks unhygienic.",
+    "complaint_description": "I was shocked to see the state of the hospital food storage area, it was filled with food items and looked extremely unhygienic. As a patient, it's concerning to think that the food being served to us may be contaminated. I hope the hospital takes immediate action to address this issue.",
+    "voice_text": "The food storage area in the hospital is really dirty and has food all over the place, it's pretty gross.",
+    "tags": [
+      "unhygienic_food",
+      "hospital_food_contamination",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "aug_2.jpg",
+    "category": "Unhygienic / Contaminated Hospital Food",
+    "folder": "unhygienic_hospital_food_contaminated",
+    "severity": "high",
+    "department": "Dietary / Canteen",
+    "refined_caption": "The hospital food appears to be contaminated and unhygienic. Visible signs of contamination are present on the food.",
+    "complaint_description": "I was served a meal in the hospital that looked contaminated and unhygienic. The food had visible signs of spoilage and I was concerned about my health and safety. I reported this to the hospital staff immediately.",
+    "voice_text": "The food they served me in the hospital looks really contaminated and gross, I'm worried about getting sick.",
+    "tags": [
+      "hospital_food_safety",
+      "contamination",
+      "unhygienic_conditions"
+    ]
+  },
+  {
+    "image_id": "aug_20.jpg",
+    "category": "Unhygienic / Contaminated Hospital Food",
+    "folder": "unhygienic_hospital_food_contaminated",
+    "severity": "high",
+    "department": "Dietary / Canteen",
+    "refined_caption": "The hospital food appears to be contaminated and unhygienic. Visible signs of contamination are present on the food.",
+    "complaint_description": "I was served food in the hospital that looked contaminated and unhygienic. The food had visible signs of spoilage and I am concerned about the risk of infection. I request that the hospital takes immediate action to address this issue.",
+    "voice_text": "The food they're serving here is disgusting and looks contaminated, I don't think it's safe to eat.",
+    "tags": [
+      "unhygienic_food",
+      "hospital_contamination",
+      "food_safety"
+    ]
+  },
+  {
+    "image_id": "img_1.jpg",
+    "category": "Unhygienic / Contaminated Hospital Food",
+    "folder": "unhygienic_hospital_food_contaminated",
+    "severity": "high",
+    "department": "Dietary / Canteen",
+    "refined_caption": "The hospital food appears to be contaminated and is being served in a hospital room. A nurse is nearby, tending to a child.",
+    "complaint_description": "I was shocked to see the state of the food being served to patients in the hospital room. The food looked contaminated and it's unacceptable that it's being given to patients, especially children. This is a serious concern for patient health and safety.",
+    "voice_text": "The food they're serving here looks really contaminated, it's disgusting. I don't think it's safe for the patients, especially the kids.",
+    "tags": [
+      "hospital_food",
+      "contamination",
+      "patient_safety"
+    ]
+  },
+  {
+    "image_id": "img_2.jpg",
+    "category": "Unhygienic / Contaminated Hospital Food",
+    "folder": "unhygienic_hospital_food_contaminated",
+    "severity": "high",
+    "department": "Dietary / Canteen",
+    "refined_caption": "The hospital kitchen is preparing food in an unhygienic environment, with visible signs of contamination. Food is being handled in a way that may compromise patient health.",
+    "complaint_description": "I was shocked to see the state of the hospital kitchen, where food was being prepared in a clearly unhygienic environment. The staff seemed to be handling food without proper precautions, which is unacceptable in a healthcare setting. I fear for the health and safety of patients who may be served this food.",
+    "voice_text": "The hospital kitchen is disgusting, they're preparing food in a totally unhygienic environment, it's like they don't care about patient health.",
+    "tags": [
+      "hospital_food_safety",
+      "kitchen_hygiene",
+      "patient_health_risk"
+    ]
+  },
+  {
+    "image_id": "img_3.jpg",
+    "category": "Unhygienic / Contaminated Hospital Food",
+    "folder": "unhygienic_hospital_food_contaminated",
+    "severity": "high",
+    "department": "Dietary / Canteen",
+    "refined_caption": "The hospital food appears to be contaminated and unhygienic. Visible signs of contamination are present on the food.",
+    "complaint_description": "I was served a meal in the hospital that looked contaminated and unhygienic. The food had visible signs of spoilage and I was concerned about my health and safety. I reported this to the hospital staff immediately.",
+    "voice_text": "The food they served me in the hospital looks really contaminated and gross, I don't think it's safe to eat.",
+    "tags": [
+      "hospital_food_safety",
+      "contamination",
+      "unhygienic_conditions"
+    ]
+  },
+  {
+    "image_id": "img_4.jpg",
+    "category": "Unhygienic / Contaminated Hospital Food",
+    "folder": "unhygienic_hospital_food_contaminated",
+    "severity": "high",
+    "department": "Dietary / Canteen",
+    "refined_caption": "A child is being served hospital food that appears to be contaminated. The food is being served in an unconventional setting, in front of a car.",
+    "complaint_description": "I was shocked to see a child being served what looked like contaminated food at the hospital. The food was being handed out in a setting that didn't seem very sanitary, right in front of a car. This is completely unacceptable and I'm worried about the health and safety of the patients.",
+    "voice_text": "I just saw a kid being given contaminated hospital food, it's disgusting. They're serving it right in front of a car, what kind of hygiene is that?",
+    "tags": [
+      "unhygienic_food",
+      "contaminated_meal",
+      "hospital_safety"
+    ]
+  },
+  {
+    "image_id": "img_5.jpg",
+    "category": "Unhygienic / Contaminated Hospital Food",
+    "folder": "unhygienic_hospital_food_contaminated",
+    "severity": "high",
+    "department": "Dietary / Canteen",
+    "refined_caption": "The hospital kitchen appears to be preparing food in an unhygienic environment, with visible signs of contamination. Food is being handled in a way that may compromise its safety.",
+    "complaint_description": "I was appalled to see the state of the hospital kitchen, where food was being prepared in a clearly unhygienic manner. The conditions were unsanitary and I fear for the health and safety of patients who may be served this food. I hope the hospital takes immediate action to address this issue.",
+    "voice_text": "The hospital kitchen is disgusting, they're preparing food in a really unhygienic way, it's like they don't care about patient safety.",
+    "tags": [
+      "hospital_food_safety",
+      "unhygienic_kitchen",
+      "patient_safety_risk"
+    ]
+  },
+  {
+    "image_id": "img_6.jpg",
+    "category": "Unhygienic / Contaminated Hospital Food",
+    "folder": "unhygienic_hospital_food_contaminated",
+    "severity": "high",
+    "department": "Dietary / Canteen",
+    "refined_caption": "The hospital food appears to be contaminated and unhygienic. Visible signs of contamination are present on the food.",
+    "complaint_description": "I was served food in the hospital that looked contaminated and unhygienic. The food had visible signs of spoilage and I was worried about my health. I reported this to the hospital staff immediately.",
+    "voice_text": "The food they served me in the hospital looks really contaminated and unhygienic, I'm worried about getting sick.",
+    "tags": [
+      "hospital_food",
+      "contamination",
+      "unhygienic_conditions"
+    ]
+  },
+  {
+    "image_id": "aug_1.jpg",
+    "category": "Water Puddle on Hospital Floor",
+    "folder": "water_puddle_on_hospital_floor",
+    "severity": "medium",
+    "department": "General Ward",
+    "refined_caption": "There are water puddles on the hospital floor, which is also marked with orange lines. The floor appears to be wet and slippery.",
+    "complaint_description": "I was walking down the hospital floor and noticed that there were water puddles everywhere, which made the floor very slippery. I'm worried that someone might slip and fall. The hospital should clean this up as soon as possible.",
+    "voice_text": "There's water all over the floor here, it's really slippery, someone should clean it up.",
+    "tags": [
+      "water_puddle",
+      "slippery_floor",
+      "hospital_safety"
+    ]
+  },
+  {
+    "image_id": "aug_10.jpg",
+    "category": "Water Puddle on Hospital Floor",
+    "folder": "water_puddle_on_hospital_floor",
+    "severity": "medium",
+    "department": "General Ward",
+    "refined_caption": "There is water on the hospital floor and a bed is visible in the background. The water appears to be a puddle.",
+    "complaint_description": "I was visiting my family member on the general ward and noticed a puddle of water on the floor. This is a slipping hazard and could lead to accidents. The hospital should clean this up immediately to ensure patient safety.",
+    "voice_text": "There's water all over the floor on the general ward, it's a real slipping hazard.",
+    "tags": [
+      "water_puddle",
+      "hospital_floor",
+      "slipping_hazard"
+    ]
+  },
+  {
+    "image_id": "aug_2.jpg",
+    "category": "Water Puddle on Hospital Floor",
+    "folder": "water_puddle_on_hospital_floor",
+    "severity": "medium",
+    "department": "General Ward",
+    "refined_caption": "There is a water puddle on the hospital floor, with a bed visible in the background. The water appears to be splashing on the floor.",
+    "complaint_description": "I was visiting a patient on the general ward and noticed a large water puddle on the floor. The puddle is not only a slipping hazard, but it's also creating an unpleasant environment for patients and visitors. I'm concerned about the potential for accidents and the overall cleanliness of the hospital.",
+    "voice_text": "There's water all over the floor on the general ward, it's really slippery and looks like a mess.",
+    "tags": [
+      "water_puddle",
+      "hospital_floor",
+      "slipping_hazard"
+    ]
+  },
+  {
+    "image_id": "aug_3.jpg",
+    "category": "Water Puddle on Hospital Floor",
+    "folder": "water_puddle_on_hospital_floor",
+    "severity": "medium",
+    "department": "General Ward",
+    "refined_caption": "There is water on the hospital floor, creating a reflective surface. The water appears to be a puddle.",
+    "complaint_description": "I was walking down the hospital floor and noticed a puddle of water on the ground. It's a slipping hazard and could cause someone to fall. The floor should be cleaned and dried to prevent accidents.",
+    "voice_text": "There's water all over the floor, it's really slippery. Someone should clean it up before someone gets hurt.",
+    "tags": [
+      "water_puddle",
+      "slipping_hazard",
+      "hospital_floor"
+    ]
+  },
+  {
+    "image_id": "aug_4.jpg",
+    "category": "Water Puddle on Hospital Floor",
+    "folder": "water_puddle_on_hospital_floor",
+    "severity": "medium",
+    "department": "General Ward",
+    "refined_caption": "There are water puddles on the hospital floor, and people are walking in the background. The puddles appear to be scattered across the floor.",
+    "complaint_description": "I was visiting my family member on the general ward and noticed that there were water puddles all over the floor. This is a slipping hazard and could lead to accidents. The hospital should clean this up immediately to ensure patient safety.",
+    "voice_text": "There's water all over the floor on the general ward, it's really slippery and someone's gonna get hurt.",
+    "tags": [
+      "water_puddle",
+      "hospital_floor",
+      "slipping_hazard"
+    ]
+  },
+  {
+    "image_id": "aug_6.jpg",
+    "category": "Water Puddle on Hospital Floor",
+    "folder": "water_puddle_on_hospital_floor",
+    "severity": "medium",
+    "department": "General Ward",
+    "refined_caption": "There is water leaking from the hospital floor, creating a puddle. A person is standing in the background.",
+    "complaint_description": "I was walking down the hospital floor and noticed a large puddle of water on the ground. The water seems to be leaking from somewhere, and it's making the floor slippery and hazardous. I'm worried someone might slip and fall.",
+    "voice_text": "There's water all over the floor here, it's leaking from somewhere and it's really slippery.",
+    "tags": [
+      "water_leak",
+      "slippery_floor",
+      "hospital_safety"
+    ]
+  },
+  {
+    "image_id": "aug_7.jpg",
+    "category": "Water Puddle on Hospital Floor",
+    "folder": "water_puddle_on_hospital_floor",
+    "severity": "medium",
+    "department": "General Ward",
+    "refined_caption": "There is water on the hospital floor, creating a reflective surface. The water appears to be a puddle.",
+    "complaint_description": "I was walking down the hospital floor and noticed a large puddle of water on the ground. This is a slipping hazard and could cause someone to fall. The hospital should clean this up immediately to ensure patient safety.",
+    "voice_text": "There's a big puddle of water on the floor, it's really slippery and someone's gonna get hurt if it's not cleaned up.",
+    "tags": [
+      "water_puddle",
+      "slipping_hazard",
+      "hospital_floor"
+    ]
+  },
+  {
+    "image_id": "aug_8.jpg",
+    "category": "Water Puddle on Hospital Floor",
+    "folder": "water_puddle_on_hospital_floor",
+    "severity": "medium",
+    "department": "General Ward",
+    "refined_caption": "There are water buckets on the hospital floor, indicating a water issue. A fire extinguisher is also visible nearby.",
+    "complaint_description": "I was visiting my family member on the hospital floor and noticed that there were water buckets everywhere, which is a slipping hazard. The floor was also wet and slippery, which is a concern for patient safety. I'm worried that someone might get hurt.",
+    "voice_text": "There's water all over the hospital floor, it's really slippery and there are buckets everywhere, I'm worried someone's gonna get hurt.",
+    "tags": [
+      "water_puddle",
+      "hospital_floor",
+      "slipping_hazard"
+    ]
+  },
+  {
+    "image_id": "img_1.jpg",
+    "category": "Water Puddle on Hospital Floor",
+    "folder": "water_puddle_on_hospital_floor",
+    "severity": "medium",
+    "department": "General Ward",
+    "refined_caption": "There is water on the hospital floor and a person is falling. The floor appears to be slippery due to the water.",
+    "complaint_description": "I was walking down the hospital floor when I saw a large puddle of water that seemed to be causing a slipping hazard. A man nearby lost his balance and fell, and I'm worried someone else might get hurt. The hospital staff should clean up the spill immediately to prevent any further accidents.",
+    "voice_text": "There's water all over the floor and someone just slipped and fell, can someone please clean this up?",
+    "tags": [
+      "water_puddle",
+      "slipping_hazard",
+      "hospital_safety"
+    ]
+  },
+  {
+    "image_id": "img_10.jpg",
+    "category": "Water Puddle on Hospital Floor",
+    "folder": "water_puddle_on_hospital_floor",
+    "severity": "medium",
+    "department": "General Ward",
+    "refined_caption": "There is water visible on the hospital floor. The water appears to be in the middle of the floor.",
+    "complaint_description": "I was walking down the hospital floor and noticed a large puddle of water in the middle of the hallway. This is a slipping hazard and could cause someone to fall. The hospital should clean this up immediately to ensure patient safety.",
+    "voice_text": "There's water all over the floor in the hospital, it's really slippery and someone's gonna get hurt.",
+    "tags": [
+      "water_puddle",
+      "hospital_floor",
+      "slipping_hazard"
+    ]
+  },
+  {
+    "image_id": "img_11.jpg",
+    "category": "Water Puddle on Hospital Floor",
+    "folder": "water_puddle_on_hospital_floor",
+    "severity": "medium",
+    "department": "General Ward",
+    "refined_caption": "There is water on the hospital floor and people are walking in the hallway. The water appears to be a puddle.",
+    "complaint_description": "I was visiting my family member on the general ward and noticed a large puddle of water on the floor. It's a slipping hazard and could cause someone to fall. The hospital staff should clean it up immediately.",
+    "voice_text": "There's water all over the floor in the hospital hallway, it's really slippery and someone's gonna get hurt.",
+    "tags": [
+      "water_puddle",
+      "hospital_floor",
+      "slipping_hazard"
+    ]
+  },
+  {
+    "image_id": "img_12.jpg",
+    "category": "Water Puddle on Hospital Floor",
+    "folder": "water_puddle_on_hospital_floor",
+    "severity": "medium",
+    "department": "General Ward",
+    "refined_caption": "There are water puddles on the hospital floor. People are walking in the background, navigating around the puddles.",
+    "complaint_description": "I visited my family member in the hospital and was concerned to see water puddles on the floor. The area was still being used by patients and staff, which could lead to slips and falls. I think the hospital should clean up the water immediately to prevent accidents.",
+    "voice_text": "There's water all over the floor in the hospital, it's really slippery and people are just walking around it, someone should clean it up.",
+    "tags": [
+      "water_puddle",
+      "hospital_floor",
+      "slip_hazard"
+    ]
+  },
+  {
+    "image_id": "img_13.jpg",
+    "category": "Water Puddle on Hospital Floor",
+    "folder": "water_puddle_on_hospital_floor",
+    "severity": "medium",
+    "department": "General Ward",
+    "refined_caption": "There is water on the hospital floor, with a bed visible in the background. The water appears to be a puddle.",
+    "complaint_description": "I was walking down the hospital floor and noticed a large puddle of water on the ground. It's a slipping hazard and could cause someone to fall. The hospital should clean this up immediately to ensure patient safety.",
+    "voice_text": "There's water all over the floor, it's really slippery and someone's gonna get hurt if it's not cleaned up.",
+    "tags": [
+      "water_puddle",
+      "hospital_floor",
+      "slipping_hazard"
+    ]
+  },
+  {
+    "image_id": "img_14.jpg",
+    "category": "Water Puddle on Hospital Floor",
+    "folder": "water_puddle_on_hospital_floor",
+    "severity": "medium",
+    "department": "General Ward",
+    "refined_caption": "There are water buckets on the hospital floor, indicating a water issue. A fire extinguisher is also present nearby.",
+    "complaint_description": "I was visiting my family member on the hospital floor and noticed that there were water buckets scattered around, which is a slipping hazard. The floor was also wet and slippery, making it difficult to walk around. This is a concern for patient safety.",
+    "voice_text": "There's water all over the hospital floor, it's really slippery and there are buckets everywhere, I'm worried someone's gonna fall.",
+    "tags": [
+      "water_puddle",
+      "hospital_floor",
+      "slipping_hazard"
+    ]
+  },
+  {
+    "image_id": "img_15.jpg",
+    "category": "Water Puddle on Hospital Floor",
+    "folder": "water_puddle_on_hospital_floor",
+    "severity": "medium",
+    "department": "General Ward",
+    "refined_caption": "The hospital floor has visible water puddles and orange lines. The water puddles appear to be scattered across the floor.",
+    "complaint_description": "I was walking down the hospital floor and noticed that there were water puddles everywhere, which could be a slipping hazard. The orange lines on the floor seem to be a warning, but the puddles themselves are still a concern. I'm worried about the safety and cleanliness of the hospital.",
+    "voice_text": "There's water all over the hospital floor, it's really slippery and I'm worried someone's gonna fall. The orange lines are there, but it's still pretty hazardous.",
+    "tags": [
+      "water_puddle",
+      "hospital_floor",
+      "slipping_hazard"
+    ]
+  },
+  {
+    "image_id": "img_16.jpg",
+    "category": "Water Puddle on Hospital Floor",
+    "folder": "water_puddle_on_hospital_floor",
+    "severity": "medium",
+    "department": "General Ward",
+    "refined_caption": "There is a water heater and boxes in the background of the hospital floor. A water puddle is visible on the floor.",
+    "complaint_description": "I was walking down the hospital floor and noticed a water puddle that could be a slipping hazard. The area also has a water heater and boxes nearby, which seems like a potential tripping hazard. I'm concerned about the safety of patients and visitors.",
+    "voice_text": "There's water on the floor and it's really slippery, someone should clean it up. It's near a water heater and some boxes, so it's a bit of a mess.",
+    "tags": [
+      "water_puddle",
+      "hospital_floor",
+      "slipping_hazard"
+    ]
+  },
+  {
+    "image_id": "img_2.jpg",
+    "category": "Water Puddle on Hospital Floor",
+    "folder": "water_puddle_on_hospital_floor",
+    "severity": "medium",
+    "department": "General Ward",
+    "refined_caption": "There is water on the hospital floor and a person is holding an umbrella, indicating a water issue. The floor appears to be wet.",
+    "complaint_description": "I was visiting my family member on the general ward and noticed that there was a significant amount of water on the floor. It was so wet that someone was even using an umbrella to stay dry. This is a slipping hazard and I'm concerned about the safety of patients and visitors.",
+    "voice_text": "There's water all over the floor on the general ward, it's so bad someone's using an umbrella",
+    "tags": [
+      "water_puddle",
+      "hospital_floor",
+      "slipping_hazard"
+    ]
+  },
+  {
+    "image_id": "img_3.jpg",
+    "category": "Water Puddle on Hospital Floor",
+    "folder": "water_puddle_on_hospital_floor",
+    "severity": "medium",
+    "department": "General Ward",
+    "refined_caption": "There is water on the hospital floor with a bed visible in the background. The water appears to be a puddle.",
+    "complaint_description": "I was walking down the hospital floor and noticed a large puddle of water on the ground. This is a slipping hazard and could cause someone to fall. The hospital should clean this up immediately to ensure patient safety.",
+    "voice_text": "There's water all over the floor here, it's really slippery and someone's gonna get hurt if it's not cleaned up.",
+    "tags": [
+      "water_puddle",
+      "hospital_floor",
+      "slipping_hazard"
+    ]
+  },
+  {
+    "image_id": "img_4.jpg",
+    "category": "Water Puddle on Hospital Floor",
+    "folder": "water_puddle_on_hospital_floor",
+    "severity": "medium",
+    "department": "General Ward",
+    "refined_caption": "There is water on the hospital floor, creating a reflective surface. The water appears to be a puddle.",
+    "complaint_description": "I was walking down the hospital floor and noticed a large puddle of water on the ground. This is a slipping hazard and could cause someone to fall. The hospital should clean this up immediately to ensure patient safety.",
+    "voice_text": "There's a big puddle of water on the floor, it's really slippery and someone's gonna get hurt if it's not cleaned up.",
+    "tags": [
+      "water_puddle",
+      "slipping_hazard",
+      "hospital_safety"
+    ]
+  },
+  {
+    "image_id": "img_5.jpg",
+    "category": "Water Puddle on Hospital Floor",
+    "folder": "water_puddle_on_hospital_floor",
+    "severity": "medium",
+    "department": "General Ward",
+    "refined_caption": "The hospital floor has visible water stains and a toilet is present in the background. There is a water puddle on the floor.",
+    "complaint_description": "I was visiting a patient on the general ward and noticed a water puddle on the floor, which could be a slipping hazard. The floor also has water stains, indicating a possible leak. This is a concern for patient safety and hygiene.",
+    "voice_text": "There's water all over the floor on the general ward, it's really slippery and there are stains everywhere.",
+    "tags": [
+      "water_puddle",
+      "hospital_floor",
+      "slipping_hazard"
+    ]
+  },
+  {
+    "image_id": "img_6.jpg",
+    "category": "Water Puddle on Hospital Floor",
+    "folder": "water_puddle_on_hospital_floor",
+    "severity": "medium",
+    "department": "General Ward",
+    "refined_caption": "There is a water leak on the hospital floor, with a puddle visible and a person standing nearby.",
+    "complaint_description": "I was walking down the hospital floor and noticed a significant amount of water leaking from the ceiling, creating a puddle that could be a slipping hazard. The water appears to be coming from a leak in the ceiling and it's making the floor very slippery. This is a concern for patient safety.",
+    "voice_text": "There's water all over the floor from a leak, it's really slippery and someone should clean it up.",
+    "tags": [
+      "water_leak",
+      "slippery_floor",
+      "hospital_safety"
+    ]
+  }
+]

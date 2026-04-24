@@ -1,0 +1,15 @@
+{
+  "image_id": "aug_19.jpg",
+  "category": "Unhygienic / Contaminated Hospital Food",
+  "folder": "unhygienic_hospital_food_contaminated",
+  "severity": "high",
+  "department": "Dietary / Canteen",
+  "refined_caption": "The hospital food storage area appears to be contaminated with food items scattered around. The area looks unhygienic.",
+  "complaint_description": "I was shocked to see the state of the hospital food storage area, it was filled with food items and looked extremely unhygienic. As a patient, it's concerning to think that the food being served to us may be contaminated. I hope the hospital takes immediate action to address this issue.",
+  "voice_text": "The food storage area in the hospital is really dirty and has food all over the place, it's pretty gross.",
+  "tags": [
+    "unhygienic food",
+    "hospital food contamination",
+    "patient safety"
+  ]
+}

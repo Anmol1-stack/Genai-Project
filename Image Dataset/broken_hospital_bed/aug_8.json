@@ -1,0 +1,15 @@
+{
+  "image_id": "aug_8.jpg",
+  "category": "Broken Hospital Bed",
+  "folder": "broken_hospital_bed",
+  "severity": "high",
+  "department": "General Ward",
+  "refined_caption": "The hospital bed appears to be damaged and is sitting in an abandoned room. The bed's frame is visibly broken.",
+  "complaint_description": "I was shocked to see a broken hospital bed just sitting in an abandoned room. This is a serious safety concern and it's unacceptable that it's been left unattended. The hospital should take immediate action to repair or replace the bed.",
+  "voice_text": "There's a broken hospital bed just sitting in a room, it's really concerning. Someone should fix it ASAP.",
+  "tags": [
+    "broken bed",
+    "hospital equipment",
+    "patient safety"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "img_2.jpg",
+  "category": "Dirty Hospital Bathroom",
+  "folder": "dirty_hospital_bathroom",
+  "severity": "high",
+  "department": "Sanitation",
+  "refined_caption": "The hospital bathroom appears dirty and unhygienic, with visible signs of neglect. The bathroom's condition suggests a lack of regular cleaning and maintenance.",
+  "complaint_description": "I was appalled by the condition of the hospital bathroom, which was filthy and clearly hadn't been cleaned in a long time. The state of the bathroom made me question the overall cleanliness and hygiene of the hospital. As a patient, I expect a clean and safe environment, which this bathroom clearly did not provide.",
+  "voice_text": "The bathroom in this hospital is disgusting, it's really dirty and looks like it hasn't been cleaned in ages.",
+  "tags": [
+    "dirty bathroom",
+    "hospital sanitation",
+    "unhygienic conditions"
+  ]
+}

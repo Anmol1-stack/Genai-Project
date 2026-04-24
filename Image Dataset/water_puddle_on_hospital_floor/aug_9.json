@@ -1,0 +1,16 @@
+{
+  "image_id": "aug_9.jpg",
+  "category": "Water Puddle on Hospital Floor",
+  "folder": "water_puddle_on_hospital_floor",
+  "severity": "medium",
+  "department": "General Ward",
+  "refined_caption": "a hospital floor with water and a caution wet floor sign - stock image",
+  "complaint_description": "Complaint regarding water puddle on hospital floor observed in the hospital.",
+  "voice_text": "I noticed a problem with water puddle on hospital floor in the hospital.",
+  "tags": [
+    "water puddle on hospital floor",
+    "hospital",
+    "complaint"
+  ],
+  "flagged": true
+}

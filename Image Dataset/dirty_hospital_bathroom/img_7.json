@@ -1,0 +1,15 @@
+{
+  "image_id": "img_7.jpg",
+  "category": "Dirty Hospital Bathroom",
+  "folder": "dirty_hospital_bathroom",
+  "severity": "high",
+  "department": "Sanitation",
+  "refined_caption": "The hospital bathroom appears to be unhygienic with a urinal on the floor. The area is visibly dirty.",
+  "complaint_description": "I was shocked to see the state of the hospital bathroom, it was filthy and had a urinal on the floor. This is unacceptable for a place where patients are supposed to receive care. The lack of cleanliness is a serious concern for patient health and safety.",
+  "voice_text": "The bathroom in this hospital is disgusting, there's a urinal just sitting on the floor and it's really dirty.",
+  "tags": [
+    "unhygienic",
+    "dirty bathroom",
+    "hospital sanitation"
+  ]
+}

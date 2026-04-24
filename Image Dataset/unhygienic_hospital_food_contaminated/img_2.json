@@ -1,0 +1,15 @@
+{
+  "image_id": "img_2.jpg",
+  "category": "Unhygienic / Contaminated Hospital Food",
+  "folder": "unhygienic_hospital_food_contaminated",
+  "severity": "high",
+  "department": "Dietary / Canteen",
+  "refined_caption": "The hospital kitchen is preparing food in an unhygienic environment, with visible signs of contamination. Food is being handled in a way that may compromise patient health.",
+  "complaint_description": "I was shocked to see the state of the hospital kitchen, where food was being prepared in a clearly unhygienic environment. The staff seemed to be handling food without proper precautions, which is unacceptable in a healthcare setting. I fear for the health and safety of patients who may be served this food.",
+  "voice_text": "The hospital kitchen is disgusting, they're preparing food in a totally unhygienic environment, it's like they don't care about patient health.",
+  "tags": [
+    "hospital food safety",
+    "kitchen hygiene",
+    "patient health risk"
+  ]
+}

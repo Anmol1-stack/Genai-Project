@@ -1,0 +1,15 @@
+{
+  "image_id": "aug_15.jpg",
+  "category": "Unappetizing Hospital Food Tray",
+  "folder": "unappetizing_hospital_food_tray",
+  "severity": "low",
+  "department": "Dietary / Canteen",
+  "refined_caption": "A hospital food tray appears unappetizing, with a patient sleeping in the background. The food tray is the main focus of the image.",
+  "complaint_description": "I was disappointed to see the hospital food tray looked unappetizing. The food did not look fresh or appealing, which was concerning given the importance of nutrition during recovery. I hope the hospital can improve their food quality.",
+  "voice_text": "The food tray looks really unappetizing, I'm worried about the quality of food they're serving here.",
+  "tags": [
+    "hospital food",
+    "unappetizing meal",
+    "patient care"
+  ]
+}

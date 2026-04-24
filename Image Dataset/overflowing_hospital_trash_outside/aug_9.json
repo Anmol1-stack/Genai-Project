@@ -1,0 +1,15 @@
+{
+  "image_id": "aug_9.jpg",
+  "category": "Overflowing Hospital Trash (Outside)",
+  "folder": "overflowing_hospital_trash_outside",
+  "severity": "medium",
+  "department": "Housekeeping",
+  "refined_caption": "The trash bins outside the hospital are overflowing with garbage. The surrounding area appears to be littered with waste.",
+  "complaint_description": "I visited the hospital in a rural area and was appalled to see the trash bins outside overflowing with garbage. The area was littered with waste and had a strong unpleasant odor. This is a serious health concern and needs to be addressed immediately.",
+  "voice_text": "The trash cans outside the hospital are overflowing, it's really gross and smells bad.",
+  "tags": [
+    "overflowing trash",
+    "hospital hygiene",
+    "rural hospital"
+  ]
+}

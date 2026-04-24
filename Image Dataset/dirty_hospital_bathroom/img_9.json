@@ -1,0 +1,15 @@
+{
+  "image_id": "img_9.jpg",
+  "category": "Dirty Hospital Bathroom",
+  "folder": "dirty_hospital_bathroom",
+  "severity": "high",
+  "department": "Sanitation",
+  "refined_caption": "The hospital bathroom appears to be unhygienic with visible dirt and a trash can. The toilet is also present in the dirty environment.",
+  "complaint_description": "I was appalled by the condition of the hospital bathroom, which was dirty and had a strong unpleasant odor. The trash can was overflowing and the toilet was not clean. This is unacceptable for a healthcare facility.",
+  "voice_text": "The bathroom in this hospital is disgusting, it's really dirty and smells bad.",
+  "tags": [
+    "dirty bathroom",
+    "unhygienic conditions",
+    "hospital sanitation"
+  ]
+}

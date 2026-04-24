@@ -1,0 +1,15 @@
+{
+  "image_id": "img_8.jpg",
+  "category": "Broken Hospital Bed",
+  "folder": "broken_hospital_bed",
+  "severity": "high",
+  "department": "General Ward",
+  "refined_caption": "The hospital bed appears to be damaged, with a stripped sheet on it. The bed's frame is visibly broken.",
+  "complaint_description": "I was shocked to see the state of the hospital bed in my room, it's broken and the sheet is all torn. I'm worried about my safety and comfort during my stay. The hospital should provide a decent bed for patients to recover.",
+  "voice_text": "The bed in my room is all broken, can someone please fix it or get me a new one?",
+  "tags": [
+    "hospital bed",
+    "broken furniture",
+    "patient safety"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "img_5.jpg",
+  "category": "Water Puddle on Hospital Floor",
+  "folder": "water_puddle_on_hospital_floor",
+  "severity": "medium",
+  "department": "General Ward",
+  "refined_caption": "The hospital floor has visible water stains and a toilet is present in the background. There is a water puddle on the floor.",
+  "complaint_description": "I was visiting a patient on the general ward and noticed a water puddle on the floor, which could be a slipping hazard. The floor also has water stains, indicating a possible leak. This is a concern for patient safety and hygiene.",
+  "voice_text": "There's water all over the floor on the general ward, it's really slippery and there are stains everywhere.",
+  "tags": [
+    "water puddle",
+    "hospital floor",
+    "slipping hazard"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "img_12.jpg",
+  "category": "Dirty Hospital Bathroom",
+  "folder": "dirty_hospital_bathroom",
+  "severity": "high",
+  "department": "Sanitation",
+  "refined_caption": "The hospital bathroom appears to be unhygienic with visible dirt. A ladder is also present in the bathroom.",
+  "complaint_description": "I was shocked to see the state of the hospital bathroom, it was dirty and unhygienic. The presence of a ladder in the bathroom is also a concern. This is unacceptable for a healthcare facility.",
+  "voice_text": "The bathroom in this hospital is disgusting, it's really dirty and there's even a ladder just sitting there.",
+  "tags": [
+    "dirty bathroom",
+    "unhygienic conditions",
+    "hospital sanitation"
+  ]
+}

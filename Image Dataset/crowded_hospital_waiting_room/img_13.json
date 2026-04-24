@@ -1,0 +1,15 @@
+{
+  "image_id": "img_13.jpg",
+  "category": "Crowded Hospital Waiting Room",
+  "folder": "crowded_hospital_waiting_room",
+  "severity": "medium",
+  "department": "OPD / Waiting Area",
+  "refined_caption": "The hospital waiting room is crowded with multiple patients waiting. There is limited seating available.",
+  "complaint_description": "I had to wait for over an hour to see the doctor and the waiting room was extremely crowded. There were not enough seats for all the patients, and many of us had to stand. This made the waiting experience very uncomfortable.",
+  "voice_text": "The waiting room is super crowded, I've been standing here for over an hour waiting to see the doctor.",
+  "tags": [
+    "crowded",
+    "waiting room",
+    "seating issue"
+  ]
+}

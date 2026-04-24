@@ -1,0 +1,15 @@
+{
+  "image_id": "img_5.jpg",
+  "category": "Broken Hospital Bed",
+  "folder": "broken_hospital_bed",
+  "severity": "high",
+  "department": "General Ward",
+  "refined_caption": "The hospital bed appears to be broken or damaged, with visible signs of wear and tear in a run-down room.",
+  "complaint_description": "I was shocked to see the state of the hospital bed in my room, it's clearly broken and looks like it hasn't been maintained in a while. The room itself is also in a poor condition, which is concerning for patient care. I'm worried about the safety and hygiene of the environment.",
+  "voice_text": "The bed in my hospital room is broken, it's really worn out and the whole room looks like it needs a renovation.",
+  "tags": [
+    "hospital equipment",
+    "patient safety",
+    "maintenance issues"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "aug_4.jpg",
+  "category": "Broken Hospital Bed",
+  "folder": "broken_hospital_bed",
+  "severity": "high",
+  "department": "General Ward",
+  "refined_caption": "The hospital bed appears to be damaged, with visible signs of breakage. It is sitting on a plain surface, unusable in its current state.",
+  "complaint_description": "I was shocked to see a broken hospital bed just sitting in the room, it looks like it's been that way for a while. As a patient, I'm concerned about the safety and cleanliness of the hospital. This broken bed is not only an eyesore, but it's also a hazard.",
+  "voice_text": "There's a broken hospital bed just sitting here, it's really concerning. Can someone please fix or remove it?",
+  "tags": [
+    "hospital equipment",
+    "patient safety",
+    "maintenance issue"
+  ]
+}

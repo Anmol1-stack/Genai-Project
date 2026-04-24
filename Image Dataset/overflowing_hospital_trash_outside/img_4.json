@@ -1,0 +1,15 @@
+{
+  "image_id": "img_4.jpg",
+  "category": "Overflowing Hospital Trash (Outside)",
+  "folder": "overflowing_hospital_trash_outside",
+  "severity": "medium",
+  "department": "Housekeeping",
+  "refined_caption": "The trash bins outside the hospital building are overflowing, with a sign indicating hazardous waste nearby. The bins appear to be full and not properly maintained.",
+  "complaint_description": "I was appalled to see the trash bins outside the hospital building overflowing with waste. The sign indicating hazardous waste makes it even more concerning, as it poses a risk to patients, visitors, and staff. The hospital should take immediate action to address this issue and ensure a clean environment.",
+  "voice_text": "The trash cans outside the hospital are overflowing and it's really gross, especially with the hazardous waste sign right there.",
+  "tags": [
+    "overflowing trash",
+    "hazardous waste",
+    "hospital cleanliness"
+  ]
+}

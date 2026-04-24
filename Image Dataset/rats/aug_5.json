@@ -1,0 +1,15 @@
+{
+  "image_id": "aug_5.jpg",
+  "category": "Rats / Rodent Infestation",
+  "folder": "rats",
+  "severity": "critical",
+  "department": "General / Pest Control",
+  "refined_caption": "A rodent is visible in the hospital room, with a person in the background. The rodent appears to be roaming freely in the room.",
+  "complaint_description": "I was shocked to see a rat in my hospital room, it was running around on the floor while I was trying to rest. This is completely unacceptable and I'm worried about my health and safety. The hospital needs to take immediate action to address this issue.",
+  "voice_text": "There's a rat in my hospital room, I'm really concerned about the cleanliness and safety of this place.",
+  "tags": [
+    "rodent infestation",
+    "hospital cleanliness",
+    "patient safety"
+  ]
+}

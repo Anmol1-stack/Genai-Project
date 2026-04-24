@@ -1,0 +1,15 @@
+{
+  "image_id": "aug_16.jpg",
+  "category": "Unhygienic / Contaminated Hospital Food",
+  "folder": "unhygienic_hospital_food_contaminated",
+  "severity": "high",
+  "department": "Dietary / Canteen",
+  "refined_caption": "Hospital food is being cooked in a large bowl, appearing unhygienic and contaminated. The food preparation area appears to be dirty.",
+  "complaint_description": "I was appalled to see the hospital food being prepared in an unhygienic manner. The food was being cooked in a large bowl that looked contaminated, and the surrounding area was dirty. This is unacceptable for a hospital that is supposed to prioritize patient health and safety.",
+  "voice_text": "The hospital food is being cooked in a dirty bowl, it's really unhygienic. I'm worried about the health and safety of the patients who are being served this food.",
+  "tags": [
+    "unhygienic food",
+    "hospital food safety",
+    "contamination risk"
+  ]
+}

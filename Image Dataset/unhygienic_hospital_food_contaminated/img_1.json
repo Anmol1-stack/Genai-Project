@@ -1,0 +1,15 @@
+{
+  "image_id": "img_1.jpg",
+  "category": "Unhygienic / Contaminated Hospital Food",
+  "folder": "unhygienic_hospital_food_contaminated",
+  "severity": "high",
+  "department": "Dietary / Canteen",
+  "refined_caption": "The hospital food appears to be contaminated and is being served in a hospital room. A nurse is nearby, tending to a child.",
+  "complaint_description": "I was shocked to see the state of the food being served to patients in the hospital room. The food looked contaminated and it's unacceptable that it's being given to patients, especially children. This is a serious concern for patient health and safety.",
+  "voice_text": "The food they're serving here looks really contaminated, it's disgusting. I don't think it's safe for the patients, especially the kids.",
+  "tags": [
+    "hospital food",
+    "contamination",
+    "patient safety"
+  ]
+}

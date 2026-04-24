@@ -1,0 +1,15 @@
+{
+  "image_id": "img_7.jpg",
+  "category": "Broken Hospital Bed",
+  "folder": "broken_hospital_bed",
+  "severity": "high",
+  "department": "General Ward",
+  "refined_caption": "A hospital bed is visibly damaged and sitting in a room that appears to have been burned. The bed's frame is broken and its mattress is exposed.",
+  "complaint_description": "I was shocked to see a broken hospital bed in one of the rooms, it looks like it's been through a fire. The bed is clearly unusable and it's a serious concern for patient safety. I hope the hospital takes immediate action to replace it.",
+  "voice_text": "There's a broken hospital bed in one of the rooms, it looks like it's been burned or something. It's really concerning, someone should fix it ASAP.",
+  "tags": [
+    "hospital bed",
+    "broken equipment",
+    "patient safety"
+  ]
+}

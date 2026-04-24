@@ -1,0 +1,16 @@
+{
+  "image_id": "img_5.jpg",
+  "category": "Dirty Hospital Bathroom",
+  "folder": "dirty_hospital_bathroom",
+  "severity": "high",
+  "department": "Sanitation",
+  "refined_caption": "a dirty unhygienic hospital bathroom with a fire hydrant in the corner of the room - stock image",
+  "complaint_description": "Complaint regarding dirty hospital bathroom observed in the hospital.",
+  "voice_text": "I noticed a problem with dirty hospital bathroom in the hospital.",
+  "tags": [
+    "dirty hospital bathroom",
+    "hospital",
+    "complaint"
+  ],
+  "flagged": true
+}

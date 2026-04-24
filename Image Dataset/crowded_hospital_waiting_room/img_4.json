@@ -1,0 +1,15 @@
+{
+  "image_id": "img_4.jpg",
+  "category": "Crowded Hospital Waiting Room",
+  "folder": "crowded_hospital_waiting_room",
+  "severity": "medium",
+  "department": "OPD / Waiting Area",
+  "refined_caption": "The hospital waiting room is overcrowded with multiple patients waiting. There is limited seating available.",
+  "complaint_description": "I visited the hospital today and was shocked to see how crowded the waiting room was. There were not enough seats for all the patients, and many were standing or sitting on the floor. This made the waiting experience very uncomfortable and unhygienic.",
+  "voice_text": "The waiting room is super crowded, there's nowhere to sit. It's really uncomfortable and doesn't feel very clean.",
+  "tags": [
+    "overcrowding",
+    "waiting room",
+    "seating issue"
+  ]
+}

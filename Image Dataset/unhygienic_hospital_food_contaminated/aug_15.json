@@ -1,0 +1,15 @@
+{
+  "image_id": "aug_15.jpg",
+  "category": "Unhygienic / Contaminated Hospital Food",
+  "folder": "unhygienic_hospital_food_contaminated",
+  "severity": "high",
+  "department": "Dietary / Canteen",
+  "refined_caption": "A hospital food safety sign is placed on a metal shelf, but the surrounding area appears unhygienic and contaminated. The sign is visible, but the environment seems to be compromised.",
+  "complaint_description": "I was shocked to see the state of the hospital food area, with what looks like contaminated food and unhygienic conditions. The food safety sign on the metal shelf seems ironic given the visible state of the surroundings. I'm concerned about the health and safety of patients and staff.",
+  "voice_text": "The hospital food area is really dirty and contaminated, there's even a food safety sign on the shelf, it's pretty ironic.",
+  "tags": [
+    "hospital food safety",
+    "unhygienic conditions",
+    "contaminated food"
+  ]
+}

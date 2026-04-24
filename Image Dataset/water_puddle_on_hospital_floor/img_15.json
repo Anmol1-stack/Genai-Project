@@ -1,0 +1,15 @@
+{
+  "image_id": "img_15.jpg",
+  "category": "Water Puddle on Hospital Floor",
+  "folder": "water_puddle_on_hospital_floor",
+  "severity": "medium",
+  "department": "General Ward",
+  "refined_caption": "The hospital floor has visible water puddles and orange lines. The water puddles appear to be scattered across the floor.",
+  "complaint_description": "I was walking down the hospital floor and noticed that there were water puddles everywhere, which could be a slipping hazard. The orange lines on the floor seem to be a warning, but the puddles themselves are still a concern. I'm worried about the safety and cleanliness of the hospital.",
+  "voice_text": "There's water all over the hospital floor, it's really slippery and I'm worried someone's gonna fall. The orange lines are there, but it's still pretty hazardous.",
+  "tags": [
+    "water_puddle",
+    "hospital_floor",
+    "slipping_hazard"
+  ]
+}

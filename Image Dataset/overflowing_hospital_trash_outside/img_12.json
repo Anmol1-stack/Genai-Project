@@ -1,0 +1,15 @@
+{
+  "image_id": "img_12.jpg",
+  "category": "Overflowing Hospital Trash (Outside)",
+  "folder": "overflowing_hospital_trash_outside",
+  "severity": "medium",
+  "department": "Housekeeping",
+  "refined_caption": "Trash bins outside the hospital kitchen are overflowing, with food visible on the floor. The area appears to be unclean.",
+  "complaint_description": "I was appalled to see the trash bins outside the hospital kitchen overflowing with garbage, and there was even food scattered all over the floor. This is not only an eyesore, but it's also a health concern. I hope the hospital takes immediate action to address this issue.",
+  "voice_text": "There's trash all over the place outside the hospital kitchen, it's really gross and overflowing, someone should clean it up.",
+  "tags": [
+    "overflowing trash",
+    "hospital kitchen",
+    "unclean area"
+  ]
+}

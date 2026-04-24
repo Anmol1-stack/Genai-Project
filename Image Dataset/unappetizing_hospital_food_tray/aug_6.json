@@ -1,0 +1,15 @@
+{
+  "image_id": "aug_6.jpg",
+  "category": "Unappetizing Hospital Food Tray",
+  "folder": "unappetizing_hospital_food_tray",
+  "severity": "low",
+  "department": "Dietary / Canteen",
+  "refined_caption": "The hospital food tray contains a tray of food and utensils that appear unappetizing. The presentation of the food is uninviting.",
+  "complaint_description": "I was disappointed with the food served to me during my stay at the hospital. The food on my tray looked unappetizing and I did not feel like eating it. This experience was unpleasant and I hope the hospital can improve their food quality.",
+  "voice_text": "The food they're serving here looks really gross, I don't want to eat it.",
+  "tags": [
+    "hospital food",
+    "unappetizing",
+    "patient experience"
+  ]
+}

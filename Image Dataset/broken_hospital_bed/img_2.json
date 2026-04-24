@@ -1,0 +1,15 @@
+{
+  "image_id": "img_2.jpg",
+  "category": "Broken Hospital Bed",
+  "folder": "broken_hospital_bed",
+  "severity": "high",
+  "department": "General Ward",
+  "refined_caption": "A hospital bed appears to be broken or damaged, with visible signs of wear and tear. The bed is located in an abandoned area with graffiti on the walls.",
+  "complaint_description": "I was shocked to see a broken hospital bed in one of the rooms, it looks like it has been out of order for a while. The condition of the bed and the surrounding area is unacceptable, it's a health and safety hazard. I'm concerned about the overall maintenance and upkeep of the hospital.",
+  "voice_text": "There's a broken hospital bed in one of the rooms, it's really run down and looks like it's been abandoned. The whole area is a mess, it's not what you'd expect from a hospital.",
+  "tags": [
+    "broken bed",
+    "hospital maintenance",
+    "patient safety"
+  ]
+}

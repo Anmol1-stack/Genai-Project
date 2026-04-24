@@ -1,0 +1,15 @@
+{
+  "image_id": "aug_1.jpg",
+  "category": "Unhygienic / Contaminated Hospital Food",
+  "folder": "unhygienic_hospital_food_contaminated",
+  "severity": "high",
+  "department": "Dietary / Canteen",
+  "refined_caption": "The hospital food appears to be contaminated and unhygienic. Visible signs of contamination are present on the food.",
+  "complaint_description": "I was served contaminated food during my stay at the hospital, which is unacceptable. The food had visible signs of contamination and I'm worried about my health. I hope the hospital takes immediate action to address this issue.",
+  "voice_text": "The food they served me at the hospital was disgusting, it was contaminated and I could see it, I'm really worried about getting sick from it.",
+  "tags": [
+    "unhygienic food",
+    "hospital contamination",
+    "patient safety"
+  ]
+}

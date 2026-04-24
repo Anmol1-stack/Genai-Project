@@ -1,0 +1,15 @@
+{
+  "image_id": "img_6.jpg",
+  "category": "Water Puddle on Hospital Floor",
+  "folder": "water_puddle_on_hospital_floor",
+  "severity": "medium",
+  "department": "General Ward",
+  "refined_caption": "There is a water leak on the hospital floor, with a puddle visible and a person standing nearby.",
+  "complaint_description": "I was walking down the hospital floor and noticed a significant amount of water leaking from the ceiling, creating a puddle that could be a slipping hazard. The water appears to be coming from a leak in the ceiling and it's making the floor very slippery. This is a concern for patient safety.",
+  "voice_text": "There's water all over the floor from a leak, it's really slippery and someone should clean it up.",
+  "tags": [
+    "water leak",
+    "slippery floor",
+    "hospital safety"
+  ]
+}

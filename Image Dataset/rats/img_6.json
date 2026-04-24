@@ -1,0 +1,15 @@
+{
+  "image_id": "img_6.jpg",
+  "category": "Rats / Rodent Infestation",
+  "folder": "rats",
+  "severity": "critical",
+  "department": "General / Pest Control",
+  "refined_caption": "A rodent is visible in a hospital room with yellow walls. The rodent appears to be in the patient care area.",
+  "complaint_description": "I was shocked to see a rat in my hospital room, which has yellow walls. This is completely unacceptable and I'm worried about my health and safety. The hospital needs to take immediate action to address this pest control issue.",
+  "voice_text": "There's a rat in my hospital room, it's disgusting and I'm really concerned about getting sick. Can someone please do something about it?",
+  "tags": [
+    "rodent infestation",
+    "hospital room",
+    "pest control"
+  ]
+}

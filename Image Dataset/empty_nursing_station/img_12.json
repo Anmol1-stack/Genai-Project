@@ -1,0 +1,15 @@
+{
+  "image_id": "img_12.jpg",
+  "category": "Empty / Unstaffed Nursing Station",
+  "folder": "empty_nursing_station",
+  "severity": "high",
+  "department": "Nursing / Administration",
+  "refined_caption": "The hospital nursing station is empty and unstaffed, with no medical personnel present. The area appears to be unmanned and unattended.",
+  "complaint_description": "I visited the hospital and was shocked to find the nursing station completely empty and unstaffed. There was no one to assist me or provide any medical help. This is a serious concern for patient care and safety.",
+  "voice_text": "I just got to the hospital and the nursing station is totally empty, there's no one here to help.",
+  "tags": [
+    "unstaffed",
+    "nursing station",
+    "patient safety"
+  ]
+}

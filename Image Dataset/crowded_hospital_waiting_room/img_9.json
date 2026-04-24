@@ -1,0 +1,15 @@
+{
+  "image_id": "img_9.jpg",
+  "category": "Crowded Hospital Waiting Room",
+  "folder": "crowded_hospital_waiting_room",
+  "severity": "medium",
+  "department": "OPD / Waiting Area",
+  "refined_caption": "The hospital waiting room is crowded with multiple patients. Patients are wearing face masks.",
+  "complaint_description": "I visited the hospital today and was shocked to see the waiting room overcrowded with patients. It's uncomfortable and worrying to see so many people in close proximity, especially during a pandemic. The hospital should consider improving their waiting area to ensure patient safety and comfort.",
+  "voice_text": "The waiting room is super crowded, it's really uncomfortable and I'm worried about getting sick.",
+  "tags": [
+    "crowded",
+    "waiting room",
+    "overcrowding"
+  ]
+}

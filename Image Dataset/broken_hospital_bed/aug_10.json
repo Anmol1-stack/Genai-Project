@@ -1,0 +1,15 @@
+{
+  "image_id": "aug_10.jpg",
+  "category": "Broken Hospital Bed",
+  "folder": "broken_hospital_bed",
+  "severity": "high",
+  "department": "General Ward",
+  "refined_caption": "The hospital bed appears to be damaged, with a stripped sheet on it. The bed frame is visibly broken.",
+  "complaint_description": "I was assigned to a room with a broken hospital bed, which is unacceptable. The bed has a stripped sheet and the frame is damaged, making it unusable. This is a serious concern for patient safety and comfort.",
+  "voice_text": "The bed in my room is broken, it's got a stripped sheet and the frame is all messed up.",
+  "tags": [
+    "hospital equipment",
+    "patient safety",
+    "maintenance issue"
+  ]
+}

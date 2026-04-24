@@ -1,0 +1,15 @@
+{
+  "image_id": "img_2.jpg",
+  "category": "Rats / Rodent Infestation",
+  "folder": "rats",
+  "severity": "critical",
+  "department": "General / Pest Control",
+  "refined_caption": "A rodent is visible in a hospital bed, circled by a red circle. The rodent appears to be in close proximity to a patient's sleeping area.",
+  "complaint_description": "I was shocked to see a rat in one of the hospital beds during my visit. The rodent was clearly visible and seemed to be roaming freely, which is unacceptable in a healthcare setting. This is a serious concern for patient safety and hygiene.",
+  "voice_text": "There's a rat in one of the hospital beds, it's disgusting and really worrying. I don't think this is a safe place for patients to be.",
+  "tags": [
+    "rodent infestation",
+    "patient safety",
+    "hospital hygiene"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "aug_10.jpg",
+  "category": "Water Puddle on Hospital Floor",
+  "folder": "water_puddle_on_hospital_floor",
+  "severity": "medium",
+  "department": "General Ward",
+  "refined_caption": "There is water on the hospital floor and a bed is visible in the background. The water appears to be a puddle.",
+  "complaint_description": "I was visiting my family member on the general ward and noticed a puddle of water on the floor. This is a slipping hazard and could lead to accidents. The hospital should clean this up immediately to ensure patient safety.",
+  "voice_text": "There's water all over the floor on the general ward, it's a real slipping hazard.",
+  "tags": [
+    "water puddle",
+    "hospital floor",
+    "slipping hazard"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "img_16.jpg",
+  "category": "Water Puddle on Hospital Floor",
+  "folder": "water_puddle_on_hospital_floor",
+  "severity": "medium",
+  "department": "General Ward",
+  "refined_caption": "There is a water heater and boxes in the background of the hospital floor. A water puddle is visible on the floor.",
+  "complaint_description": "I was walking down the hospital floor and noticed a water puddle that could be a slipping hazard. The area also has a water heater and boxes nearby, which seems like a potential tripping hazard. I'm concerned about the safety of patients and visitors.",
+  "voice_text": "There's water on the floor and it's really slippery, someone should clean it up. It's near a water heater and some boxes, so it's a bit of a mess.",
+  "tags": [
+    "water_puddle",
+    "hospital_floor",
+    "slipping_hazard"
+  ]
+}

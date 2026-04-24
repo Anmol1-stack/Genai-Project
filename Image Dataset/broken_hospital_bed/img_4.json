@@ -1,0 +1,15 @@
+{
+  "image_id": "img_4.jpg",
+  "category": "Broken Hospital Bed",
+  "folder": "broken_hospital_bed",
+  "severity": "high",
+  "department": "General Ward",
+  "refined_caption": "The hospital bed appears to be damaged, with visible signs of wear and tear. A blanket is draped over the bed.",
+  "complaint_description": "I was assigned to a room with a broken hospital bed, which is unacceptable for a place of healing. The bed looks like it has been damaged for a while and it's surprising that it hasn't been replaced yet. This is a serious concern for patient safety and comfort.",
+  "voice_text": "There's a broken bed in my hospital room, it's really worn out and has a blanket just thrown on it.",
+  "tags": [
+    "hospital equipment",
+    "patient safety",
+    "maintenance issue"
+  ]
+}

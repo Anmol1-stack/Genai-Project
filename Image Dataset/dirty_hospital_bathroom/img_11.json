@@ -1,0 +1,16 @@
+{
+  "image_id": "img_11.jpg",
+  "category": "Dirty Hospital Bathroom",
+  "folder": "dirty_hospital_bathroom",
+  "severity": "high",
+  "department": "Sanitation",
+  "refined_caption": "a dirty unhygienic hospital bathroom floor with a drain and a hose attached to the floor - stock image",
+  "complaint_description": "Complaint regarding dirty hospital bathroom observed in the hospital.",
+  "voice_text": "I noticed a problem with dirty hospital bathroom in the hospital.",
+  "tags": [
+    "dirty hospital bathroom",
+    "hospital",
+    "complaint"
+  ],
+  "flagged": true
+}

@@ -1,0 +1,16 @@
+{
+  "image_id": "img_14.jpg",
+  "category": "Empty / Unstaffed Nursing Station",
+  "folder": "empty_nursing_station",
+  "severity": "high",
+  "department": "Nursing / Administration",
+  "refined_caption": "an empty unstaffed hospital nursing station with a reception desk in the foreground - stock image",
+  "complaint_description": "Complaint regarding empty / unstaffed nursing station observed in the hospital.",
+  "voice_text": "I noticed a problem with empty / unstaffed nursing station in the hospital.",
+  "tags": [
+    "empty / unstaffed nursing station",
+    "hospital",
+    "complaint"
+  ],
+  "flagged": true
+}

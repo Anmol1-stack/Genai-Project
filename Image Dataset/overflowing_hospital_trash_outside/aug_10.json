@@ -1,0 +1,16 @@
+{
+  "image_id": "aug_10.jpg",
+  "category": "Overflowing Hospital Trash (Outside)",
+  "folder": "overflowing_hospital_trash_outside",
+  "severity": "medium",
+  "department": "Housekeeping",
+  "refined_caption": "overflowing trash bins outside a hospital - stock image",
+  "complaint_description": "Complaint regarding overflowing hospital trash (outside) observed in the hospital.",
+  "voice_text": "I noticed a problem with overflowing hospital trash (outside) in the hospital.",
+  "tags": [
+    "overflowing hospital trash (outside)",
+    "hospital",
+    "complaint"
+  ],
+  "flagged": true
+}

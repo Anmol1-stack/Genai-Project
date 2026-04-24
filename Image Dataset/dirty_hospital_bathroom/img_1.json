@@ -1,0 +1,17 @@
+{
+  "image_id": "img_1.jpg",
+  "category": "Dirty Hospital Bathroom",
+  "folder": "dirty_hospital_bathroom",
+  "severity": "high",
+  "department": "Sanitation",
+  "refined_caption": "The hospital bathroom appears to be unhygienic with visible dirt and grime. Urinals are present and seem to be in a state of disrepair.",
+  "complaint_description": "I was appalled by the condition of the hospital bathroom, which was filthy and clearly hadn't been cleaned in a while. The urinals were dirty and had visible stains, making it uncomfortable for patients and visitors to use the facilities. This is unacceptable for a healthcare setting.",
+  "voice_text": "The bathroom here is disgusting, it's all dirty and gross. I don't feel safe using it.",
+  "tags": [
+    "unhygienic",
+    "dirty",
+    "bathroom",
+    "urinals",
+    "sanitation"
+  ]
+}

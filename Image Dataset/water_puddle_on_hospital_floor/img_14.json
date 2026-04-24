@@ -1,0 +1,15 @@
+{
+  "image_id": "img_14.jpg",
+  "category": "Water Puddle on Hospital Floor",
+  "folder": "water_puddle_on_hospital_floor",
+  "severity": "medium",
+  "department": "General Ward",
+  "refined_caption": "There are water buckets on the hospital floor, indicating a water issue. A fire extinguisher is also present nearby.",
+  "complaint_description": "I was visiting my family member on the hospital floor and noticed that there were water buckets scattered around, which is a slipping hazard. The floor was also wet and slippery, making it difficult to walk around. This is a concern for patient safety.",
+  "voice_text": "There's water all over the hospital floor, it's really slippery and there are buckets everywhere, I'm worried someone's gonna fall.",
+  "tags": [
+    "water puddle",
+    "hospital floor",
+    "slipping hazard"
+  ]
+}

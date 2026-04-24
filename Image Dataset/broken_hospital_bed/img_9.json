@@ -1,0 +1,15 @@
+{
+  "image_id": "img_9.jpg",
+  "category": "Broken Hospital Bed",
+  "folder": "broken_hospital_bed",
+  "severity": "high",
+  "department": "General Ward",
+  "refined_caption": "A hospital bed is visibly damaged and broken, with graffiti on the surrounding walls. The room appears to be abandoned.",
+  "complaint_description": "I was shocked to see a broken hospital bed in one of the rooms, which not only looks unhygienic but also raises concerns about patient safety. The room was also covered in graffiti, giving an overall impression of neglect. This is unacceptable for a healthcare facility.",
+  "voice_text": "There's a broken bed in one of the rooms, it's really concerning. The whole room looks abandoned and has graffiti everywhere.",
+  "tags": [
+    "hospital equipment",
+    "patient safety",
+    "facility maintenance"
+  ]
+}

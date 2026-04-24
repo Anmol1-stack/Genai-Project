@@ -1,0 +1,15 @@
+{
+  "image_id": "aug_7.jpg",
+  "category": "Broken Hospital Bed",
+  "folder": "broken_hospital_bed",
+  "severity": "high",
+  "department": "General Ward",
+  "refined_caption": "The hospital bed appears to be damaged, with visible signs of wear and tear. The bed's frame is broken, rendering it unusable.",
+  "complaint_description": "I was shocked to see the state of the hospital bed in my room, it's completely broken and I'm not sure how I'm supposed to rest. The bed's condition is not only uncomfortable but also poses a risk to patient safety. I request that it be replaced immediately.",
+  "voice_text": "The hospital bed in my room is broken, can someone please fix it or replace it?",
+  "tags": [
+    "hospital equipment",
+    "patient safety",
+    "maintenance issue"
+  ]
+}

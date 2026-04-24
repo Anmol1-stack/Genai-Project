@@ -1,0 +1,15 @@
+{
+  "image_id": "img_2.jpg",
+  "category": "Water Puddle on Hospital Floor",
+  "folder": "water_puddle_on_hospital_floor",
+  "severity": "medium",
+  "department": "General Ward",
+  "refined_caption": "There is water on the hospital floor and a person is holding an umbrella, indicating a water issue. The floor appears to be wet.",
+  "complaint_description": "I was visiting my family member on the general ward and noticed that there was a significant amount of water on the floor. It was so wet that someone was even using an umbrella to stay dry. This is a slipping hazard and I'm concerned about the safety of patients and visitors.",
+  "voice_text": "There's water all over the floor on the general ward, it's so bad someone's using an umbrella",
+  "tags": [
+    "water puddle",
+    "hospital floor",
+    "slipping hazard"
+  ]
+}

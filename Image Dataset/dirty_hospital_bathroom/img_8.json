@@ -1,0 +1,15 @@
+{
+  "image_id": "img_8.jpg",
+  "category": "Dirty Hospital Bathroom",
+  "folder": "dirty_hospital_bathroom",
+  "severity": "high",
+  "department": "Sanitation",
+  "refined_caption": "The hospital bathroom appears to be unhygienic with visible dirt and buckets. A urinal is also present in the dirty environment.",
+  "complaint_description": "I was shocked to see the state of the hospital bathroom, it was filthy and had buckets scattered all over the floor. The urinal was also not properly cleaned, which is unacceptable for a healthcare facility. This is a serious concern for patient health and safety.",
+  "voice_text": "The bathroom in this hospital is disgusting, it's got buckets all over the place and the urinal is all dirty.",
+  "tags": [
+    "dirty bathroom",
+    "unhygienic conditions",
+    "hospital sanitation"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "img_17.jpg",
+  "category": "Crowded Hospital Waiting Room",
+  "folder": "crowded_hospital_waiting_room",
+  "severity": "medium",
+  "department": "OPD / Waiting Area",
+  "refined_caption": "The hospital waiting room is overcrowded with patients sleeping on the floor. There is a lack of available seating.",
+  "complaint_description": "I visited the hospital today and was shocked to see the waiting room in such a state. Patients, including the elderly, were forced to sleep on the floor due to the lack of seating. This is unacceptable and highlights the need for better waiting area management.",
+  "voice_text": "The waiting room is super crowded, people are even sleeping on the floor, it's really bad.",
+  "tags": [
+    "overcrowding",
+    "waiting room",
+    "seating shortage"
+  ]
+}

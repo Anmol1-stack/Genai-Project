@@ -1,0 +1,15 @@
+{
+  "image_id": "aug_5.jpg",
+  "category": "Overflowing Hospital Trash (Outside)",
+  "folder": "overflowing_hospital_trash_outside",
+  "severity": "medium",
+  "department": "Housekeeping",
+  "refined_caption": "The trash bins outside the hospital are overflowing, with garbage visible on the ground. This is visible on a rainy day.",
+  "complaint_description": "I was appalled to see the trash bins outside the hospital overflowing with garbage, which is not only an eyesore but also a health concern. The fact that it's raining makes the situation even worse, as the trash is scattered all over the place. This is unacceptable for a hospital that is supposed to maintain high standards of cleanliness.",
+  "voice_text": "The trash cans outside the hospital are totally overflowing, it's disgusting. And with the rain, it's just getting worse.",
+  "tags": [
+    "overflowing trash",
+    "hospital cleanliness",
+    "housekeeping issue"
+  ]
+}

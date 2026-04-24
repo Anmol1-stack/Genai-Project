@@ -1,0 +1,15 @@
+{
+  "image_id": "img_8.jpg",
+  "category": "Rats / Rodent Infestation",
+  "folder": "rats",
+  "severity": "critical",
+  "department": "General / Pest Control",
+  "refined_caption": "A rodent is visible in a hospital cage with a blanket on its back. The rodent appears to be in close proximity to a potential patient area.",
+  "complaint_description": "I was visiting a patient and was shocked to see a rat in one of the hospital cages. The rat had a blanket on its back and seemed to be roaming freely. This is completely unacceptable and I'm concerned about the cleanliness and safety of the hospital.",
+  "voice_text": "There's a rat in one of the hospital cages, it's even got a blanket on its back. This is disgusting and something needs to be done about it.",
+  "tags": [
+    "rodent infestation",
+    "hospital cleanliness",
+    "patient safety"
+  ]
+}

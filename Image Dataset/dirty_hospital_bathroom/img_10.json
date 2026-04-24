@@ -1,0 +1,15 @@
+{
+  "image_id": "img_10.jpg",
+  "category": "Dirty Hospital Bathroom",
+  "folder": "dirty_hospital_bathroom",
+  "severity": "high",
+  "department": "Sanitation",
+  "refined_caption": "The hospital bathroom appears to be unhygienic with visible dirt. A dirty toilet and bathtub are noticeable.",
+  "complaint_description": "I was appalled by the condition of the hospital bathroom, it was filthy and had a strong unpleasant odor. The toilet and bathtub were visibly dirty, which is unacceptable for a healthcare facility. This is a serious concern for patient health and safety.",
+  "voice_text": "The bathroom in this hospital is disgusting, it's really dirty and smells bad.",
+  "tags": [
+    "dirty bathroom",
+    "unhygienic conditions",
+    "hospital sanitation"
+  ]
+}

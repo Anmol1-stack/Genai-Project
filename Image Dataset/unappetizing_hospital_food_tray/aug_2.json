@@ -1,0 +1,15 @@
+{
+  "image_id": "aug_2.jpg",
+  "category": "Unappetizing Hospital Food Tray",
+  "folder": "unappetizing_hospital_food_tray",
+  "severity": "low",
+  "department": "Dietary / Canteen",
+  "refined_caption": "The hospital food tray contains a bowl of fruit, bread, and butter, but the overall presentation appears unappetizing. The food items seem to be lacking in freshness and appeal.",
+  "complaint_description": "I was disappointed with the hospital food served to me today, the tray looked uninviting and the food did not seem fresh. The fruit was not ripe and the bread was stale, which made it hard for me to eat. I hope the hospital can improve the quality of their food.",
+  "voice_text": "The food they're serving here looks really unappetizing, I don't know if I can eat this.",
+  "tags": [
+    "hospital food",
+    "unappetizing",
+    "food quality"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "img_2.jpg",
+  "category": "Torn Hospital Privacy Curtain",
+  "folder": "torn_hospital_privacy_curtain",
+  "severity": "low",
+  "department": "General Ward",
+  "refined_caption": "A hospital privacy curtain in the hallway is visibly torn or damaged. The tear appears to be significant, potentially compromising patient privacy.",
+  "complaint_description": "I was walking down the hallway and noticed that one of the privacy curtains was torn, which made me concerned about the privacy of the patients in that area. The tear was quite large and seemed to be flapping open, which could be a problem. I think it should be fixed or replaced as soon as possible.",
+  "voice_text": "There's a torn curtain in the hallway, it's pretty ripped up and I'm worried about patient privacy.",
+  "tags": [
+    "hospital",
+    "privacy",
+    "maintenance"
+  ]
+}

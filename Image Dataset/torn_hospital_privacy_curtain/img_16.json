@@ -1,0 +1,15 @@
+{
+  "image_id": "img_16.jpg",
+  "category": "Torn Hospital Privacy Curtain",
+  "folder": "torn_hospital_privacy_curtain",
+  "severity": "low",
+  "department": "General Ward",
+  "refined_caption": "The hospital privacy curtain in the room appears to be torn or damaged. The tear is visible and may compromise patient privacy.",
+  "complaint_description": "I was admitted to the hospital and noticed that the privacy curtain in my room was torn. This made me feel uncomfortable and concerned about my privacy. I hope this can be addressed soon to ensure all patients have a comfortable and private stay.",
+  "voice_text": "The curtain in my hospital room is all torn, can someone please fix it? It's making me feel really uncomfortable.",
+  "tags": [
+    "hospital privacy",
+    "torn curtain",
+    "patient privacy"
+  ]
+}
