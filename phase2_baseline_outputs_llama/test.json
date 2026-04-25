@@ -1,0 +1,3446 @@
+[
+  {
+    "image_id": "broken_9",
+    "category": "Broken Hospital Bed",
+    "folder": "broken_hospital_bed",
+    "severity": "high",
+    "department": "Surgery",
+    "refined_caption": "The hospital bed appears to be damaged, with visible signs of wear and tear. The room also looks run down.",
+    "complaint_description": "I was shocked to see the state of the hospital bed in my room, it's clearly broken and looks like it hasn't been maintained in a while. The room itself is also in a poor condition, which is unacceptable for a healthcare facility. I'm worried about the safety and hygiene of the environment.",
+    "voice_text": "The bed in my hospital room is all broken and the room is a mess, it's really concerning.",
+    "tags": [
+      "hospital_bed",
+      "broken_equipment",
+      "poor_maintenance"
+    ],
+    "input": {
+      "image_caption": "The hospital bed appears to be damaged, with visible signs of wear and tear. The room also looks run down.",
+      "voice_text": "The bed in my hospital room is all broken and the room is a mess, it's really concerning."
+    },
+    "extracted_complaint": {
+      "category": "Broken Hospital Bed",
+      "sub_category": "equipment_damage",
+      "description": "I was shocked to see the state of the hospital bed in my room, it's clearly broken and looks like it hasn't been maintained in a while. The room itself is also in a poor condition, which is unacceptable for a healthcare facility. I'm worried about the safety and hygiene of the environment."
+    },
+    "incident_details": {
+      "date_of_incident": "2025-05-30",
+      "approximate_time": "09:15",
+      "is_issue_ongoing": true,
+      "frequency_of_issue": "repeated",
+      "reported_internally": false,
+      "other_patients_affected": true,
+      "physical_harm": false,
+      "staff_involved": "housekeeping_staff"
+    },
+    "hospital_details": {
+      "hospital_name": "Max Super Speciality Hospital",
+      "hospital_type": "semi-government",
+      "department": "Maintenance",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "full_address": "Max Super Speciality Hospital, Chennai, Tamil Nadu"
+    },
+    "severity_assessment": {
+      "severity": "high",
+      "severity_reason": "Issue classified as high based on visible impact on patient safety and hospital standards."
+    },
+    "evidence": {
+      "image_provided": true,
+      "voice_provided": true,
+      "issue_visibility": "not_visible",
+      "evidence_clarity": "clear"
+    },
+    "ai_core_attributes": {
+      "issue_type": "equipment_failure",
+      "failure_point": "maintenance_team",
+      "affected_entity": "patient",
+      "condition_state": "critical"
+    },
+    "validation_layer": {
+      "cross_modal_alignment": "aligned",
+      "consistency_score": 0.86
+    },
+    "system_flags": {
+      "confidence_score": 0.92,
+      "needs_user_review": false
+    },
+    "split": "test",
+    "correction_applied": false,
+    "correction_reason": "none",
+    "routing": {
+      "primary_department": "Maintenance",
+      "secondary_departments": [
+        "General Ward",
+        "Orthopaedics",
+        "Surgery"
+      ],
+      "escalation_chain": [
+        "Ward In-Charge",
+        "Maintenance Supervisor",
+        "Hospital Engineering Head",
+        "Hospital Administrator"
+      ],
+      "first_responder": "Ward Nurse",
+      "resolution_owner": "Maintenance Team",
+      "sla_hours": 4,
+      "action_on_report": "Isolate bed immediately, arrange replacement bed if available, log in maintenance register"
+    },
+    "taxonomy": {
+      "subtypes": [
+        "Frame Damage",
+        "Mattress Torn / Missing",
+        "Side Railing Broken",
+        "Height Adjustment Failure",
+        "Wheel or Brake Malfunction",
+        "Electrical Controls Not Working",
+        "IV Pole Holder Broken",
+        "Headboard / Footboard Damaged"
+      ],
+      "visual_indicators": [
+        "Bent or cracked frame",
+        "Exposed metal edges",
+        "Missing or torn mattress",
+        "Sagging or tilted bed surface",
+        "Loose or detached railings"
+      ],
+      "patient_impact": "Direct risk of physical injury, discomfort, inability to adjust position, fall hazard",
+      "regulatory_reference": ""
+    }
+  },
+  {
+    "image_id": "broken_1",
+    "category": "Broken Hospital Bed",
+    "folder": "broken_hospital_bed",
+    "severity": "high",
+    "department": "Surgery",
+    "refined_caption": "The hospital bed appears to be broken or damaged, with visible signs of wear and tear. The surrounding area is also in disarray, with graffiti on the walls.",
+    "complaint_description": "I was shocked to see a broken hospital bed in one of the rooms, which is a serious concern for patient safety and comfort. The bed was clearly damaged and unusable, and the overall condition of the room was unacceptable. This is not the kind of environment I expect to see in a hospital.",
+    "voice_text": "There's a broken hospital bed in one of the rooms, it's really concerning. The whole room looks like it's been abandoned and vandalized.",
+    "tags": [
+      "broken_bed",
+      "hospital_safety",
+      "patient_comfort"
+    ],
+    "input": {
+      "image_caption": "The hospital bed appears to be broken or damaged, with visible signs of wear and tear. The surrounding area is also in disarray, with graffiti on the walls.",
+      "voice_text": "There's a broken hospital bed in one of the rooms, it's really concerning. The whole room looks like it's been abandoned and vandalized."
+    },
+    "extracted_complaint": {
+      "category": "Broken Hospital Bed",
+      "sub_category": "equipment_damage",
+      "description": "I was shocked to see a broken hospital bed in one of the rooms, which is a serious concern for patient safety and comfort. The bed was clearly damaged and unusable, and the overall condition of the room was unacceptable. This is not the kind of environment I expect to see in a hospital."
+    },
+    "incident_details": {
+      "date_of_incident": "2025-03-11",
+      "approximate_time": "09:00",
+      "is_issue_ongoing": true,
+      "frequency_of_issue": "repeated",
+      "reported_internally": true,
+      "other_patients_affected": true,
+      "physical_harm": false,
+      "staff_involved": "housekeeping_staff"
+    },
+    "hospital_details": {
+      "hospital_name": "Apollo Hospital",
+      "hospital_type": "government",
+      "department": "Maintenance",
+      "city": "Delhi",
+      "state": "Delhi",
+      "full_address": "Apollo Hospital, Delhi, Delhi"
+    },
+    "severity_assessment": {
+      "severity": "high",
+      "severity_reason": "Issue classified as high based on visible impact on patient safety and hospital standards."
+    },
+    "evidence": {
+      "image_provided": true,
+      "voice_provided": true,
+      "issue_visibility": "partially_visible",
+      "evidence_clarity": "partial"
+    },
+    "ai_core_attributes": {
+      "issue_type": "equipment_failure",
+      "failure_point": "maintenance_team",
+      "affected_entity": "patient",
+      "condition_state": "critical"
+    },
+    "validation_layer": {
+      "cross_modal_alignment": "corrected",
+      "consistency_score": 0.91,
+      "original_alignment": "misaligned",
+      "alignment_correction": "category_label_used_as_ground_truth"
+    },
+    "system_flags": {
+      "confidence_score": 0.61,
+      "needs_user_review": false
+    },
+    "split": "test",
+    "correction_applied": true,
+    "correction_reason": "misalignment_corrected_via_label_grounding",
+    "routing": {
+      "primary_department": "Maintenance",
+      "secondary_departments": [
+        "General Ward",
+        "Orthopaedics",
+        "Surgery"
+      ],
+      "escalation_chain": [
+        "Ward In-Charge",
+        "Maintenance Supervisor",
+        "Hospital Engineering Head",
+        "Hospital Administrator"
+      ],
+      "first_responder": "Ward Nurse",
+      "resolution_owner": "Maintenance Team",
+      "sla_hours": 4,
+      "action_on_report": "Isolate bed immediately, arrange replacement bed if available, log in maintenance register"
+    },
+    "taxonomy": {
+      "subtypes": [
+        "Frame Damage",
+        "Mattress Torn / Missing",
+        "Side Railing Broken",
+        "Height Adjustment Failure",
+        "Wheel or Brake Malfunction",
+        "Electrical Controls Not Working",
+        "IV Pole Holder Broken",
+        "Headboard / Footboard Damaged"
+      ],
+      "visual_indicators": [
+        "Bent or cracked frame",
+        "Exposed metal edges",
+        "Missing or torn mattress",
+        "Sagging or tilted bed surface",
+        "Loose or detached railings"
+      ],
+      "patient_impact": "Direct risk of physical injury, discomfort, inability to adjust position, fall hazard",
+      "regulatory_reference": ""
+    }
+  },
+  {
+    "image_id": "broken_4",
+    "category": "Broken Hospital Bed",
+    "folder": "broken_hospital_bed",
+    "severity": "high",
+    "department": "Orthopaedics",
+    "refined_caption": "The hospital bed appears to be damaged, with visible signs of wear and tear. The bed's frame is broken, indicating a need for repair or replacement.",
+    "complaint_description": "I was shocked to see the state of the hospital bed in my room, it's clearly broken and looks like it hasn't been maintained in a long time. As a patient, I'm concerned about my safety and comfort. The hospital should provide a functional and clean bed for all patients.",
+    "voice_text": "The bed in my hospital room is broken, it's really worn out and looks unsafe. Can someone please fix or replace it?",
+    "tags": [
+      "hospital_bed",
+      "broken_equipment",
+      "patient_safety"
+    ],
+    "input": {
+      "image_caption": "The hospital bed appears to be damaged, with visible signs of wear and tear. The bed's frame is broken, indicating a need for repair or replacement.",
+      "voice_text": "The bed in my hospital room is broken, it's really worn out and looks unsafe. Can someone please fix or replace it?"
+    },
+    "extracted_complaint": {
+      "category": "Broken Hospital Bed",
+      "sub_category": "equipment_damage",
+      "description": "I was shocked to see the state of the hospital bed in my room, it's clearly broken and looks like it hasn't been maintained in a long time. As a patient, I'm concerned about my safety and comfort. The hospital should provide a functional and clean bed for all patients."
+    },
+    "incident_details": {
+      "date_of_incident": "2025-01-06",
+      "approximate_time": "15:30",
+      "is_issue_ongoing": true,
+      "frequency_of_issue": "ongoing",
+      "reported_internally": true,
+      "other_patients_affected": false,
+      "physical_harm": false,
+      "staff_involved": "duty_doctor"
+    },
+    "hospital_details": {
+      "hospital_name": "AIIMS",
+      "hospital_type": "private",
+      "department": "Maintenance",
+      "city": "Delhi",
+      "state": "Delhi",
+      "full_address": "AIIMS, Delhi, Delhi"
+    },
+    "severity_assessment": {
+      "severity": "high",
+      "severity_reason": "Issue classified as high based on visible impact on patient safety and hospital standards."
+    },
+    "evidence": {
+      "image_provided": true,
+      "voice_provided": true,
+      "issue_visibility": "visible",
+      "evidence_clarity": "partial"
+    },
+    "ai_core_attributes": {
+      "issue_type": "equipment_failure",
+      "failure_point": "maintenance_team",
+      "affected_entity": "patient",
+      "condition_state": "degraded"
+    },
+    "validation_layer": {
+      "cross_modal_alignment": "aligned",
+      "consistency_score": 0.91
+    },
+    "system_flags": {
+      "confidence_score": 0.84,
+      "needs_user_review": false
+    },
+    "split": "test",
+    "correction_applied": false,
+    "correction_reason": "none",
+    "routing": {
+      "primary_department": "Maintenance",
+      "secondary_departments": [
+        "General Ward",
+        "Orthopaedics",
+        "Surgery"
+      ],
+      "escalation_chain": [
+        "Ward In-Charge",
+        "Maintenance Supervisor",
+        "Hospital Engineering Head",
+        "Hospital Administrator"
+      ],
+      "first_responder": "Ward Nurse",
+      "resolution_owner": "Maintenance Team",
+      "sla_hours": 4,
+      "action_on_report": "Isolate bed immediately, arrange replacement bed if available, log in maintenance register"
+    },
+    "taxonomy": {
+      "subtypes": [
+        "Frame Damage",
+        "Mattress Torn / Missing",
+        "Side Railing Broken",
+        "Height Adjustment Failure",
+        "Wheel or Brake Malfunction",
+        "Electrical Controls Not Working",
+        "IV Pole Holder Broken",
+        "Headboard / Footboard Damaged"
+      ],
+      "visual_indicators": [
+        "Bent or cracked frame",
+        "Exposed metal edges",
+        "Missing or torn mattress",
+        "Sagging or tilted bed surface",
+        "Loose or detached railings"
+      ],
+      "patient_impact": "Direct risk of physical injury, discomfort, inability to adjust position, fall hazard",
+      "regulatory_reference": ""
+    }
+  },
+  {
+    "image_id": "broken_21",
+    "category": "Broken Hospital Bed",
+    "folder": "broken_hospital_bed",
+    "severity": "high",
+    "department": "Surgery",
+    "refined_caption": "The hospital bed appears to be damaged, with visible signs of wear and tear. A blanket is draped over the bed.",
+    "complaint_description": "I was assigned to a room with a broken hospital bed, which is unacceptable for a place of healing. The bed looks like it has been damaged for a while and it's surprising that it hasn't been replaced yet. This is a serious concern for patient safety and comfort.",
+    "voice_text": "There's a broken bed in my hospital room, it's really worn out and has a blanket just thrown on it.",
+    "tags": [
+      "hospital_equipment",
+      "patient_safety",
+      "maintenance_issue"
+    ],
+    "input": {
+      "image_caption": "The hospital bed appears to be damaged, with visible signs of wear and tear. A blanket is draped over the bed.",
+      "voice_text": "There's a broken bed in my hospital room, it's really worn out and has a blanket just thrown on it."
+    },
+    "extracted_complaint": {
+      "category": "Broken Hospital Bed",
+      "sub_category": "equipment_damage",
+      "description": "I was assigned to a room with a broken hospital bed, which is unacceptable for a place of healing. The bed looks like it has been damaged for a while and it's surprising that it hasn't been replaced yet. This is a serious concern for patient safety and comfort."
+    },
+    "incident_details": {
+      "date_of_incident": "2025-07-12",
+      "approximate_time": "14:30",
+      "is_issue_ongoing": false,
+      "frequency_of_issue": "one_time",
+      "reported_internally": true,
+      "other_patients_affected": false,
+      "physical_harm": false,
+      "staff_involved": "ward_nurse"
+    },
+    "hospital_details": {
+      "hospital_name": "Max Super Speciality Hospital",
+      "hospital_type": "semi-government",
+      "department": "Maintenance",
+      "city": "Delhi",
+      "state": "Delhi",
+      "full_address": "Max Super Speciality Hospital, Delhi, Delhi"
+    },
+    "severity_assessment": {
+      "severity": "high",
+      "severity_reason": "Issue classified as high based on visible impact on patient safety and hospital standards."
+    },
+    "evidence": {
+      "image_provided": true,
+      "voice_provided": true,
+      "issue_visibility": "visible",
+      "evidence_clarity": "clear"
+    },
+    "ai_core_attributes": {
+      "issue_type": "equipment_failure",
+      "failure_point": "maintenance_team",
+      "affected_entity": "patient",
+      "condition_state": "poor"
+    },
+    "validation_layer": {
+      "cross_modal_alignment": "aligned",
+      "consistency_score": 0.77
+    },
+    "system_flags": {
+      "confidence_score": 0.57,
+      "needs_user_review": false,
+      "was_flagged": true,
+      "flag_resolution": "reviewed_and_cleared"
+    },
+    "split": "test",
+    "correction_applied": true,
+    "correction_reason": "needs_user_review_cleared",
+    "routing": {
+      "primary_department": "Maintenance",
+      "secondary_departments": [
+        "General Ward",
+        "Orthopaedics",
+        "Surgery"
+      ],
+      "escalation_chain": [
+        "Ward In-Charge",
+        "Maintenance Supervisor",
+        "Hospital Engineering Head",
+        "Hospital Administrator"
+      ],
+      "first_responder": "Ward Nurse",
+      "resolution_owner": "Maintenance Team",
+      "sla_hours": 4,
+      "action_on_report": "Isolate bed immediately, arrange replacement bed if available, log in maintenance register"
+    },
+    "taxonomy": {
+      "subtypes": [
+        "Frame Damage",
+        "Mattress Torn / Missing",
+        "Side Railing Broken",
+        "Height Adjustment Failure",
+        "Wheel or Brake Malfunction",
+        "Electrical Controls Not Working",
+        "IV Pole Holder Broken",
+        "Headboard / Footboard Damaged"
+      ],
+      "visual_indicators": [
+        "Bent or cracked frame",
+        "Exposed metal edges",
+        "Missing or torn mattress",
+        "Sagging or tilted bed surface",
+        "Loose or detached railings"
+      ],
+      "patient_impact": "Direct risk of physical injury, discomfort, inability to adjust position, fall hazard",
+      "regulatory_reference": ""
+    }
+  },
+  {
+    "image_id": "crowded_6",
+    "category": "Crowded Hospital Waiting Room",
+    "folder": "crowded_hospital_waiting_room",
+    "severity": "medium",
+    "department": "Emergency",
+    "refined_caption": "The hospital waiting room is overcrowded with patients sitting on the floor. There is a lack of available seating.",
+    "complaint_description": "I visited the hospital today and was shocked to see the waiting room was extremely crowded, with many patients forced to sit on the floor. This is not only uncomfortable but also unsanitary. The hospital should provide more seating and improve the waiting area conditions.",
+    "voice_text": "The waiting room is super crowded, people are sitting on the floor, it's really uncomfortable and not clean.",
+    "tags": [
+      "overcrowding",
+      "insufficient_seating",
+      "waiting_area_issues"
+    ],
+    "input": {
+      "image_caption": "The hospital waiting room is overcrowded with patients sitting on the floor. There is a lack of available seating.",
+      "voice_text": "The waiting room is super crowded, people are sitting on the floor, it's really uncomfortable and not clean."
+    },
+    "extracted_complaint": {
+      "category": "Crowded Hospital Waiting Room",
+      "sub_category": "overcrowding",
+      "description": "I visited the hospital today and was shocked to see the waiting room was extremely crowded, with many patients forced to sit on the floor. This is not only uncomfortable but also unsanitary. The hospital should provide more seating and improve the waiting area conditions."
+    },
+    "incident_details": {
+      "date_of_incident": "2025-03-12",
+      "approximate_time": "17:30",
+      "is_issue_ongoing": true,
+      "frequency_of_issue": "repeated",
+      "reported_internally": true,
+      "other_patients_affected": false,
+      "physical_harm": false,
+      "staff_involved": "duty_doctor"
+    },
+    "hospital_details": {
+      "hospital_name": "Apollo Hospital",
+      "hospital_type": "semi-government",
+      "department": "Administration",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "full_address": "Apollo Hospital, Kolkata, West Bengal"
+    },
+    "severity_assessment": {
+      "severity": "medium",
+      "severity_reason": "Issue classified as medium based on visible impact on patient safety and hospital standards."
+    },
+    "evidence": {
+      "image_provided": true,
+      "voice_provided": true,
+      "issue_visibility": "partially_visible",
+      "evidence_clarity": "partial"
+    },
+    "ai_core_attributes": {
+      "issue_type": "capacity_management",
+      "failure_point": "administration",
+      "affected_entity": "patient",
+      "condition_state": "poor"
+    },
+    "validation_layer": {
+      "cross_modal_alignment": "aligned",
+      "consistency_score": 0.81
+    },
+    "system_flags": {
+      "confidence_score": 0.74,
+      "needs_user_review": false,
+      "was_flagged": true,
+      "flag_resolution": "reviewed_and_cleared"
+    },
+    "split": "test",
+    "correction_applied": true,
+    "correction_reason": "needs_user_review_cleared",
+    "routing": {
+      "primary_department": "Administration",
+      "secondary_departments": [
+        "OPD",
+        "Emergency",
+        "Patient Services"
+      ],
+      "escalation_chain": [
+        "OPD In-Charge",
+        "Administrative Officer",
+        "Medical Superintendent",
+        "Hospital Director"
+      ],
+      "first_responder": "Reception / OPD Staff",
+      "resolution_owner": "Administration",
+      "sla_hours": 2,
+      "action_on_report": "Deploy crowd management, open additional counters, arrange temporary seating, assess queue flow"
+    },
+    "taxonomy": {
+      "subtypes": [
+        "Insufficient Seating",
+        "Ventilation or Air Quality Issue",
+        "Noise and Chaos",
+        "Queue Management Breakdown",
+        "Accessibility Blocked for Disabled / Elderly",
+        "No Drinking Water Available",
+        "Children or Vulnerable Persons Unaccommodated",
+        "Waiting Time Exceeds Acceptable Limit"
+      ],
+      "visual_indicators": [
+        "People standing due to no seats",
+        "Patients sitting on floor",
+        "No visible queue management",
+        "Blocked wheelchair access",
+        "Visible distress on patient faces"
+      ],
+      "patient_impact": "Psychological distress, delayed care, infection spread in overcrowded space, accessibility denial",
+      "regulatory_reference": ""
+    }
+  },
+  {
+    "image_id": "crowded_1",
+    "category": "Crowded Hospital Waiting Room",
+    "folder": "crowded_hospital_waiting_room",
+    "severity": "medium",
+    "department": "OPD",
+    "refined_caption": "The hospital waiting room is overcrowded with multiple patients waiting. There are limited seats available.",
+    "complaint_description": "I visited the hospital for my appointment and was shocked to see the waiting room overcrowded with patients. The lack of seating and space made it uncomfortable for everyone. It seems like the hospital is not managing its patient flow efficiently.",
+    "voice_text": "The waiting room is super crowded, there's barely any space to sit. It's really uncomfortable.",
+    "tags": [
+      "overcrowding",
+      "waiting_room",
+      "seating_issue"
+    ],
+    "input": {
+      "image_caption": "The hospital waiting room is overcrowded with multiple patients waiting. There are limited seats available.",
+      "voice_text": "The waiting room is super crowded, there's barely any space to sit. It's really uncomfortable."
+    },
+    "extracted_complaint": {
+      "category": "Crowded Hospital Waiting Room",
+      "sub_category": "overcrowding",
+      "description": "I visited the hospital for my appointment and was shocked to see the waiting room overcrowded with patients. The lack of seating and space made it uncomfortable for everyone. It seems like the hospital is not managing its patient flow efficiently."
+    },
+    "incident_details": {
+      "date_of_incident": "2025-09-01",
+      "approximate_time": "06:45",
+      "is_issue_ongoing": false,
+      "frequency_of_issue": "ongoing",
+      "reported_internally": true,
+      "other_patients_affected": false,
+      "physical_harm": true,
+      "staff_involved": "ward_nurse"
+    },
+    "hospital_details": {
+      "hospital_name": "Fortis Hospital",
+      "hospital_type": "private",
+      "department": "Administration",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "full_address": "Fortis Hospital, Hyderabad, Telangana"
+    },
+    "severity_assessment": {
+      "severity": "medium",
+      "severity_reason": "Issue classified as medium based on visible impact on patient safety and hospital standards."
+    },
+    "evidence": {
+      "image_provided": true,
+      "voice_provided": true,
+      "issue_visibility": "partially_visible",
+      "evidence_clarity": "partial"
+    },
+    "ai_core_attributes": {
+      "issue_type": "capacity_management",
+      "failure_point": "administration",
+      "affected_entity": "patient",
+      "condition_state": "poor"
+    },
+    "validation_layer": {
+      "cross_modal_alignment": "aligned",
+      "consistency_score": 0.83
+    },
+    "system_flags": {
+      "confidence_score": 0.55,
+      "needs_user_review": false
+    },
+    "split": "test",
+    "correction_applied": false,
+    "correction_reason": "none",
+    "routing": {
+      "primary_department": "Administration",
+      "secondary_departments": [
+        "OPD",
+        "Emergency",
+        "Patient Services"
+      ],
+      "escalation_chain": [
+        "OPD In-Charge",
+        "Administrative Officer",
+        "Medical Superintendent",
+        "Hospital Director"
+      ],
+      "first_responder": "Reception / OPD Staff",
+      "resolution_owner": "Administration",
+      "sla_hours": 2,
+      "action_on_report": "Deploy crowd management, open additional counters, arrange temporary seating, assess queue flow"
+    },
+    "taxonomy": {
+      "subtypes": [
+        "Insufficient Seating",
+        "Ventilation or Air Quality Issue",
+        "Noise and Chaos",
+        "Queue Management Breakdown",
+        "Accessibility Blocked for Disabled / Elderly",
+        "No Drinking Water Available",
+        "Children or Vulnerable Persons Unaccommodated",
+        "Waiting Time Exceeds Acceptable Limit"
+      ],
+      "visual_indicators": [
+        "People standing due to no seats",
+        "Patients sitting on floor",
+        "No visible queue management",
+        "Blocked wheelchair access",
+        "Visible distress on patient faces"
+      ],
+      "patient_impact": "Psychological distress, delayed care, infection spread in overcrowded space, accessibility denial",
+      "regulatory_reference": ""
+    }
+  },
+  {
+    "image_id": "crowded_9",
+    "category": "Crowded Hospital Waiting Room",
+    "folder": "crowded_hospital_waiting_room",
+    "severity": "medium",
+    "department": "Administration",
+    "refined_caption": "The hospital waiting room is overcrowded with patients sleeping on the floor. There is a lack of available seating.",
+    "complaint_description": "I visited the hospital today and was shocked to see the waiting room in such a state. Patients, including the elderly, were forced to sleep on the floor due to the lack of seating. This is unacceptable and highlights the need for better waiting area management.",
+    "voice_text": "The waiting room is super crowded, people are even sleeping on the floor, it's really bad.",
+    "tags": [
+      "overcrowding",
+      "waiting_room",
+      "seating_shortage"
+    ],
+    "input": {
+      "image_caption": "The hospital waiting room is overcrowded with patients sleeping on the floor. There is a lack of available seating.",
+      "voice_text": "The waiting room is super crowded, people are even sleeping on the floor, it's really bad."
+    },
+    "extracted_complaint": {
+      "category": "Crowded Hospital Waiting Room",
+      "sub_category": "overcrowding",
+      "description": "I visited the hospital today and was shocked to see the waiting room in such a state. Patients, including the elderly, were forced to sleep on the floor due to the lack of seating. This is unacceptable and highlights the need for better waiting area management."
+    },
+    "incident_details": {
+      "date_of_incident": "2025-08-23",
+      "approximate_time": "21:00",
+      "is_issue_ongoing": true,
+      "frequency_of_issue": "repeated",
+      "reported_internally": false,
+      "other_patients_affected": true,
+      "physical_harm": false,
+      "staff_involved": "duty_doctor"
+    },
+    "hospital_details": {
+      "hospital_name": "Max Super Speciality Hospital",
+      "hospital_type": "government",
+      "department": "Administration",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "full_address": "Max Super Speciality Hospital, Bangalore, Karnataka"
+    },
+    "severity_assessment": {
+      "severity": "medium",
+      "severity_reason": "Issue classified as medium based on visible impact on patient safety and hospital standards."
+    },
+    "evidence": {
+      "image_provided": true,
+      "voice_provided": true,
+      "issue_visibility": "partially_visible",
+      "evidence_clarity": "partial"
+    },
+    "ai_core_attributes": {
+      "issue_type": "capacity_management",
+      "failure_point": "administration",
+      "affected_entity": "patient",
+      "condition_state": "critical"
+    },
+    "validation_layer": {
+      "cross_modal_alignment": "aligned",
+      "consistency_score": 0.68
+    },
+    "system_flags": {
+      "confidence_score": 0.95,
+      "needs_user_review": false,
+      "was_flagged": true,
+      "flag_resolution": "reviewed_and_cleared"
+    },
+    "split": "test",
+    "correction_applied": true,
+    "correction_reason": "needs_user_review_cleared",
+    "routing": {
+      "primary_department": "Administration",
+      "secondary_departments": [
+        "OPD",
+        "Emergency",
+        "Patient Services"
+      ],
+      "escalation_chain": [
+        "OPD In-Charge",
+        "Administrative Officer",
+        "Medical Superintendent",
+        "Hospital Director"
+      ],
+      "first_responder": "Reception / OPD Staff",
+      "resolution_owner": "Administration",
+      "sla_hours": 2,
+      "action_on_report": "Deploy crowd management, open additional counters, arrange temporary seating, assess queue flow"
+    },
+    "taxonomy": {
+      "subtypes": [
+        "Insufficient Seating",
+        "Ventilation or Air Quality Issue",
+        "Noise and Chaos",
+        "Queue Management Breakdown",
+        "Accessibility Blocked for Disabled / Elderly",
+        "No Drinking Water Available",
+        "Children or Vulnerable Persons Unaccommodated",
+        "Waiting Time Exceeds Acceptable Limit"
+      ],
+      "visual_indicators": [
+        "People standing due to no seats",
+        "Patients sitting on floor",
+        "No visible queue management",
+        "Blocked wheelchair access",
+        "Visible distress on patient faces"
+      ],
+      "patient_impact": "Psychological distress, delayed care, infection spread in overcrowded space, accessibility denial",
+      "regulatory_reference": ""
+    }
+  },
+  {
+    "image_id": "crowded_19",
+    "category": "Crowded Hospital Waiting Room",
+    "folder": "crowded_hospital_waiting_room",
+    "severity": "medium",
+    "department": "Emergency",
+    "refined_caption": "The hospital waiting room is overcrowded with patients and medical staff. There are many people standing or sitting in close proximity to each other.",
+    "complaint_description": "I visited the hospital today and was shocked to see how crowded the waiting room was. There were not enough seats for all the patients and their families, and the staff seemed overwhelmed. This made it difficult for me to get the help I needed in a timely manner.",
+    "voice_text": "The waiting room is super crowded, it's really uncomfortable and hard to get help.",
+    "tags": [
+      "overcrowding",
+      "waiting_room",
+      "hospital"
+    ],
+    "input": {
+      "image_caption": "The hospital waiting room is overcrowded with patients and medical staff. There are many people standing or sitting in close proximity to each other.",
+      "voice_text": "The waiting room is super crowded, it's really uncomfortable and hard to get help."
+    },
+    "extracted_complaint": {
+      "category": "Crowded Hospital Waiting Room",
+      "sub_category": "overcrowding",
+      "description": "I visited the hospital today and was shocked to see how crowded the waiting room was. There were not enough seats for all the patients and their families, and the staff seemed overwhelmed. This made it difficult for me to get the help I needed in a timely manner."
+    },
+    "incident_details": {
+      "date_of_incident": "2025-01-06",
+      "approximate_time": "10:00",
+      "is_issue_ongoing": false,
+      "frequency_of_issue": "repeated",
+      "reported_internally": true,
+      "other_patients_affected": true,
+      "physical_harm": true,
+      "staff_involved": "ward_nurse"
+    },
+    "hospital_details": {
+      "hospital_name": "Apollo Hospital",
+      "hospital_type": "government",
+      "department": "Administration",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "full_address": "Apollo Hospital, Kolkata, West Bengal"
+    },
+    "severity_assessment": {
+      "severity": "medium",
+      "severity_reason": "Issue classified as medium based on visible impact on patient safety and hospital standards."
+    },
+    "evidence": {
+      "image_provided": true,
+      "voice_provided": true,
+      "issue_visibility": "not_visible",
+      "evidence_clarity": "partial"
+    },
+    "ai_core_attributes": {
+      "issue_type": "capacity_management",
+      "failure_point": "administration",
+      "affected_entity": "patient",
+      "condition_state": "poor"
+    },
+    "validation_layer": {
+      "cross_modal_alignment": "aligned",
+      "consistency_score": 0.94
+    },
+    "system_flags": {
+      "confidence_score": 0.75,
+      "needs_user_review": false
+    },
+    "split": "test",
+    "correction_applied": false,
+    "correction_reason": "none",
+    "routing": {
+      "primary_department": "Administration",
+      "secondary_departments": [
+        "OPD",
+        "Emergency",
+        "Patient Services"
+      ],
+      "escalation_chain": [
+        "OPD In-Charge",
+        "Administrative Officer",
+        "Medical Superintendent",
+        "Hospital Director"
+      ],
+      "first_responder": "Reception / OPD Staff",
+      "resolution_owner": "Administration",
+      "sla_hours": 2,
+      "action_on_report": "Deploy crowd management, open additional counters, arrange temporary seating, assess queue flow"
+    },
+    "taxonomy": {
+      "subtypes": [
+        "Insufficient Seating",
+        "Ventilation or Air Quality Issue",
+        "Noise and Chaos",
+        "Queue Management Breakdown",
+        "Accessibility Blocked for Disabled / Elderly",
+        "No Drinking Water Available",
+        "Children or Vulnerable Persons Unaccommodated",
+        "Waiting Time Exceeds Acceptable Limit"
+      ],
+      "visual_indicators": [
+        "People standing due to no seats",
+        "Patients sitting on floor",
+        "No visible queue management",
+        "Blocked wheelchair access",
+        "Visible distress on patient faces"
+      ],
+      "patient_impact": "Psychological distress, delayed care, infection spread in overcrowded space, accessibility denial",
+      "regulatory_reference": ""
+    }
+  },
+  {
+    "image_id": "dirty_sc_12",
+    "category": "Dirty Hospital Bathroom",
+    "folder": "dirty_hospital_bathroom",
+    "severity": "high",
+    "department": "Infection Control",
+    "refined_caption": "The hospital bathroom appears to be unhygienic with visible dirt. There are two sinks and a window in the bathroom.",
+    "complaint_description": "I was shocked to see the state of the hospital bathroom, it was extremely dirty and unhygienic. The bathroom had two sinks and a window, but the overall condition was unacceptable. This is a serious concern for patient health and safety.",
+    "voice_text": "The hospital bathroom is really dirty and gross, it's got two sinks and a window but it's just not clean.",
+    "tags": [
+      "dirty_bathroom",
+      "unhygienic_conditions",
+      "hospital_sanitation"
+    ],
+    "input": {
+      "image_caption": "The hospital bathroom appears to be unhygienic with visible dirt. There are two sinks and a window in the bathroom.",
+      "voice_text": "The hospital bathroom is really dirty and gross, it's got two sinks and a window but it's just not clean."
+    },
+    "extracted_complaint": {
+      "category": "Dirty Hospital Bathroom",
+      "sub_category": "poor_hygiene",
+      "description": "I was shocked to see the state of the hospital bathroom, it was extremely dirty and unhygienic. The bathroom had two sinks and a window, but the overall condition was unacceptable. This is a serious concern for patient health and safety."
+    },
+    "incident_details": {
+      "date_of_incident": "2025-07-12",
+      "approximate_time": "16:45",
+      "is_issue_ongoing": true,
+      "frequency_of_issue": "repeated",
+      "reported_internally": true,
+      "other_patients_affected": true,
+      "physical_harm": false,
+      "staff_involved": null
+    },
+    "hospital_details": {
+      "hospital_name": "AIIMS",
+      "hospital_type": "semi-government",
+      "department": "Housekeeping",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "full_address": "AIIMS, Hyderabad, Telangana"
+    },
+    "severity_assessment": {
+      "severity": "high",
+      "severity_reason": "Issue classified as high based on visible impact on patient safety and hospital standards."
+    },
+    "evidence": {
+      "image_provided": true,
+      "voice_provided": true,
+      "issue_visibility": "partially_visible",
+      "evidence_clarity": "partial"
+    },
+    "ai_core_attributes": {
+      "issue_type": "sanitation_failure",
+      "failure_point": "housekeeping",
+      "affected_entity": "patient",
+      "condition_state": "moderate"
+    },
+    "validation_layer": {
+      "cross_modal_alignment": "partial",
+      "consistency_score": 0.87
+    },
+    "system_flags": {
+      "confidence_score": 0.64,
+      "needs_user_review": false
+    },
+    "split": "test",
+    "correction_applied": false,
+    "correction_reason": "none",
+    "routing": {
+      "primary_department": "Housekeeping",
+      "secondary_departments": [
+        "Infection Control",
+        "Facilities Management"
+      ],
+      "escalation_chain": [
+        "Housekeeping Supervisor",
+        "Facilities Manager",
+        "Infection Control Officer",
+        "Hospital Administrator"
+      ],
+      "first_responder": "Housekeeping Staff",
+      "resolution_owner": "Housekeeping",
+      "sla_hours": 1,
+      "action_on_report": "Immediate cleaning and sanitisation, repair broken fittings, restock toiletries, inspect other bathrooms"
+    },
+    "taxonomy": {
+      "subtypes": [
+        "Unclean Toilet / Commode",
+        "Overflowing or Blocked Drain",
+        "Foul Odour",
+        "Broken Taps or Fittings",
+        "No Soap / Sanitizer Available",
+        "Wet and Slippery Floor",
+        "Soiled Walls or Tiles",
+        "Missing Door Lock or Privacy"
+      ],
+      "visual_indicators": [
+        "Visible stains or waste on surfaces",
+        "Standing water on floor",
+        "Broken fixtures",
+        "Strong unpleasant smell",
+        "Empty soap dispensers"
+      ],
+      "patient_impact": "Infection risk, fall hazard from wet floor, denial of basic dignity, cross-contamination",
+      "regulatory_reference": ""
+    }
+  },
+  {
+    "image_id": "dirty_sc_10",
+    "category": "Dirty Hospital Bathroom",
+    "folder": "dirty_hospital_bathroom",
+    "severity": "high",
+    "department": "Facilities Management",
+    "refined_caption": "The hospital bathroom appears to be dirty and unhygienic, with visible dirt and grime on the toilet and urinals. The overall condition of the bathroom is unsanitary.",
+    "complaint_description": "I was appalled by the condition of the hospital bathroom I visited, which was filthy and clearly hadn't been cleaned in a while. The toilet and urinals were dirty, and the whole area looked like it hadn't been disinfected. This is unacceptable for a healthcare facility.",
+    "voice_text": "The bathroom in this hospital is disgusting, it's all dirty and gross.",
+    "tags": [
+      "dirty_bathroom",
+      "unhygienic_conditions",
+      "hospital_sanitation"
+    ],
+    "input": {
+      "image_caption": "The hospital bathroom appears to be dirty and unhygienic, with visible dirt and grime on the toilet and urinals. The overall condition of the bathroom is unsanitary.",
+      "voice_text": "The bathroom in this hospital is disgusting, it's all dirty and gross."
+    },
+    "extracted_complaint": {
+      "category": "Dirty Hospital Bathroom",
+      "sub_category": "poor_hygiene",
+      "description": "I was appalled by the condition of the hospital bathroom I visited, which was filthy and clearly hadn't been cleaned in a while. The toilet and urinals were dirty, and the whole area looked like it hadn't been disinfected. This is unacceptable for a healthcare facility."
+    },
+    "incident_details": {
+      "date_of_incident": "2025-10-04",
+      "approximate_time": "07:45",
+      "is_issue_ongoing": false,
+      "frequency_of_issue": "repeated",
+      "reported_internally": false,
+      "other_patients_affected": false,
+      "physical_harm": false,
+      "staff_involved": null
+    },
+    "hospital_details": {
+      "hospital_name": "Ram Manohar Lohia Hospital",
+      "hospital_type": "private",
+      "department": "Housekeeping",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "full_address": "Ram Manohar Lohia Hospital, Bangalore, Karnataka"
+    },
+    "severity_assessment": {
+      "severity": "high",
+      "severity_reason": "Issue classified as high based on visible impact on patient safety and hospital standards."
+    },
+    "evidence": {
+      "image_provided": true,
+      "voice_provided": true,
+      "issue_visibility": "not_visible",
+      "evidence_clarity": "unclear"
+    },
+    "ai_core_attributes": {
+      "issue_type": "sanitation_failure",
+      "failure_point": "housekeeping",
+      "affected_entity": "patient",
+      "condition_state": "moderate"
+    },
+    "validation_layer": {
+      "cross_modal_alignment": "aligned",
+      "consistency_score": 0.74
+    },
+    "system_flags": {
+      "confidence_score": 0.79,
+      "needs_user_review": false,
+      "was_flagged": true,
+      "flag_resolution": "reviewed_and_cleared"
+    },
+    "split": "test",
+    "correction_applied": true,
+    "correction_reason": "needs_user_review_cleared",
+    "routing": {
+      "primary_department": "Housekeeping",
+      "secondary_departments": [
+        "Infection Control",
+        "Facilities Management"
+      ],
+      "escalation_chain": [
+        "Housekeeping Supervisor",
+        "Facilities Manager",
+        "Infection Control Officer",
+        "Hospital Administrator"
+      ],
+      "first_responder": "Housekeeping Staff",
+      "resolution_owner": "Housekeeping",
+      "sla_hours": 1,
+      "action_on_report": "Immediate cleaning and sanitisation, repair broken fittings, restock toiletries, inspect other bathrooms"
+    },
+    "taxonomy": {
+      "subtypes": [
+        "Unclean Toilet / Commode",
+        "Overflowing or Blocked Drain",
+        "Foul Odour",
+        "Broken Taps or Fittings",
+        "No Soap / Sanitizer Available",
+        "Wet and Slippery Floor",
+        "Soiled Walls or Tiles",
+        "Missing Door Lock or Privacy"
+      ],
+      "visual_indicators": [
+        "Visible stains or waste on surfaces",
+        "Standing water on floor",
+        "Broken fixtures",
+        "Strong unpleasant smell",
+        "Empty soap dispensers"
+      ],
+      "patient_impact": "Infection risk, fall hazard from wet floor, denial of basic dignity, cross-contamination",
+      "regulatory_reference": ""
+    }
+  },
+  {
+    "image_id": "dirty_5",
+    "category": "Dirty Hospital Bathroom",
+    "folder": "dirty_hospital_bathroom",
+    "severity": "high",
+    "department": "Housekeeping",
+    "refined_caption": "The hospital bathroom appears to be unhygienic with visible dirt and grime. The urinals and sink are particularly affected.",
+    "complaint_description": "I was appalled by the state of the hospital bathroom, which was filthy and clearly hadn't been cleaned in a while. The urinals and sink were clogged with dirt and grime, making it unusable. This is unacceptable for a healthcare facility.",
+    "voice_text": "The bathroom in this hospital is disgusting, it's all dirty and gross. You can't even use the sink or urinals.",
+    "tags": [
+      "unhygienic",
+      "dirty_bathroom",
+      "hospital_sanitation"
+    ],
+    "input": {
+      "image_caption": "The hospital bathroom appears to be unhygienic with visible dirt and grime. The urinals and sink are particularly affected.",
+      "voice_text": "The bathroom in this hospital is disgusting, it's all dirty and gross. You can't even use the sink or urinals."
+    },
+    "extracted_complaint": {
+      "category": "Dirty Hospital Bathroom",
+      "sub_category": "poor_hygiene",
+      "description": "I was appalled by the state of the hospital bathroom, which was filthy and clearly hadn't been cleaned in a while. The urinals and sink were clogged with dirt and grime, making it unusable. This is unacceptable for a healthcare facility."
+    },
+    "incident_details": {
+      "date_of_incident": "2025-04-11",
+      "approximate_time": "21:15",
+      "is_issue_ongoing": true,
+      "frequency_of_issue": "one_time",
+      "reported_internally": false,
+      "other_patients_affected": false,
+      "physical_harm": true,
+      "staff_involved": "hospital_admin"
+    },
+    "hospital_details": {
+      "hospital_name": "Apollo Hospital",
+      "hospital_type": "government",
+      "department": "Housekeeping",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "full_address": "Apollo Hospital, Hyderabad, Telangana"
+    },
+    "severity_assessment": {
+      "severity": "high",
+      "severity_reason": "Issue classified as high based on visible impact on patient safety and hospital standards."
+    },
+    "evidence": {
+      "image_provided": true,
+      "voice_provided": true,
+      "issue_visibility": "not_visible",
+      "evidence_clarity": "unclear"
+    },
+    "ai_core_attributes": {
+      "issue_type": "sanitation_failure",
+      "failure_point": "housekeeping",
+      "affected_entity": "patient",
+      "condition_state": "poor"
+    },
+    "validation_layer": {
+      "cross_modal_alignment": "corrected",
+      "consistency_score": 0.78,
+      "original_alignment": "misaligned",
+      "alignment_correction": "category_label_used_as_ground_truth"
+    },
+    "system_flags": {
+      "confidence_score": 0.95,
+      "needs_user_review": false
+    },
+    "split": "test",
+    "correction_applied": true,
+    "correction_reason": "misalignment_corrected_via_label_grounding",
+    "routing": {
+      "primary_department": "Housekeeping",
+      "secondary_departments": [
+        "Infection Control",
+        "Facilities Management"
+      ],
+      "escalation_chain": [
+        "Housekeeping Supervisor",
+        "Facilities Manager",
+        "Infection Control Officer",
+        "Hospital Administrator"
+      ],
+      "first_responder": "Housekeeping Staff",
+      "resolution_owner": "Housekeeping",
+      "sla_hours": 1,
+      "action_on_report": "Immediate cleaning and sanitisation, repair broken fittings, restock toiletries, inspect other bathrooms"
+    },
+    "taxonomy": {
+      "subtypes": [
+        "Unclean Toilet / Commode",
+        "Overflowing or Blocked Drain",
+        "Foul Odour",
+        "Broken Taps or Fittings",
+        "No Soap / Sanitizer Available",
+        "Wet and Slippery Floor",
+        "Soiled Walls or Tiles",
+        "Missing Door Lock or Privacy"
+      ],
+      "visual_indicators": [
+        "Visible stains or waste on surfaces",
+        "Standing water on floor",
+        "Broken fixtures",
+        "Strong unpleasant smell",
+        "Empty soap dispensers"
+      ],
+      "patient_impact": "Infection risk, fall hazard from wet floor, denial of basic dignity, cross-contamination",
+      "regulatory_reference": ""
+    }
+  },
+  {
+    "image_id": "nursing_9",
+    "category": "Empty / Unstaffed Nursing Station",
+    "folder": "empty_nursing_station",
+    "severity": "critical",
+    "department": "Nursing",
+    "refined_caption": "The hospital nursing station is empty and unstaffed, with no personnel present at the reception counter. There are chairs available, but no staff to attend to patients or visitors.",
+    "complaint_description": "I visited the nursing station to ask for assistance, but there was no one available to help me. The station was completely empty, with no staff in sight. This lack of staffing is concerning and affects the quality of care.",
+    "voice_text": "I went to the nursing station and there was nobody there, it's really concerning. The station was empty, no staff at all.",
+    "tags": [
+      "unstaffed",
+      "nursing_station",
+      "lack_of_care"
+    ],
+    "input": {
+      "image_caption": "The hospital nursing station is empty and unstaffed, with no personnel present at the reception counter. There are chairs available, but no staff to attend to patients or visitors.",
+      "voice_text": "I went to the nursing station and there was nobody there, it's really concerning. The station was empty, no staff at all."
+    },
+    "extracted_complaint": {
+      "category": "Empty / Unstaffed Nursing Station",
+      "sub_category": "staff_absence",
+      "description": "I visited the nursing station to ask for assistance, but there was no one available to help me. The station was completely empty, with no staff in sight. This lack of staffing is concerning and affects the quality of care."
+    },
+    "incident_details": {
+      "date_of_incident": "2025-02-14",
+      "approximate_time": "06:15",
+      "is_issue_ongoing": true,
+      "frequency_of_issue": "ongoing",
+      "reported_internally": true,
+      "other_patients_affected": false,
+      "physical_harm": true,
+      "staff_involved": "hospital_admin"
+    },
+    "hospital_details": {
+      "hospital_name": "Fortis Hospital",
+      "hospital_type": "semi-government",
+      "department": "Nursing",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "full_address": "Fortis Hospital, Chennai, Tamil Nadu"
+    },
+    "severity_assessment": {
+      "severity": "critical",
+      "severity_reason": "Issue classified as high based on visible impact on patient safety and hospital standards."
+    },
+    "evidence": {
+      "image_provided": true,
+      "voice_provided": true,
+      "issue_visibility": "partially_visible",
+      "evidence_clarity": "partial"
+    },
+    "ai_core_attributes": {
+      "issue_type": "staffing_gap",
+      "failure_point": "nursing_management",
+      "affected_entity": "patient",
+      "condition_state": "critical"
+    },
+    "validation_layer": {
+      "cross_modal_alignment": "corrected",
+      "consistency_score": 0.97,
+      "original_alignment": "misaligned",
+      "alignment_correction": "category_label_used_as_ground_truth"
+    },
+    "system_flags": {
+      "confidence_score": 0.56,
+      "needs_user_review": false
+    },
+    "split": "test",
+    "correction_applied": true,
+    "correction_reason": "misalignment_corrected_via_label_grounding",
+    "routing": {
+      "primary_department": "Nursing",
+      "secondary_departments": [
+        "Administration",
+        "General Ward"
+      ],
+      "escalation_chain": [
+        "Nursing Supervisor",
+        "Duty Medical Officer",
+        "Medical Superintendent",
+        "Hospital Administrator"
+      ],
+      "first_responder": "Nursing Supervisor",
+      "resolution_owner": "Nursing Management",
+      "sla_hours": 1,
+      "action_on_report": "Deploy standby nurse immediately, review shift allocation, conduct inquiry if life-threatening gap occurred"
+    },
+    "taxonomy": {
+      "subtypes": [
+        "No Nurse Present During Emergency",
+        "Call Bell Not Answered",
+        "Shift Handover Gap",
+        "No Duty Doctor Reachable",
+        "Night Duty Abandonment",
+        "No Emergency Contact Displayed",
+        "Delayed Response to Critical Patient",
+        "Unattended ICU / HDU Desk"
+      ],
+      "visual_indicators": [
+        "Empty nursing counter",
+        "Unanswered call bells",
+        "No staff visible in ward",
+        "Patients unattended in visible distress"
+      ],
+      "patient_impact": "Life-threatening delay in emergency response, unmonitored deterioration, psychological abandonment",
+      "regulatory_reference": ""
+    }
+  },
+  {
+    "image_id": "nursing_22",
+    "category": "Empty / Unstaffed Nursing Station",
+    "folder": "empty_nursing_station",
+    "severity": "critical",
+    "department": "Administration",
+    "refined_caption": "The hospital nursing station is unstaffed and empty, with no medical personnel present. The area has brightly colored stools but appears to be unmanned.",
+    "complaint_description": "I visited the hospital and was concerned to find the nursing station completely unstaffed. There was no one available to answer questions or provide assistance, which is unacceptable for a healthcare facility. This lack of staffing is alarming and raises concerns about patient care.",
+    "voice_text": "I just got to the hospital and the nursing station is totally empty, there's no one here to help or answer questions.",
+    "tags": [
+      "unstaffed",
+      "nursing_station",
+      "patient_safety"
+    ],
+    "input": {
+      "image_caption": "The hospital nursing station is unstaffed and empty, with no medical personnel present. The area has brightly colored stools but appears to be unmanned.",
+      "voice_text": "I just got to the hospital and the nursing station is totally empty, there's no one here to help or answer questions."
+    },
+    "extracted_complaint": {
+      "category": "Empty / Unstaffed Nursing Station",
+      "sub_category": "staff_absence",
+      "description": "I visited the hospital and was concerned to find the nursing station completely unstaffed. There was no one available to answer questions or provide assistance, which is unacceptable for a healthcare facility. This lack of staffing is alarming and raises concerns about patient care."
+    },
+    "incident_details": {
+      "date_of_incident": "2025-09-24",
+      "approximate_time": "17:45",
+      "is_issue_ongoing": false,
+      "frequency_of_issue": "ongoing",
+      "reported_internally": true,
+      "other_patients_affected": false,
+      "physical_harm": true,
+      "staff_involved": null
+    },
+    "hospital_details": {
+      "hospital_name": "Fortis Hospital",
+      "hospital_type": "private",
+      "department": "Nursing",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "full_address": "Fortis Hospital, Hyderabad, Telangana"
+    },
+    "severity_assessment": {
+      "severity": "critical",
+      "severity_reason": "Issue classified as high based on visible impact on patient safety and hospital standards."
+    },
+    "evidence": {
+      "image_provided": true,
+      "voice_provided": true,
+      "issue_visibility": "partially_visible",
+      "evidence_clarity": "unclear"
+    },
+    "ai_core_attributes": {
+      "issue_type": "staffing_gap",
+      "failure_point": "nursing_management",
+      "affected_entity": "patient",
+      "condition_state": "degraded"
+    },
+    "validation_layer": {
+      "cross_modal_alignment": "partial",
+      "consistency_score": 0.76
+    },
+    "system_flags": {
+      "confidence_score": 0.83,
+      "needs_user_review": false,
+      "was_flagged": true,
+      "flag_resolution": "reviewed_and_cleared"
+    },
+    "split": "test",
+    "correction_applied": true,
+    "correction_reason": "needs_user_review_cleared",
+    "routing": {
+      "primary_department": "Nursing",
+      "secondary_departments": [
+        "Administration",
+        "General Ward"
+      ],
+      "escalation_chain": [
+        "Nursing Supervisor",
+        "Duty Medical Officer",
+        "Medical Superintendent",
+        "Hospital Administrator"
+      ],
+      "first_responder": "Nursing Supervisor",
+      "resolution_owner": "Nursing Management",
+      "sla_hours": 1,
+      "action_on_report": "Deploy standby nurse immediately, review shift allocation, conduct inquiry if life-threatening gap occurred"
+    },
+    "taxonomy": {
+      "subtypes": [
+        "No Nurse Present During Emergency",
+        "Call Bell Not Answered",
+        "Shift Handover Gap",
+        "No Duty Doctor Reachable",
+        "Night Duty Abandonment",
+        "No Emergency Contact Displayed",
+        "Delayed Response to Critical Patient",
+        "Unattended ICU / HDU Desk"
+      ],
+      "visual_indicators": [
+        "Empty nursing counter",
+        "Unanswered call bells",
+        "No staff visible in ward",
+        "Patients unattended in visible distress"
+      ],
+      "patient_impact": "Life-threatening delay in emergency response, unmonitored deterioration, psychological abandonment",
+      "regulatory_reference": ""
+    }
+  },
+  {
+    "image_id": "nursing_7",
+    "category": "Empty / Unstaffed Nursing Station",
+    "folder": "empty_nursing_station",
+    "severity": "critical",
+    "department": "Administration",
+    "refined_caption": "The hospital nursing station is empty and unstaffed, with no personnel present at the reception desk. The area appears to be unmanned.",
+    "complaint_description": "I visited the nursing station to ask for assistance, but there was no one available to help me. The station was completely empty and I was left waiting with no idea when someone would arrive. This lack of staffing is concerning and affects the quality of care.",
+    "voice_text": "I went to the nursing station and there was nobody there, it's really concerning that it's just empty like that.",
+    "tags": [
+      "unstaffed",
+      "nursing_station",
+      "abandoned"
+    ],
+    "input": {
+      "image_caption": "The hospital nursing station is empty and unstaffed, with no personnel present at the reception desk. The area appears to be unmanned.",
+      "voice_text": "I went to the nursing station and there was nobody there, it's really concerning that it's just empty like that."
+    },
+    "extracted_complaint": {
+      "category": "Empty / Unstaffed Nursing Station",
+      "sub_category": "staff_absence",
+      "description": "I visited the nursing station to ask for assistance, but there was no one available to help me. The station was completely empty and I was left waiting with no idea when someone would arrive. This lack of staffing is concerning and affects the quality of care."
+    },
+    "incident_details": {
+      "date_of_incident": "2025-11-01",
+      "approximate_time": "21:15",
+      "is_issue_ongoing": true,
+      "frequency_of_issue": "repeated",
+      "reported_internally": false,
+      "other_patients_affected": false,
+      "physical_harm": false,
+      "staff_involved": "ward_nurse"
+    },
+    "hospital_details": {
+      "hospital_name": "Safdarjung Hospital",
+      "hospital_type": "private",
+      "department": "Nursing",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "full_address": "Safdarjung Hospital, Chennai, Tamil Nadu"
+    },
+    "severity_assessment": {
+      "severity": "critical",
+      "severity_reason": "Issue classified as high based on visible impact on patient safety and hospital standards."
+    },
+    "evidence": {
+      "image_provided": true,
+      "voice_provided": true,
+      "issue_visibility": "partially_visible",
+      "evidence_clarity": "partial"
+    },
+    "ai_core_attributes": {
+      "issue_type": "staffing_gap",
+      "failure_point": "nursing_management",
+      "affected_entity": "patient",
+      "condition_state": "degraded"
+    },
+    "validation_layer": {
+      "cross_modal_alignment": "corrected",
+      "consistency_score": 0.81,
+      "original_alignment": "misaligned",
+      "alignment_correction": "category_label_used_as_ground_truth"
+    },
+    "system_flags": {
+      "confidence_score": 0.92,
+      "needs_user_review": false,
+      "was_flagged": true,
+      "flag_resolution": "reviewed_and_cleared"
+    },
+    "split": "test",
+    "correction_applied": true,
+    "correction_reason": "needs_user_review_cleared, misalignment_corrected_via_label_grounding",
+    "routing": {
+      "primary_department": "Nursing",
+      "secondary_departments": [
+        "Administration",
+        "General Ward"
+      ],
+      "escalation_chain": [
+        "Nursing Supervisor",
+        "Duty Medical Officer",
+        "Medical Superintendent",
+        "Hospital Administrator"
+      ],
+      "first_responder": "Nursing Supervisor",
+      "resolution_owner": "Nursing Management",
+      "sla_hours": 1,
+      "action_on_report": "Deploy standby nurse immediately, review shift allocation, conduct inquiry if life-threatening gap occurred"
+    },
+    "taxonomy": {
+      "subtypes": [
+        "No Nurse Present During Emergency",
+        "Call Bell Not Answered",
+        "Shift Handover Gap",
+        "No Duty Doctor Reachable",
+        "Night Duty Abandonment",
+        "No Emergency Contact Displayed",
+        "Delayed Response to Critical Patient",
+        "Unattended ICU / HDU Desk"
+      ],
+      "visual_indicators": [
+        "Empty nursing counter",
+        "Unanswered call bells",
+        "No staff visible in ward",
+        "Patients unattended in visible distress"
+      ],
+      "patient_impact": "Life-threatening delay in emergency response, unmonitored deterioration, psychological abandonment",
+      "regulatory_reference": ""
+    }
+  },
+  {
+    "image_id": "trash_11",
+    "category": "Overflowing Hospital Trash (Outside)",
+    "folder": "overflowing_hospital_trash_outside",
+    "severity": "medium",
+    "department": "Facilities Management",
+    "refined_caption": "The trash bins outside the hospital are overflowing with garbage. The surrounding area appears to be littered with waste.",
+    "complaint_description": "I visited the hospital in a rural area and was appalled to see the trash bins outside overflowing with garbage. The area was littered with waste and had a strong unpleasant odor. This is a serious health concern and needs to be addressed immediately.",
+    "voice_text": "The trash cans outside the hospital are overflowing, it's really gross and smells bad.",
+    "tags": [
+      "overflowing_trash",
+      "hospital_hygiene",
+      "rural_hospital"
+    ],
+    "input": {
+      "image_caption": "The trash bins outside the hospital are overflowing with garbage. The surrounding area appears to be littered with waste.",
+      "voice_text": "The trash cans outside the hospital are overflowing, it's really gross and smells bad."
+    },
+    "extracted_complaint": {
+      "category": "Overflowing Hospital Trash (Outside)",
+      "sub_category": "waste_overflow",
+      "description": "I visited the hospital in a rural area and was appalled to see the trash bins outside overflowing with garbage. The area was littered with waste and had a strong unpleasant odor. This is a serious health concern and needs to be addressed immediately."
+    },
+    "incident_details": {
+      "date_of_incident": "2025-12-11",
+      "approximate_time": "19:45",
+      "is_issue_ongoing": true,
+      "frequency_of_issue": "one_time",
+      "reported_internally": false,
+      "other_patients_affected": false,
+      "physical_harm": false,
+      "staff_involved": "hospital_admin"
+    },
+    "hospital_details": {
+      "hospital_name": "AIIMS",
+      "hospital_type": "government",
+      "department": "Waste Management",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "full_address": "AIIMS, Bangalore, Karnataka"
+    },
+    "severity_assessment": {
+      "severity": "medium",
+      "severity_reason": "Issue classified as medium based on visible impact on patient safety and hospital standards."
+    },
+    "evidence": {
+      "image_provided": true,
+      "voice_provided": true,
+      "issue_visibility": "visible",
+      "evidence_clarity": "partial"
+    },
+    "ai_core_attributes": {
+      "issue_type": "waste_management",
+      "failure_point": "housekeeping",
+      "affected_entity": "facility",
+      "condition_state": "critical"
+    },
+    "validation_layer": {
+      "cross_modal_alignment": "partial",
+      "consistency_score": 0.82
+    },
+    "system_flags": {
+      "confidence_score": 0.57,
+      "needs_user_review": false,
+      "was_flagged": true,
+      "flag_resolution": "reviewed_and_cleared"
+    },
+    "split": "test",
+    "correction_applied": true,
+    "correction_reason": "needs_user_review_cleared",
+    "routing": {
+      "primary_department": "Waste Management",
+      "secondary_departments": [
+        "Housekeeping",
+        "Facilities Management"
+      ],
+      "escalation_chain": [
+        "Housekeeping Supervisor",
+        "Biomedical Waste Officer",
+        "Facilities Manager",
+        "Hospital Administrator"
+      ],
+      "first_responder": "Housekeeping Staff",
+      "resolution_owner": "Waste Management Team",
+      "sla_hours": 2,
+      "action_on_report": "Clear overflow, arrange additional bins, segregate biomedical waste properly, schedule urgent waste pickup"
+    },
+    "taxonomy": {
+      "subtypes": [
+        "General Waste Overflow",
+        "Biomedical Waste Mismanagement",
+        "Broken Dustbin or Container",
+        "No Waste Bin Available in Area",
+        "Garbage Scattered on Ground",
+        "Foul Smell from Waste Area",
+        "Waste Near Food Preparation Area",
+        "Unsegregated Hazardous Waste"
+      ],
+      "visual_indicators": [
+        "Waste spilling out of bins",
+        "Garbage on floor or surroundings",
+        "Mixed biomedical and general waste",
+        "Visible insects or pests near waste",
+        "Uncovered waste containers"
+      ],
+      "patient_impact": "Infection risk, pest attraction, foul environment, biohazard exposure",
+      "regulatory_reference": ""
+    }
+  },
+  {
+    "image_id": "trash_19",
+    "category": "Overflowing Hospital Trash (Outside)",
+    "folder": "overflowing_hospital_trash_outside",
+    "severity": "medium",
+    "department": "Housekeeping",
+    "refined_caption": "The trash bins outside the hospital are overflowing with waste. The surrounding area appears to be affected by the overflow.",
+    "complaint_description": "I visited the hospital today and was appalled to see the trash bins outside overflowing with garbage. The smell and sight are unbearable, and it's a health concern for patients and visitors alike. The hospital should take immediate action to address this issue.",
+    "voice_text": "The trash cans outside the hospital are totally overflowing, it's really gross and smells terrible.",
+    "tags": [
+      "overflowing_trash",
+      "hospital_hygiene",
+      "public_health_concern"
+    ],
+    "input": {
+      "image_caption": "The trash bins outside the hospital are overflowing with waste. The surrounding area appears to be affected by the overflow.",
+      "voice_text": "The trash cans outside the hospital are totally overflowing, it's really gross and smells terrible."
+    },
+    "extracted_complaint": {
+      "category": "Overflowing Hospital Trash (Outside)",
+      "sub_category": "waste_overflow",
+      "description": "I visited the hospital today and was appalled to see the trash bins outside overflowing with garbage. The smell and sight are unbearable, and it's a health concern for patients and visitors alike. The hospital should take immediate action to address this issue."
+    },
+    "incident_details": {
+      "date_of_incident": "2025-03-23",
+      "approximate_time": "18:30",
+      "is_issue_ongoing": true,
+      "frequency_of_issue": "repeated",
+      "reported_internally": false,
+      "other_patients_affected": true,
+      "physical_harm": false,
+      "staff_involved": "ward_nurse"
+    },
+    "hospital_details": {
+      "hospital_name": "Ram Manohar Lohia Hospital",
+      "hospital_type": "private",
+      "department": "Waste Management",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "full_address": "Ram Manohar Lohia Hospital, Hyderabad, Telangana"
+    },
+    "severity_assessment": {
+      "severity": "medium",
+      "severity_reason": "Issue classified as medium based on visible impact on patient safety and hospital standards."
+    },
+    "evidence": {
+      "image_provided": true,
+      "voice_provided": true,
+      "issue_visibility": "visible",
+      "evidence_clarity": "clear"
+    },
+    "ai_core_attributes": {
+      "issue_type": "waste_management",
+      "failure_point": "housekeeping",
+      "affected_entity": "facility",
+      "condition_state": "moderate"
+    },
+    "validation_layer": {
+      "cross_modal_alignment": "partial",
+      "consistency_score": 0.6
+    },
+    "system_flags": {
+      "confidence_score": 0.94,
+      "needs_user_review": false,
+      "was_flagged": true,
+      "flag_resolution": "reviewed_and_cleared"
+    },
+    "split": "test",
+    "correction_applied": true,
+    "correction_reason": "needs_user_review_cleared",
+    "routing": {
+      "primary_department": "Waste Management",
+      "secondary_departments": [
+        "Housekeeping",
+        "Facilities Management"
+      ],
+      "escalation_chain": [
+        "Housekeeping Supervisor",
+        "Biomedical Waste Officer",
+        "Facilities Manager",
+        "Hospital Administrator"
+      ],
+      "first_responder": "Housekeeping Staff",
+      "resolution_owner": "Waste Management Team",
+      "sla_hours": 2,
+      "action_on_report": "Clear overflow, arrange additional bins, segregate biomedical waste properly, schedule urgent waste pickup"
+    },
+    "taxonomy": {
+      "subtypes": [
+        "General Waste Overflow",
+        "Biomedical Waste Mismanagement",
+        "Broken Dustbin or Container",
+        "No Waste Bin Available in Area",
+        "Garbage Scattered on Ground",
+        "Foul Smell from Waste Area",
+        "Waste Near Food Preparation Area",
+        "Unsegregated Hazardous Waste"
+      ],
+      "visual_indicators": [
+        "Waste spilling out of bins",
+        "Garbage on floor or surroundings",
+        "Mixed biomedical and general waste",
+        "Visible insects or pests near waste",
+        "Uncovered waste containers"
+      ],
+      "patient_impact": "Infection risk, pest attraction, foul environment, biohazard exposure",
+      "regulatory_reference": ""
+    }
+  },
+  {
+    "image_id": "trash_7",
+    "category": "Overflowing Hospital Trash (Outside)",
+    "folder": "overflowing_hospital_trash_outside",
+    "severity": "medium",
+    "department": "Waste Management",
+    "refined_caption": "The trash bins outside the hospital are overflowing, with garbage visible on the ground. This is visible on a rainy day.",
+    "complaint_description": "I was appalled to see the trash bins outside the hospital overflowing with garbage, which is not only an eyesore but also a health concern. The fact that it's raining makes the situation even worse, as the trash is scattered all over the place. This is unacceptable for a hospital that is supposed to maintain high standards of cleanliness.",
+    "voice_text": "The trash cans outside the hospital are totally overflowing, it's disgusting. And with the rain, it's just getting worse.",
+    "tags": [
+      "overflowing_trash",
+      "hospital_cleanliness",
+      "housekeeping_issue"
+    ],
+    "input": {
+      "image_caption": "The trash bins outside the hospital are overflowing, with garbage visible on the ground. This is visible on a rainy day.",
+      "voice_text": "The trash cans outside the hospital are totally overflowing, it's disgusting. And with the rain, it's just getting worse."
+    },
+    "extracted_complaint": {
+      "category": "Overflowing Hospital Trash (Outside)",
+      "sub_category": "waste_overflow",
+      "description": "I was appalled to see the trash bins outside the hospital overflowing with garbage, which is not only an eyesore but also a health concern. The fact that it's raining makes the situation even worse, as the trash is scattered all over the place. This is unacceptable for a hospital that is supposed to maintain high standards of cleanliness."
+    },
+    "incident_details": {
+      "date_of_incident": "2025-03-05",
+      "approximate_time": "15:00",
+      "is_issue_ongoing": true,
+      "frequency_of_issue": "one_time",
+      "reported_internally": true,
+      "other_patients_affected": false,
+      "physical_harm": true,
+      "staff_involved": null
+    },
+    "hospital_details": {
+      "hospital_name": "Ram Manohar Lohia Hospital",
+      "hospital_type": "semi-government",
+      "department": "Waste Management",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "full_address": "Ram Manohar Lohia Hospital, Mumbai, Maharashtra"
+    },
+    "severity_assessment": {
+      "severity": "medium",
+      "severity_reason": "Issue classified as medium based on visible impact on patient safety and hospital standards."
+    },
+    "evidence": {
+      "image_provided": true,
+      "voice_provided": true,
+      "issue_visibility": "partially_visible",
+      "evidence_clarity": "partial"
+    },
+    "ai_core_attributes": {
+      "issue_type": "waste_management",
+      "failure_point": "housekeeping",
+      "affected_entity": "facility",
+      "condition_state": "critical"
+    },
+    "validation_layer": {
+      "cross_modal_alignment": "corrected",
+      "consistency_score": 0.79,
+      "original_alignment": "misaligned",
+      "alignment_correction": "category_label_used_as_ground_truth"
+    },
+    "system_flags": {
+      "confidence_score": 0.63,
+      "needs_user_review": false
+    },
+    "split": "test",
+    "correction_applied": true,
+    "correction_reason": "misalignment_corrected_via_label_grounding",
+    "routing": {
+      "primary_department": "Waste Management",
+      "secondary_departments": [
+        "Housekeeping",
+        "Facilities Management"
+      ],
+      "escalation_chain": [
+        "Housekeeping Supervisor",
+        "Biomedical Waste Officer",
+        "Facilities Manager",
+        "Hospital Administrator"
+      ],
+      "first_responder": "Housekeeping Staff",
+      "resolution_owner": "Waste Management Team",
+      "sla_hours": 2,
+      "action_on_report": "Clear overflow, arrange additional bins, segregate biomedical waste properly, schedule urgent waste pickup"
+    },
+    "taxonomy": {
+      "subtypes": [
+        "General Waste Overflow",
+        "Biomedical Waste Mismanagement",
+        "Broken Dustbin or Container",
+        "No Waste Bin Available in Area",
+        "Garbage Scattered on Ground",
+        "Foul Smell from Waste Area",
+        "Waste Near Food Preparation Area",
+        "Unsegregated Hazardous Waste"
+      ],
+      "visual_indicators": [
+        "Waste spilling out of bins",
+        "Garbage on floor or surroundings",
+        "Mixed biomedical and general waste",
+        "Visible insects or pests near waste",
+        "Uncovered waste containers"
+      ],
+      "patient_impact": "Infection risk, pest attraction, foul environment, biohazard exposure",
+      "regulatory_reference": ""
+    }
+  },
+  {
+    "image_id": "rats_sc_3",
+    "category": "Rats / Rodent Infestation",
+    "folder": "rats",
+    "severity": "critical",
+    "department": "Pest Control",
+    "refined_caption": "A rodent is visible in the hospital room, near a row of beds. The rodent appears to be in close proximity to patient care areas.",
+    "complaint_description": "I was shocked to see a rat in the hospital room where my family member is being treated. The rodent was roaming freely near the beds, which is completely unacceptable in a healthcare setting. This is a serious concern for patient safety and hygiene.",
+    "voice_text": "There's a rat in the hospital room, right next to the beds, it's disgusting and I'm worried about patient safety.",
+    "tags": [
+      "rodent_infestation",
+      "hospital_hygiene",
+      "patient_safety"
+    ],
+    "input": {
+      "image_caption": "A rodent is visible in the hospital room, near a row of beds. The rodent appears to be in close proximity to patient care areas.",
+      "voice_text": "There's a rat in the hospital room, right next to the beds, it's disgusting and I'm worried about patient safety."
+    },
+    "extracted_complaint": {
+      "category": "Rats / Rodent Infestation",
+      "sub_category": "pest_presence",
+      "description": "I was shocked to see a rat in the hospital room where my family member is being treated. The rodent was roaming freely near the beds, which is completely unacceptable in a healthcare setting. This is a serious concern for patient safety and hygiene."
+    },
+    "incident_details": {
+      "date_of_incident": "2025-04-27",
+      "approximate_time": "08:30",
+      "is_issue_ongoing": true,
+      "frequency_of_issue": "one_time",
+      "reported_internally": true,
+      "other_patients_affected": true,
+      "physical_harm": true,
+      "staff_involved": "housekeeping_staff"
+    },
+    "hospital_details": {
+      "hospital_name": "Max Super Speciality Hospital",
+      "hospital_type": "semi-government",
+      "department": "Pest Control",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "full_address": "Max Super Speciality Hospital, Mumbai, Maharashtra"
+    },
+    "severity_assessment": {
+      "severity": "critical",
+      "severity_reason": "Issue classified as critical based on visible impact on patient safety and hospital standards."
+    },
+    "evidence": {
+      "image_provided": true,
+      "voice_provided": true,
+      "issue_visibility": "not_visible",
+      "evidence_clarity": "unclear"
+    },
+    "ai_core_attributes": {
+      "issue_type": "pest_infestation",
+      "failure_point": "pest_control",
+      "affected_entity": "patient",
+      "condition_state": "critical"
+    },
+    "validation_layer": {
+      "cross_modal_alignment": "aligned",
+      "consistency_score": 0.86
+    },
+    "system_flags": {
+      "confidence_score": 0.61,
+      "needs_user_review": false,
+      "was_flagged": true,
+      "flag_resolution": "reviewed_and_cleared"
+    },
+    "split": "test",
+    "correction_applied": true,
+    "correction_reason": "needs_user_review_cleared",
+    "routing": {
+      "primary_department": "Pest Control",
+      "secondary_departments": [
+        "Infection Control",
+        "Facilities Management"
+      ],
+      "escalation_chain": [
+        "Housekeeping Supervisor",
+        "Pest Control Vendor",
+        "Infection Control Officer",
+        "Hospital Administrator"
+      ],
+      "first_responder": "Housekeeping Supervisor",
+      "resolution_owner": "Pest Control",
+      "sla_hours": 6,
+      "action_on_report": "Seal food items, alert infection control, deploy traps or bait, schedule urgent pest control treatment, inspect food storage"
+    },
+    "taxonomy": {
+      "subtypes": [
+        "Rodent Sighted in Patient Ward",
+        "Rodent in Kitchen or Food Storage",
+        "Rodent Droppings Found",
+        "Chewed Medical Supplies or Wires",
+        "Rodent Near Newborn or ICU Area",
+        "Rodent Hole or Nest Identified",
+        "Food Contaminated by Rodents"
+      ],
+      "visual_indicators": [
+        "Live rodent sighted",
+        "Droppings on floor or shelves",
+        "Gnaw marks on materials",
+        "Nest materials found",
+        "Disturbed food packaging"
+      ],
+      "patient_impact": "Disease transmission (leptospirosis, hantavirus), psychological trauma, contamination of food and supplies",
+      "regulatory_reference": ""
+    }
+  },
+  {
+    "image_id": "rats_8",
+    "category": "Rats / Rodent Infestation",
+    "folder": "rats",
+    "severity": "critical",
+    "department": "Infection Control",
+    "refined_caption": "A rodent is visible in a hospital room with yellow walls. The rodent appears to be in the patient area.",
+    "complaint_description": "I was shocked to see a rat in my hospital room, which is completely unacceptable. The room had yellow walls and the rat was roaming around freely. This is a serious health concern and I demand immediate action.",
+    "voice_text": "There's a rat in my hospital room, it's disgusting and I'm really worried about my health. Can someone please do something about it?",
+    "tags": [
+      "rodent_infestation",
+      "hospital_room",
+      "pest_control"
+    ],
+    "input": {
+      "image_caption": "A rodent is visible in a hospital room with yellow walls. The rodent appears to be in the patient area.",
+      "voice_text": "There's a rat in my hospital room, it's disgusting and I'm really worried about my health. Can someone please do something about it?"
+    },
+    "extracted_complaint": {
+      "category": "Rats / Rodent Infestation",
+      "sub_category": "pest_presence",
+      "description": "I was shocked to see a rat in my hospital room, which is completely unacceptable. The room had yellow walls and the rat was roaming around freely. This is a serious health concern and I demand immediate action."
+    },
+    "incident_details": {
+      "date_of_incident": "2025-01-15",
+      "approximate_time": "08:00",
+      "is_issue_ongoing": false,
+      "frequency_of_issue": "ongoing",
+      "reported_internally": true,
+      "other_patients_affected": true,
+      "physical_harm": true,
+      "staff_involved": null
+    },
+    "hospital_details": {
+      "hospital_name": "AIIMS",
+      "hospital_type": "government",
+      "department": "Pest Control",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "full_address": "AIIMS, Mumbai, Maharashtra"
+    },
+    "severity_assessment": {
+      "severity": "critical",
+      "severity_reason": "Issue classified as critical based on visible impact on patient safety and hospital standards."
+    },
+    "evidence": {
+      "image_provided": true,
+      "voice_provided": true,
+      "issue_visibility": "not_visible",
+      "evidence_clarity": "unclear"
+    },
+    "ai_core_attributes": {
+      "issue_type": "pest_infestation",
+      "failure_point": "pest_control",
+      "affected_entity": "patient",
+      "condition_state": "critical"
+    },
+    "validation_layer": {
+      "cross_modal_alignment": "aligned",
+      "consistency_score": 0.94
+    },
+    "system_flags": {
+      "confidence_score": 0.87,
+      "needs_user_review": false
+    },
+    "split": "test",
+    "correction_applied": false,
+    "correction_reason": "none",
+    "routing": {
+      "primary_department": "Pest Control",
+      "secondary_departments": [
+        "Infection Control",
+        "Facilities Management"
+      ],
+      "escalation_chain": [
+        "Housekeeping Supervisor",
+        "Pest Control Vendor",
+        "Infection Control Officer",
+        "Hospital Administrator"
+      ],
+      "first_responder": "Housekeeping Supervisor",
+      "resolution_owner": "Pest Control",
+      "sla_hours": 6,
+      "action_on_report": "Seal food items, alert infection control, deploy traps or bait, schedule urgent pest control treatment, inspect food storage"
+    },
+    "taxonomy": {
+      "subtypes": [
+        "Rodent Sighted in Patient Ward",
+        "Rodent in Kitchen or Food Storage",
+        "Rodent Droppings Found",
+        "Chewed Medical Supplies or Wires",
+        "Rodent Near Newborn or ICU Area",
+        "Rodent Hole or Nest Identified",
+        "Food Contaminated by Rodents"
+      ],
+      "visual_indicators": [
+        "Live rodent sighted",
+        "Droppings on floor or shelves",
+        "Gnaw marks on materials",
+        "Nest materials found",
+        "Disturbed food packaging"
+      ],
+      "patient_impact": "Disease transmission (leptospirosis, hantavirus), psychological trauma, contamination of food and supplies",
+      "regulatory_reference": ""
+    }
+  },
+  {
+    "image_id": "rats_9",
+    "category": "Rats / Rodent Infestation",
+    "folder": "rats",
+    "severity": "critical",
+    "department": "Facilities Management",
+    "refined_caption": "A rodent is visible on the floor of a hospital room. The rodent appears to be in close proximity to patient areas.",
+    "complaint_description": "I was shocked to see a rat on the floor of my hospital room. This is completely unacceptable and I'm worried about the health and safety implications. I demand that the hospital takes immediate action to address this issue.",
+    "voice_text": "There's a rat in my hospital room, I'm really concerned about the cleanliness and safety here.",
+    "tags": [
+      "rodent_infestation",
+      "hospital_room",
+      "patient_safety"
+    ],
+    "input": {
+      "image_caption": "A rodent is visible on the floor of a hospital room. The rodent appears to be in close proximity to patient areas.",
+      "voice_text": "There's a rat in my hospital room, I'm really concerned about the cleanliness and safety here."
+    },
+    "extracted_complaint": {
+      "category": "Rats / Rodent Infestation",
+      "sub_category": "pest_presence",
+      "description": "I was shocked to see a rat on the floor of my hospital room. This is completely unacceptable and I'm worried about the health and safety implications. I demand that the hospital takes immediate action to address this issue."
+    },
+    "incident_details": {
+      "date_of_incident": "2025-02-18",
+      "approximate_time": "19:45",
+      "is_issue_ongoing": false,
+      "frequency_of_issue": "one_time",
+      "reported_internally": true,
+      "other_patients_affected": true,
+      "physical_harm": false,
+      "staff_involved": "duty_doctor"
+    },
+    "hospital_details": {
+      "hospital_name": "Apollo Hospital",
+      "hospital_type": "semi-government",
+      "department": "Pest Control",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "full_address": "Apollo Hospital, Kolkata, West Bengal"
+    },
+    "severity_assessment": {
+      "severity": "critical",
+      "severity_reason": "Issue classified as critical based on visible impact on patient safety and hospital standards."
+    },
+    "evidence": {
+      "image_provided": true,
+      "voice_provided": true,
+      "issue_visibility": "partially_visible",
+      "evidence_clarity": "clear"
+    },
+    "ai_core_attributes": {
+      "issue_type": "pest_infestation",
+      "failure_point": "pest_control",
+      "affected_entity": "patient",
+      "condition_state": "poor"
+    },
+    "validation_layer": {
+      "cross_modal_alignment": "aligned",
+      "consistency_score": 0.69
+    },
+    "system_flags": {
+      "confidence_score": 0.87,
+      "needs_user_review": false
+    },
+    "split": "test",
+    "correction_applied": false,
+    "correction_reason": "none",
+    "routing": {
+      "primary_department": "Pest Control",
+      "secondary_departments": [
+        "Infection Control",
+        "Facilities Management"
+      ],
+      "escalation_chain": [
+        "Housekeeping Supervisor",
+        "Pest Control Vendor",
+        "Infection Control Officer",
+        "Hospital Administrator"
+      ],
+      "first_responder": "Housekeeping Supervisor",
+      "resolution_owner": "Pest Control",
+      "sla_hours": 6,
+      "action_on_report": "Seal food items, alert infection control, deploy traps or bait, schedule urgent pest control treatment, inspect food storage"
+    },
+    "taxonomy": {
+      "subtypes": [
+        "Rodent Sighted in Patient Ward",
+        "Rodent in Kitchen or Food Storage",
+        "Rodent Droppings Found",
+        "Chewed Medical Supplies or Wires",
+        "Rodent Near Newborn or ICU Area",
+        "Rodent Hole or Nest Identified",
+        "Food Contaminated by Rodents"
+      ],
+      "visual_indicators": [
+        "Live rodent sighted",
+        "Droppings on floor or shelves",
+        "Gnaw marks on materials",
+        "Nest materials found",
+        "Disturbed food packaging"
+      ],
+      "patient_impact": "Disease transmission (leptospirosis, hantavirus), psychological trauma, contamination of food and supplies",
+      "regulatory_reference": ""
+    }
+  },
+  {
+    "image_id": "rats_sc_5",
+    "category": "Rats / Rodent Infestation",
+    "folder": "rats",
+    "severity": "critical",
+    "department": "Pest Control",
+    "refined_caption": "A rodent is visible in the hospital room, posing a potential health risk. The rodent appears to be looking directly at the camera.",
+    "complaint_description": "I was shocked to see a rat in my hospital room, which is completely unacceptable. The presence of rodents in a healthcare setting is a serious concern for patient safety and hygiene. I demand immediate attention to this issue to ensure a clean and safe environment for all patients.",
+    "voice_text": "There's a rat in my hospital room, this is disgusting and I need someone to take care of it now.",
+    "tags": [
+      "rodent_infestation",
+      "hospital_safety",
+      "pest_control"
+    ],
+    "input": {
+      "image_caption": "A rodent is visible in the hospital room, posing a potential health risk. The rodent appears to be looking directly at the camera.",
+      "voice_text": "There's a rat in my hospital room, this is disgusting and I need someone to take care of it now."
+    },
+    "extracted_complaint": {
+      "category": "Rats / Rodent Infestation",
+      "sub_category": "pest_presence",
+      "description": "I was shocked to see a rat in my hospital room, which is completely unacceptable. The presence of rodents in a healthcare setting is a serious concern for patient safety and hygiene. I demand immediate attention to this issue to ensure a clean and safe environment for all patients."
+    },
+    "incident_details": {
+      "date_of_incident": "2025-12-04",
+      "approximate_time": "08:30",
+      "is_issue_ongoing": false,
+      "frequency_of_issue": "repeated",
+      "reported_internally": false,
+      "other_patients_affected": true,
+      "physical_harm": false,
+      "staff_involved": "hospital_admin"
+    },
+    "hospital_details": {
+      "hospital_name": "City General Hospital",
+      "hospital_type": "semi-government",
+      "department": "Pest Control",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "full_address": "City General Hospital, Hyderabad, Telangana"
+    },
+    "severity_assessment": {
+      "severity": "critical",
+      "severity_reason": "Issue classified as critical based on visible impact on patient safety and hospital standards."
+    },
+    "evidence": {
+      "image_provided": true,
+      "voice_provided": true,
+      "issue_visibility": "visible",
+      "evidence_clarity": "clear"
+    },
+    "ai_core_attributes": {
+      "issue_type": "pest_infestation",
+      "failure_point": "pest_control",
+      "affected_entity": "patient",
+      "condition_state": "critical"
+    },
+    "validation_layer": {
+      "cross_modal_alignment": "aligned",
+      "consistency_score": 0.72
+    },
+    "system_flags": {
+      "confidence_score": 0.56,
+      "needs_user_review": false
+    },
+    "split": "test",
+    "correction_applied": false,
+    "correction_reason": "none",
+    "routing": {
+      "primary_department": "Pest Control",
+      "secondary_departments": [
+        "Infection Control",
+        "Facilities Management"
+      ],
+      "escalation_chain": [
+        "Housekeeping Supervisor",
+        "Pest Control Vendor",
+        "Infection Control Officer",
+        "Hospital Administrator"
+      ],
+      "first_responder": "Housekeeping Supervisor",
+      "resolution_owner": "Pest Control",
+      "sla_hours": 6,
+      "action_on_report": "Seal food items, alert infection control, deploy traps or bait, schedule urgent pest control treatment, inspect food storage"
+    },
+    "taxonomy": {
+      "subtypes": [
+        "Rodent Sighted in Patient Ward",
+        "Rodent in Kitchen or Food Storage",
+        "Rodent Droppings Found",
+        "Chewed Medical Supplies or Wires",
+        "Rodent Near Newborn or ICU Area",
+        "Rodent Hole or Nest Identified",
+        "Food Contaminated by Rodents"
+      ],
+      "visual_indicators": [
+        "Live rodent sighted",
+        "Droppings on floor or shelves",
+        "Gnaw marks on materials",
+        "Nest materials found",
+        "Disturbed food packaging"
+      ],
+      "patient_impact": "Disease transmission (leptospirosis, hantavirus), psychological trauma, contamination of food and supplies",
+      "regulatory_reference": ""
+    }
+  },
+  {
+    "image_id": "curtain_15",
+    "category": "Torn Hospital Privacy Curtain",
+    "folder": "torn_hospital_privacy_curtain",
+    "severity": "low",
+    "department": "General Ward",
+    "refined_caption": "The hospital privacy curtain in the room appears to be torn or damaged. The tear is visible and may compromise patient privacy.",
+    "complaint_description": "I was admitted to the hospital and noticed that the privacy curtain in my room was torn. This made me feel uncomfortable and concerned about my privacy. I hope this can be addressed soon to ensure all patients have a comfortable and private stay.",
+    "voice_text": "The curtain in my hospital room is all torn, can someone please fix it? It's making me feel really uncomfortable.",
+    "tags": [
+      "hospital_privacy",
+      "torn_curtain",
+      "patient_privacy"
+    ],
+    "input": {
+      "image_caption": "The hospital privacy curtain in the room appears to be torn or damaged. The tear is visible and may compromise patient privacy.",
+      "voice_text": "The curtain in my hospital room is all torn, can someone please fix it? It's making me feel really uncomfortable."
+    },
+    "extracted_complaint": {
+      "category": "Torn Hospital Privacy Curtain",
+      "sub_category": "privacy_breach",
+      "description": "I was admitted to the hospital and noticed that the privacy curtain in my room was torn. This made me feel uncomfortable and concerned about my privacy. I hope this can be addressed soon to ensure all patients have a comfortable and private stay."
+    },
+    "incident_details": {
+      "date_of_incident": "2025-03-20",
+      "approximate_time": "15:45",
+      "is_issue_ongoing": false,
+      "frequency_of_issue": "ongoing",
+      "reported_internally": false,
+      "other_patients_affected": false,
+      "physical_harm": true,
+      "staff_involved": null
+    },
+    "hospital_details": {
+      "hospital_name": "Safdarjung Hospital",
+      "hospital_type": "private",
+      "department": "Housekeeping",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "full_address": "Safdarjung Hospital, Kolkata, West Bengal"
+    },
+    "severity_assessment": {
+      "severity": "low",
+      "severity_reason": "Issue classified as low based on visible impact on patient safety and hospital standards."
+    },
+    "evidence": {
+      "image_provided": true,
+      "voice_provided": true,
+      "issue_visibility": "partially_visible",
+      "evidence_clarity": "unclear"
+    },
+    "ai_core_attributes": {
+      "issue_type": "facility_damage",
+      "failure_point": "maintenance_team",
+      "affected_entity": "patient",
+      "condition_state": "critical"
+    },
+    "validation_layer": {
+      "cross_modal_alignment": "aligned",
+      "consistency_score": 0.68
+    },
+    "system_flags": {
+      "confidence_score": 0.84,
+      "needs_user_review": false
+    },
+    "split": "test",
+    "correction_applied": false,
+    "correction_reason": "none",
+    "routing": {
+      "primary_department": "Housekeeping",
+      "secondary_departments": [
+        "General Ward",
+        "Facilities Management"
+      ],
+      "escalation_chain": [
+        "Ward In-Charge",
+        "Housekeeping Supervisor",
+        "Facilities Manager"
+      ],
+      "first_responder": "Ward Nurse",
+      "resolution_owner": "Housekeeping",
+      "sla_hours": 8,
+      "action_on_report": "Replace curtain or arrange temporary screen, log in maintenance register, check adjacent bays"
+    },
+    "taxonomy": {
+      "subtypes": [
+        "Curtain Completely Missing",
+        "Curtain Torn or Heavily Damaged",
+        "Curtain Rod Broken or Fallen",
+        "Curtain Does Not Cover Fully",
+        "Curtain Stained or Unhygienic",
+        "Curtain Track Stuck or Broken"
+      ],
+      "visual_indicators": [
+        "Torn fabric with visible gaps",
+        "Missing curtain panel",
+        "Dangling or fallen curtain rod",
+        "Stained or discoloured fabric"
+      ],
+      "patient_impact": "Loss of privacy and dignity, embarrassment, violation of patient rights",
+      "regulatory_reference": ""
+    }
+  },
+  {
+    "image_id": "curtain_6",
+    "category": "Torn Hospital Privacy Curtain",
+    "folder": "torn_hospital_privacy_curtain",
+    "severity": "low",
+    "department": "Housekeeping",
+    "refined_caption": "The hospital privacy curtain in the room appears to be torn or damaged. The tear is visible and may compromise patient privacy.",
+    "complaint_description": "I was admitted to the hospital and noticed that the privacy curtain in my room was torn, which made me feel uncomfortable and concerned about my privacy. The tear is quite noticeable and I think it should be replaced. I hope the hospital can take care of this issue soon.",
+    "voice_text": "There's a torn curtain in my hospital room, can someone please fix it? It's making me feel really uncomfortable.",
+    "tags": [
+      "hospital",
+      "privacy",
+      "maintenance"
+    ],
+    "input": {
+      "image_caption": "The hospital privacy curtain in the room appears to be torn or damaged. The tear is visible and may compromise patient privacy.",
+      "voice_text": "There's a torn curtain in my hospital room, can someone please fix it? It's making me feel really uncomfortable."
+    },
+    "extracted_complaint": {
+      "category": "Torn Hospital Privacy Curtain",
+      "sub_category": "privacy_breach",
+      "description": "I was admitted to the hospital and noticed that the privacy curtain in my room was torn, which made me feel uncomfortable and concerned about my privacy. The tear is quite noticeable and I think it should be replaced. I hope the hospital can take care of this issue soon."
+    },
+    "incident_details": {
+      "date_of_incident": "2025-01-09",
+      "approximate_time": "20:15",
+      "is_issue_ongoing": true,
+      "frequency_of_issue": "repeated",
+      "reported_internally": true,
+      "other_patients_affected": false,
+      "physical_harm": true,
+      "staff_involved": "ward_nurse"
+    },
+    "hospital_details": {
+      "hospital_name": "Max Super Speciality Hospital",
+      "hospital_type": "government",
+      "department": "Housekeeping",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "full_address": "Max Super Speciality Hospital, Bangalore, Karnataka"
+    },
+    "severity_assessment": {
+      "severity": "low",
+      "severity_reason": "Issue classified as low based on visible impact on patient safety and hospital standards."
+    },
+    "evidence": {
+      "image_provided": true,
+      "voice_provided": true,
+      "issue_visibility": "not_visible",
+      "evidence_clarity": "unclear"
+    },
+    "ai_core_attributes": {
+      "issue_type": "facility_damage",
+      "failure_point": "maintenance_team",
+      "affected_entity": "patient",
+      "condition_state": "critical"
+    },
+    "validation_layer": {
+      "cross_modal_alignment": "aligned",
+      "consistency_score": 0.78
+    },
+    "system_flags": {
+      "confidence_score": 0.57,
+      "needs_user_review": false
+    },
+    "split": "test",
+    "correction_applied": false,
+    "correction_reason": "none",
+    "routing": {
+      "primary_department": "Housekeeping",
+      "secondary_departments": [
+        "General Ward",
+        "Facilities Management"
+      ],
+      "escalation_chain": [
+        "Ward In-Charge",
+        "Housekeeping Supervisor",
+        "Facilities Manager"
+      ],
+      "first_responder": "Ward Nurse",
+      "resolution_owner": "Housekeeping",
+      "sla_hours": 8,
+      "action_on_report": "Replace curtain or arrange temporary screen, log in maintenance register, check adjacent bays"
+    },
+    "taxonomy": {
+      "subtypes": [
+        "Curtain Completely Missing",
+        "Curtain Torn or Heavily Damaged",
+        "Curtain Rod Broken or Fallen",
+        "Curtain Does Not Cover Fully",
+        "Curtain Stained or Unhygienic",
+        "Curtain Track Stuck or Broken"
+      ],
+      "visual_indicators": [
+        "Torn fabric with visible gaps",
+        "Missing curtain panel",
+        "Dangling or fallen curtain rod",
+        "Stained or discoloured fabric"
+      ],
+      "patient_impact": "Loss of privacy and dignity, embarrassment, violation of patient rights",
+      "regulatory_reference": ""
+    }
+  },
+  {
+    "image_id": "curtain_14",
+    "category": "Torn Hospital Privacy Curtain",
+    "folder": "torn_hospital_privacy_curtain",
+    "severity": "low",
+    "department": "Housekeeping",
+    "refined_caption": "A hospital privacy curtain is torn and damaged, located next to a hospital bed. The tear appears to be significant, potentially compromising patient privacy.",
+    "complaint_description": "I was admitted to the general ward and noticed that the privacy curtain in my room was torn and damaged. This is concerning as it may affect my privacy during my stay. I hope this can be addressed promptly to ensure a comfortable and private recovery.",
+    "voice_text": "The privacy curtain in my hospital room is all torn, can someone please fix it or replace it?",
+    "tags": [
+      "hospital_privacy",
+      "torn_curtain",
+      "patient_privacy"
+    ],
+    "input": {
+      "image_caption": "A hospital privacy curtain is torn and damaged, located next to a hospital bed. The tear appears to be significant, potentially compromising patient privacy.",
+      "voice_text": "The privacy curtain in my hospital room is all torn, can someone please fix it or replace it?"
+    },
+    "extracted_complaint": {
+      "category": "Torn Hospital Privacy Curtain",
+      "sub_category": "privacy_breach",
+      "description": "I was admitted to the general ward and noticed that the privacy curtain in my room was torn and damaged. This is concerning as it may affect my privacy during my stay. I hope this can be addressed promptly to ensure a comfortable and private recovery."
+    },
+    "incident_details": {
+      "date_of_incident": "2025-04-23",
+      "approximate_time": "10:30",
+      "is_issue_ongoing": true,
+      "frequency_of_issue": "one_time",
+      "reported_internally": false,
+      "other_patients_affected": false,
+      "physical_harm": false,
+      "staff_involved": "ward_nurse"
+    },
+    "hospital_details": {
+      "hospital_name": "City General Hospital",
+      "hospital_type": "semi-government",
+      "department": "Housekeeping",
+      "city": "Delhi",
+      "state": "Delhi",
+      "full_address": "City General Hospital, Delhi, Delhi"
+    },
+    "severity_assessment": {
+      "severity": "low",
+      "severity_reason": "Issue classified as low based on visible impact on patient safety and hospital standards."
+    },
+    "evidence": {
+      "image_provided": true,
+      "voice_provided": true,
+      "issue_visibility": "partially_visible",
+      "evidence_clarity": "partial"
+    },
+    "ai_core_attributes": {
+      "issue_type": "facility_damage",
+      "failure_point": "maintenance_team",
+      "affected_entity": "patient",
+      "condition_state": "moderate"
+    },
+    "validation_layer": {
+      "cross_modal_alignment": "aligned",
+      "consistency_score": 0.83
+    },
+    "system_flags": {
+      "confidence_score": 0.84,
+      "needs_user_review": false
+    },
+    "split": "test",
+    "correction_applied": false,
+    "correction_reason": "none",
+    "routing": {
+      "primary_department": "Housekeeping",
+      "secondary_departments": [
+        "General Ward",
+        "Facilities Management"
+      ],
+      "escalation_chain": [
+        "Ward In-Charge",
+        "Housekeeping Supervisor",
+        "Facilities Manager"
+      ],
+      "first_responder": "Ward Nurse",
+      "resolution_owner": "Housekeeping",
+      "sla_hours": 8,
+      "action_on_report": "Replace curtain or arrange temporary screen, log in maintenance register, check adjacent bays"
+    },
+    "taxonomy": {
+      "subtypes": [
+        "Curtain Completely Missing",
+        "Curtain Torn or Heavily Damaged",
+        "Curtain Rod Broken or Fallen",
+        "Curtain Does Not Cover Fully",
+        "Curtain Stained or Unhygienic",
+        "Curtain Track Stuck or Broken"
+      ],
+      "visual_indicators": [
+        "Torn fabric with visible gaps",
+        "Missing curtain panel",
+        "Dangling or fallen curtain rod",
+        "Stained or discoloured fabric"
+      ],
+      "patient_impact": "Loss of privacy and dignity, embarrassment, violation of patient rights",
+      "regulatory_reference": ""
+    }
+  },
+  {
+    "image_id": "food_1",
+    "category": "Unappetizing Hospital Food Tray",
+    "folder": "unappetizing_hospital_food_tray",
+    "severity": "low",
+    "department": "Patient Services",
+    "refined_caption": "The hospital food tray appears unappetizing. A patient is sleeping in the background, seemingly uninterested in the food.",
+    "complaint_description": "I was disappointed to see the hospital food tray looked unappetizing, which made me lose my appetite. The presentation of the food was uninviting and I was not looking forward to eating it. This experience was not what I expected from a hospital.",
+    "voice_text": "The food here looks really unappetizing, I'm not even hungry anymore.",
+    "tags": [
+      "hospital_food",
+      "unappetizing",
+      "patient_care"
+    ],
+    "input": {
+      "image_caption": "The hospital food tray appears unappetizing. A patient is sleeping in the background, seemingly uninterested in the food.",
+      "voice_text": "The food here looks really unappetizing, I'm not even hungry anymore."
+    },
+    "extracted_complaint": {
+      "category": "Unappetizing Hospital Food Tray",
+      "sub_category": "food_presentation",
+      "description": "I was disappointed to see the hospital food tray looked unappetizing, which made me lose my appetite. The presentation of the food was uninviting and I was not looking forward to eating it. This experience was not what I expected from a hospital."
+    },
+    "incident_details": {
+      "date_of_incident": "2025-04-25",
+      "approximate_time": "10:00",
+      "is_issue_ongoing": true,
+      "frequency_of_issue": "one_time",
+      "reported_internally": true,
+      "other_patients_affected": false,
+      "physical_harm": false,
+      "staff_involved": "hospital_admin"
+    },
+    "hospital_details": {
+      "hospital_name": "Ram Manohar Lohia Hospital",
+      "hospital_type": "semi-government",
+      "department": "Dietary",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "full_address": "Ram Manohar Lohia Hospital, Hyderabad, Telangana"
+    },
+    "severity_assessment": {
+      "severity": "low",
+      "severity_reason": "Issue classified as low based on visible impact on patient safety and hospital standards."
+    },
+    "evidence": {
+      "image_provided": true,
+      "voice_provided": true,
+      "issue_visibility": "not_visible",
+      "evidence_clarity": "partial"
+    },
+    "ai_core_attributes": {
+      "issue_type": "food_quality",
+      "failure_point": "dietary_department",
+      "affected_entity": "patient",
+      "condition_state": "degraded"
+    },
+    "validation_layer": {
+      "cross_modal_alignment": "aligned",
+      "consistency_score": 0.61
+    },
+    "system_flags": {
+      "confidence_score": 0.61,
+      "needs_user_review": false
+    },
+    "split": "test",
+    "correction_applied": false,
+    "correction_reason": "none",
+    "routing": {
+      "primary_department": "Dietary",
+      "secondary_departments": [
+        "Kitchen",
+        "Patient Services"
+      ],
+      "escalation_chain": [
+        "Ward Nurse",
+        "Dietitian",
+        "Kitchen Supervisor",
+        "Patient Services Manager"
+      ],
+      "first_responder": "Ward Nurse",
+      "resolution_owner": "Dietary Department",
+      "sla_hours": 3,
+      "action_on_report": "Replace meal if possible, note in patient record, report to kitchen supervisor, review diet chart accuracy"
+    },
+    "taxonomy": {
+      "subtypes": [
+        "Food Served Cold or Stale",
+        "Wrong Diet Chart Served",
+        "Inadequate Portion Size",
+        "Dirty or Unhygienic Tray / Utensils",
+        "Food Not Served on Time",
+        "Unpalatable or Tasteless Food",
+        "Missing Components from Diet Plan",
+        "No Dietary Accommodation for Special Needs"
+      ],
+      "visual_indicators": [
+        "Cold food in tray",
+        "Half-empty or incomplete tray",
+        "Dirty utensils",
+        "Wrong food type for patient condition"
+      ],
+      "patient_impact": "Nutritional deficit, delayed recovery, patient dissatisfaction, non-compliance with therapeutic diet",
+      "regulatory_reference": ""
+    }
+  },
+  {
+    "image_id": "food_8",
+    "category": "Unappetizing Hospital Food Tray",
+    "folder": "unappetizing_hospital_food_tray",
+    "severity": "low",
+    "department": "Dietary",
+    "refined_caption": "The hospital food tray appears unappetizing, with a tray of food that does not look fresh. A woman is sitting nearby, using her cell phone.",
+    "complaint_description": "I was disappointed with the food served to me during my hospital stay. The food on my tray looked unappetizing and did not smell fresh. I was expecting a more satisfying meal to help with my recovery.",
+    "voice_text": "The food here looks really gross, I'm not even sure I want to eat it.",
+    "tags": [
+      "hospital_food",
+      "unappetizing_meal",
+      "patient_complaint"
+    ],
+    "input": {
+      "image_caption": "The hospital food tray appears unappetizing, with a tray of food that does not look fresh. A woman is sitting nearby, using her cell phone.",
+      "voice_text": "The food here looks really gross, I'm not even sure I want to eat it."
+    },
+    "extracted_complaint": {
+      "category": "Unappetizing Hospital Food Tray",
+      "sub_category": "food_presentation",
+      "description": "I was disappointed with the food served to me during my hospital stay. The food on my tray looked unappetizing and did not smell fresh. I was expecting a more satisfying meal to help with my recovery."
+    },
+    "incident_details": {
+      "date_of_incident": "2025-10-30",
+      "approximate_time": "13:45",
+      "is_issue_ongoing": false,
+      "frequency_of_issue": "repeated",
+      "reported_internally": false,
+      "other_patients_affected": false,
+      "physical_harm": false,
+      "staff_involved": "housekeeping_staff"
+    },
+    "hospital_details": {
+      "hospital_name": "Safdarjung Hospital",
+      "hospital_type": "private",
+      "department": "Dietary",
+      "city": "Delhi",
+      "state": "Delhi",
+      "full_address": "Safdarjung Hospital, Delhi, Delhi"
+    },
+    "severity_assessment": {
+      "severity": "low",
+      "severity_reason": "Issue classified as low based on visible impact on patient safety and hospital standards."
+    },
+    "evidence": {
+      "image_provided": true,
+      "voice_provided": true,
+      "issue_visibility": "visible",
+      "evidence_clarity": "unclear"
+    },
+    "ai_core_attributes": {
+      "issue_type": "food_quality",
+      "failure_point": "dietary_department",
+      "affected_entity": "patient",
+      "condition_state": "poor"
+    },
+    "validation_layer": {
+      "cross_modal_alignment": "aligned",
+      "consistency_score": 0.95
+    },
+    "system_flags": {
+      "confidence_score": 0.85,
+      "needs_user_review": false
+    },
+    "split": "test",
+    "correction_applied": false,
+    "correction_reason": "none",
+    "routing": {
+      "primary_department": "Dietary",
+      "secondary_departments": [
+        "Kitchen",
+        "Patient Services"
+      ],
+      "escalation_chain": [
+        "Ward Nurse",
+        "Dietitian",
+        "Kitchen Supervisor",
+        "Patient Services Manager"
+      ],
+      "first_responder": "Ward Nurse",
+      "resolution_owner": "Dietary Department",
+      "sla_hours": 3,
+      "action_on_report": "Replace meal if possible, note in patient record, report to kitchen supervisor, review diet chart accuracy"
+    },
+    "taxonomy": {
+      "subtypes": [
+        "Food Served Cold or Stale",
+        "Wrong Diet Chart Served",
+        "Inadequate Portion Size",
+        "Dirty or Unhygienic Tray / Utensils",
+        "Food Not Served on Time",
+        "Unpalatable or Tasteless Food",
+        "Missing Components from Diet Plan",
+        "No Dietary Accommodation for Special Needs"
+      ],
+      "visual_indicators": [
+        "Cold food in tray",
+        "Half-empty or incomplete tray",
+        "Dirty utensils",
+        "Wrong food type for patient condition"
+      ],
+      "patient_impact": "Nutritional deficit, delayed recovery, patient dissatisfaction, non-compliance with therapeutic diet",
+      "regulatory_reference": ""
+    }
+  },
+  {
+    "image_id": "hygiene_3",
+    "category": "Unhygienic / Contaminated Hospital Food",
+    "folder": "unhygienic_hospital_food_contaminated",
+    "severity": "high",
+    "department": "Kitchen",
+    "refined_caption": "The hospital kitchen is preparing food in an unhygienic environment, with visible signs of contamination. Food is being handled in a way that may compromise patient health.",
+    "complaint_description": "I was appalled to see the state of the hospital kitchen where my food was being prepared. The kitchen was dirty and the staff seemed to be handling food in a way that could easily spread infection. As a patient, I'm worried about the risk of getting sick from the food.",
+    "voice_text": "The hospital food is being prepared in a really dirty kitchen, it's disgusting and I'm worried I'll get sick from eating it.",
+    "tags": [
+      "hospital_food_safety",
+      "kitchen_hygiene",
+      "patient_safety"
+    ],
+    "input": {
+      "image_caption": "The hospital kitchen is preparing food in an unhygienic environment, with visible signs of contamination. Food is being handled in a way that may compromise patient health.",
+      "voice_text": "The hospital food is being prepared in a really dirty kitchen, it's disgusting and I'm worried I'll get sick from eating it."
+    },
+    "extracted_complaint": {
+      "category": "Unhygienic / Contaminated Hospital Food",
+      "sub_category": "food_contamination",
+      "description": "I was appalled to see the state of the hospital kitchen where my food was being prepared. The kitchen was dirty and the staff seemed to be handling food in a way that could easily spread infection. As a patient, I'm worried about the risk of getting sick from the food."
+    },
+    "incident_details": {
+      "date_of_incident": "2025-05-13",
+      "approximate_time": "16:30",
+      "is_issue_ongoing": true,
+      "frequency_of_issue": "one_time",
+      "reported_internally": true,
+      "other_patients_affected": false,
+      "physical_harm": false,
+      "staff_involved": "duty_doctor"
+    },
+    "hospital_details": {
+      "hospital_name": "AIIMS",
+      "hospital_type": "government",
+      "department": "Dietary",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "full_address": "AIIMS, Pune, Maharashtra"
+    },
+    "severity_assessment": {
+      "severity": "high",
+      "severity_reason": "Issue classified as high based on visible impact on patient safety and hospital standards."
+    },
+    "evidence": {
+      "image_provided": true,
+      "voice_provided": true,
+      "issue_visibility": "not_visible",
+      "evidence_clarity": "clear"
+    },
+    "ai_core_attributes": {
+      "issue_type": "food_safety",
+      "failure_point": "dietary_department",
+      "affected_entity": "patient",
+      "condition_state": "critical"
+    },
+    "validation_layer": {
+      "cross_modal_alignment": "partial",
+      "consistency_score": 0.63
+    },
+    "system_flags": {
+      "confidence_score": 0.92,
+      "needs_user_review": false
+    },
+    "split": "test",
+    "correction_applied": false,
+    "correction_reason": "none",
+    "routing": {
+      "primary_department": "Dietary",
+      "secondary_departments": [
+        "Infection Control",
+        "Kitchen"
+      ],
+      "escalation_chain": [
+        "Ward Nurse",
+        "Infection Control Officer",
+        "Kitchen Supervisor",
+        "Medical Superintendent",
+        "Hospital Administrator"
+      ],
+      "first_responder": "Ward Nurse",
+      "resolution_owner": "Dietary and Infection Control",
+      "sla_hours": 2,
+      "action_on_report": "Immediately remove contaminated food, preserve sample for testing, alert infection control, inspect kitchen batch, monitor affected patients"
+    },
+    "taxonomy": {
+      "subtypes": [
+        "Foreign Object Found in Food",
+        "Expired or Spoiled Food Served",
+        "Raw or Undercooked Food",
+        "Cross-Contamination between Food Types",
+        "Unhygienic Food Handling by Staff",
+        "Food Stored at Unsafe Temperature",
+        "Pest Contact with Food",
+        "Allergenic Ingredient Not Disclosed"
+      ],
+      "visual_indicators": [
+        "Visible foreign objects in food",
+        "Mould or discolouration",
+        "Raw or bloody meat",
+        "Off smell from food",
+        "Insect in food tray"
+      ],
+      "patient_impact": "Food poisoning, allergic reaction, worsening of existing medical condition, infection",
+      "regulatory_reference": ""
+    }
+  },
+  {
+    "image_id": "hygiene_16",
+    "category": "Unhygienic / Contaminated Hospital Food",
+    "folder": "unhygienic_hospital_food_contaminated",
+    "severity": "high",
+    "department": "Infection Control",
+    "refined_caption": "The hospital kitchen appears to be preparing food in an unhygienic environment, with visible signs of contamination. Food is being handled in a way that may compromise its safety.",
+    "complaint_description": "I was appalled to see the state of the hospital kitchen, where food was being prepared in a clearly unhygienic manner. The conditions were unsanitary and I fear for the health and safety of patients who may be served this food. I hope the hospital takes immediate action to address this issue.",
+    "voice_text": "The hospital kitchen is disgusting, they're preparing food in a really unhygienic way, it's like they don't care about patient safety.",
+    "tags": [
+      "hospital_food_safety",
+      "unhygienic_kitchen",
+      "patient_safety_risk"
+    ],
+    "input": {
+      "image_caption": "The hospital kitchen appears to be preparing food in an unhygienic environment, with visible signs of contamination. Food is being handled in a way that may compromise its safety.",
+      "voice_text": "The hospital kitchen is disgusting, they're preparing food in a really unhygienic way, it's like they don't care about patient safety."
+    },
+    "extracted_complaint": {
+      "category": "Unhygienic / Contaminated Hospital Food",
+      "sub_category": "food_contamination",
+      "description": "I was appalled to see the state of the hospital kitchen, where food was being prepared in a clearly unhygienic manner. The conditions were unsanitary and I fear for the health and safety of patients who may be served this food. I hope the hospital takes immediate action to address this issue."
+    },
+    "incident_details": {
+      "date_of_incident": "2025-10-30",
+      "approximate_time": "15:45",
+      "is_issue_ongoing": true,
+      "frequency_of_issue": "one_time",
+      "reported_internally": true,
+      "other_patients_affected": false,
+      "physical_harm": false,
+      "staff_involved": "housekeeping_staff"
+    },
+    "hospital_details": {
+      "hospital_name": "AIIMS",
+      "hospital_type": "private",
+      "department": "Dietary",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "full_address": "AIIMS, Bangalore, Karnataka"
+    },
+    "severity_assessment": {
+      "severity": "high",
+      "severity_reason": "Issue classified as high based on visible impact on patient safety and hospital standards."
+    },
+    "evidence": {
+      "image_provided": true,
+      "voice_provided": true,
+      "issue_visibility": "partially_visible",
+      "evidence_clarity": "partial"
+    },
+    "ai_core_attributes": {
+      "issue_type": "food_safety",
+      "failure_point": "dietary_department",
+      "affected_entity": "patient",
+      "condition_state": "moderate"
+    },
+    "validation_layer": {
+      "cross_modal_alignment": "aligned",
+      "consistency_score": 0.77
+    },
+    "system_flags": {
+      "confidence_score": 0.89,
+      "needs_user_review": false
+    },
+    "split": "test",
+    "correction_applied": false,
+    "correction_reason": "none",
+    "routing": {
+      "primary_department": "Dietary",
+      "secondary_departments": [
+        "Infection Control",
+        "Kitchen"
+      ],
+      "escalation_chain": [
+        "Ward Nurse",
+        "Infection Control Officer",
+        "Kitchen Supervisor",
+        "Medical Superintendent",
+        "Hospital Administrator"
+      ],
+      "first_responder": "Ward Nurse",
+      "resolution_owner": "Dietary and Infection Control",
+      "sla_hours": 2,
+      "action_on_report": "Immediately remove contaminated food, preserve sample for testing, alert infection control, inspect kitchen batch, monitor affected patients"
+    },
+    "taxonomy": {
+      "subtypes": [
+        "Foreign Object Found in Food",
+        "Expired or Spoiled Food Served",
+        "Raw or Undercooked Food",
+        "Cross-Contamination between Food Types",
+        "Unhygienic Food Handling by Staff",
+        "Food Stored at Unsafe Temperature",
+        "Pest Contact with Food",
+        "Allergenic Ingredient Not Disclosed"
+      ],
+      "visual_indicators": [
+        "Visible foreign objects in food",
+        "Mould or discolouration",
+        "Raw or bloody meat",
+        "Off smell from food",
+        "Insect in food tray"
+      ],
+      "patient_impact": "Food poisoning, allergic reaction, worsening of existing medical condition, infection",
+      "regulatory_reference": ""
+    }
+  },
+  {
+    "image_id": "hygiene_1",
+    "category": "Unhygienic / Contaminated Hospital Food",
+    "folder": "unhygienic_hospital_food_contaminated",
+    "severity": "high",
+    "department": "Kitchen",
+    "refined_caption": "The hospital food appears to be contaminated and unhygienic. Visible signs of contamination are present on the food.",
+    "complaint_description": "I was served contaminated food during my stay at the hospital, which is unacceptable. The food had visible signs of contamination and I'm worried about my health. I hope the hospital takes immediate action to address this issue.",
+    "voice_text": "The food they served me at the hospital was disgusting, it was contaminated and I could see it, I'm really worried about getting sick from it.",
+    "tags": [
+      "unhygienic_food",
+      "hospital_contamination",
+      "patient_safety"
+    ],
+    "input": {
+      "image_caption": "The hospital food appears to be contaminated and unhygienic. Visible signs of contamination are present on the food.",
+      "voice_text": "The food they served me at the hospital was disgusting, it was contaminated and I could see it, I'm really worried about getting sick from it."
+    },
+    "extracted_complaint": {
+      "category": "Unhygienic / Contaminated Hospital Food",
+      "sub_category": "food_contamination",
+      "description": "I was served contaminated food during my stay at the hospital, which is unacceptable. The food had visible signs of contamination and I'm worried about my health. I hope the hospital takes immediate action to address this issue."
+    },
+    "incident_details": {
+      "date_of_incident": "2025-02-24",
+      "approximate_time": "10:15",
+      "is_issue_ongoing": true,
+      "frequency_of_issue": "ongoing",
+      "reported_internally": false,
+      "other_patients_affected": true,
+      "physical_harm": false,
+      "staff_involved": "housekeeping_staff"
+    },
+    "hospital_details": {
+      "hospital_name": "Fortis Hospital",
+      "hospital_type": "government",
+      "department": "Dietary",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "full_address": "Fortis Hospital, Kolkata, West Bengal"
+    },
+    "severity_assessment": {
+      "severity": "high",
+      "severity_reason": "Issue classified as high based on visible impact on patient safety and hospital standards."
+    },
+    "evidence": {
+      "image_provided": true,
+      "voice_provided": true,
+      "issue_visibility": "visible",
+      "evidence_clarity": "unclear"
+    },
+    "ai_core_attributes": {
+      "issue_type": "food_safety",
+      "failure_point": "dietary_department",
+      "affected_entity": "patient",
+      "condition_state": "degraded"
+    },
+    "validation_layer": {
+      "cross_modal_alignment": "partial",
+      "consistency_score": 0.8
+    },
+    "system_flags": {
+      "confidence_score": 0.68,
+      "needs_user_review": false
+    },
+    "split": "test",
+    "correction_applied": false,
+    "correction_reason": "none",
+    "routing": {
+      "primary_department": "Dietary",
+      "secondary_departments": [
+        "Infection Control",
+        "Kitchen"
+      ],
+      "escalation_chain": [
+        "Ward Nurse",
+        "Infection Control Officer",
+        "Kitchen Supervisor",
+        "Medical Superintendent",
+        "Hospital Administrator"
+      ],
+      "first_responder": "Ward Nurse",
+      "resolution_owner": "Dietary and Infection Control",
+      "sla_hours": 2,
+      "action_on_report": "Immediately remove contaminated food, preserve sample for testing, alert infection control, inspect kitchen batch, monitor affected patients"
+    },
+    "taxonomy": {
+      "subtypes": [
+        "Foreign Object Found in Food",
+        "Expired or Spoiled Food Served",
+        "Raw or Undercooked Food",
+        "Cross-Contamination between Food Types",
+        "Unhygienic Food Handling by Staff",
+        "Food Stored at Unsafe Temperature",
+        "Pest Contact with Food",
+        "Allergenic Ingredient Not Disclosed"
+      ],
+      "visual_indicators": [
+        "Visible foreign objects in food",
+        "Mould or discolouration",
+        "Raw or bloody meat",
+        "Off smell from food",
+        "Insect in food tray"
+      ],
+      "patient_impact": "Food poisoning, allergic reaction, worsening of existing medical condition, infection",
+      "regulatory_reference": ""
+    }
+  },
+  {
+    "image_id": "puddle_21",
+    "category": "Water Puddle on Hospital Floor",
+    "folder": "water_puddle_on_hospital_floor",
+    "severity": "medium",
+    "department": "Housekeeping",
+    "refined_caption": "There is a water leak on the hospital floor, with a puddle visible and a person standing nearby.",
+    "complaint_description": "I was walking down the hospital floor and noticed a significant amount of water leaking from the ceiling, creating a puddle that could be a slipping hazard. The water appears to be coming from a leak in the ceiling and it's making the floor very slippery. This is a concern for patient safety.",
+    "voice_text": "There's water all over the floor from a leak, it's really slippery and someone should clean it up.",
+    "tags": [
+      "water_leak",
+      "slippery_floor",
+      "hospital_safety"
+    ],
+    "input": {
+      "image_caption": "There is a water leak on the hospital floor, with a puddle visible and a person standing nearby.",
+      "voice_text": "There's water all over the floor from a leak, it's really slippery and someone should clean it up."
+    },
+    "extracted_complaint": {
+      "category": "Water Puddle on Hospital Floor",
+      "sub_category": "slip_hazard",
+      "description": "I was walking down the hospital floor and noticed a significant amount of water leaking from the ceiling, creating a puddle that could be a slipping hazard. The water appears to be coming from a leak in the ceiling and it's making the floor very slippery. This is a concern for patient safety."
+    },
+    "incident_details": {
+      "date_of_incident": "2025-03-23",
+      "approximate_time": "08:00",
+      "is_issue_ongoing": false,
+      "frequency_of_issue": "one_time",
+      "reported_internally": false,
+      "other_patients_affected": true,
+      "physical_harm": true,
+      "staff_involved": "housekeeping_staff"
+    },
+    "hospital_details": {
+      "hospital_name": "Apollo Hospital",
+      "hospital_type": "government",
+      "department": "Facilities Management",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "full_address": "Apollo Hospital, Bangalore, Karnataka"
+    },
+    "severity_assessment": {
+      "severity": "medium",
+      "severity_reason": "Issue classified as medium based on visible impact on patient safety and hospital standards."
+    },
+    "evidence": {
+      "image_provided": true,
+      "voice_provided": true,
+      "issue_visibility": "partially_visible",
+      "evidence_clarity": "clear"
+    },
+    "ai_core_attributes": {
+      "issue_type": "infrastructure_leak",
+      "failure_point": "facilities_management",
+      "affected_entity": "patient",
+      "condition_state": "poor"
+    },
+    "validation_layer": {
+      "cross_modal_alignment": "partial",
+      "consistency_score": 0.83
+    },
+    "system_flags": {
+      "confidence_score": 0.95,
+      "needs_user_review": false,
+      "was_flagged": true,
+      "flag_resolution": "reviewed_and_cleared"
+    },
+    "split": "test",
+    "correction_applied": true,
+    "correction_reason": "needs_user_review_cleared",
+    "routing": {
+      "primary_department": "Facilities Management",
+      "secondary_departments": [
+        "Housekeeping",
+        "Safety"
+      ],
+      "escalation_chain": [
+        "Housekeeping Staff",
+        "Facilities Supervisor",
+        "Safety Officer",
+        "Hospital Administrator"
+      ],
+      "first_responder": "Housekeeping Staff",
+      "resolution_owner": "Facilities Management",
+      "sla_hours": 1,
+      "action_on_report": "Place wet floor warning signs immediately, mop and dry area, identify and fix source of water, check for electrical hazard nearby"
+    },
+    "taxonomy": {
+      "subtypes": [
+        "Slip Hazard from Standing Water",
+        "Ceiling Leak Creating Puddle",
+        "Pipe Leak or Burst",
+        "Inadequate Floor Drainage",
+        "Post-Mopping Residue Not Cleared",
+        "Condensation from AC or Equipment",
+        "Spillage from Patient Room Not Cleaned",
+        "Leak Near Electrical Fittings"
+      ],
+      "visual_indicators": [
+        "Visible puddle on floor",
+        "Wet floor warning sign absent",
+        "Water stains on ceiling or walls",
+        "Dripping from above",
+        "Reflective wet surface"
+      ],
+      "patient_impact": "Fall and fracture risk, electrical hazard, infection from standing water, mobility obstruction",
+      "regulatory_reference": ""
+    }
+  },
+  {
+    "image_id": "puddle_17",
+    "category": "Water Puddle on Hospital Floor",
+    "folder": "water_puddle_on_hospital_floor",
+    "severity": "medium",
+    "department": "Housekeeping",
+    "refined_caption": "There is water on the hospital floor and a person is holding an umbrella, indicating a water issue. The floor appears to be wet.",
+    "complaint_description": "I was visiting my family member on the general ward and noticed that there was a significant amount of water on the floor. It was so wet that someone was even using an umbrella to stay dry. This is a slipping hazard and I'm concerned about the safety of patients and visitors.",
+    "voice_text": "There's water all over the floor on the general ward, it's so bad someone's using an umbrella",
+    "tags": [
+      "water_puddle",
+      "hospital_floor",
+      "slipping_hazard"
+    ],
+    "input": {
+      "image_caption": "There is water on the hospital floor and a person is holding an umbrella, indicating a water issue. The floor appears to be wet.",
+      "voice_text": "There's water all over the floor on the general ward, it's so bad someone's using an umbrella"
+    },
+    "extracted_complaint": {
+      "category": "Water Puddle on Hospital Floor",
+      "sub_category": "slip_hazard",
+      "description": "I was visiting my family member on the general ward and noticed that there was a significant amount of water on the floor. It was so wet that someone was even using an umbrella to stay dry. This is a slipping hazard and I'm concerned about the safety of patients and visitors."
+    },
+    "incident_details": {
+      "date_of_incident": "2025-06-18",
+      "approximate_time": "15:45",
+      "is_issue_ongoing": true,
+      "frequency_of_issue": "repeated",
+      "reported_internally": false,
+      "other_patients_affected": false,
+      "physical_harm": true,
+      "staff_involved": "hospital_admin"
+    },
+    "hospital_details": {
+      "hospital_name": "Safdarjung Hospital",
+      "hospital_type": "government",
+      "department": "Facilities Management",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "full_address": "Safdarjung Hospital, Bangalore, Karnataka"
+    },
+    "severity_assessment": {
+      "severity": "medium",
+      "severity_reason": "Issue classified as medium based on visible impact on patient safety and hospital standards."
+    },
+    "evidence": {
+      "image_provided": true,
+      "voice_provided": true,
+      "issue_visibility": "visible",
+      "evidence_clarity": "unclear"
+    },
+    "ai_core_attributes": {
+      "issue_type": "infrastructure_leak",
+      "failure_point": "facilities_management",
+      "affected_entity": "patient",
+      "condition_state": "degraded"
+    },
+    "validation_layer": {
+      "cross_modal_alignment": "aligned",
+      "consistency_score": 0.98
+    },
+    "system_flags": {
+      "confidence_score": 0.8,
+      "needs_user_review": false
+    },
+    "split": "test",
+    "correction_applied": false,
+    "correction_reason": "none",
+    "routing": {
+      "primary_department": "Facilities Management",
+      "secondary_departments": [
+        "Housekeeping",
+        "Safety"
+      ],
+      "escalation_chain": [
+        "Housekeeping Staff",
+        "Facilities Supervisor",
+        "Safety Officer",
+        "Hospital Administrator"
+      ],
+      "first_responder": "Housekeeping Staff",
+      "resolution_owner": "Facilities Management",
+      "sla_hours": 1,
+      "action_on_report": "Place wet floor warning signs immediately, mop and dry area, identify and fix source of water, check for electrical hazard nearby"
+    },
+    "taxonomy": {
+      "subtypes": [
+        "Slip Hazard from Standing Water",
+        "Ceiling Leak Creating Puddle",
+        "Pipe Leak or Burst",
+        "Inadequate Floor Drainage",
+        "Post-Mopping Residue Not Cleared",
+        "Condensation from AC or Equipment",
+        "Spillage from Patient Room Not Cleaned",
+        "Leak Near Electrical Fittings"
+      ],
+      "visual_indicators": [
+        "Visible puddle on floor",
+        "Wet floor warning sign absent",
+        "Water stains on ceiling or walls",
+        "Dripping from above",
+        "Reflective wet surface"
+      ],
+      "patient_impact": "Fall and fracture risk, electrical hazard, infection from standing water, mobility obstruction",
+      "regulatory_reference": ""
+    }
+  },
+  {
+    "image_id": "puddle_15",
+    "category": "Water Puddle on Hospital Floor",
+    "folder": "water_puddle_on_hospital_floor",
+    "severity": "medium",
+    "department": "Facilities Management",
+    "refined_caption": "The hospital floor has visible water puddles and orange lines. The water puddles appear to be scattered across the floor.",
+    "complaint_description": "I was walking down the hospital floor and noticed that there were water puddles everywhere, which could be a slipping hazard. The orange lines on the floor seem to be a warning, but the puddles themselves are still a concern. I'm worried about the safety and cleanliness of the hospital.",
+    "voice_text": "There's water all over the hospital floor, it's really slippery and I'm worried someone's gonna fall. The orange lines are there, but it's still pretty hazardous.",
+    "tags": [
+      "water_puddle",
+      "hospital_floor",
+      "slipping_hazard"
+    ],
+    "input": {
+      "image_caption": "The hospital floor has visible water puddles and orange lines. The water puddles appear to be scattered across the floor.",
+      "voice_text": "There's water all over the hospital floor, it's really slippery and I'm worried someone's gonna fall. The orange lines are there, but it's still pretty hazardous."
+    },
+    "extracted_complaint": {
+      "category": "Water Puddle on Hospital Floor",
+      "sub_category": "slip_hazard",
+      "description": "I was walking down the hospital floor and noticed that there were water puddles everywhere, which could be a slipping hazard. The orange lines on the floor seem to be a warning, but the puddles themselves are still a concern. I'm worried about the safety and cleanliness of the hospital."
+    },
+    "incident_details": {
+      "date_of_incident": "2025-03-16",
+      "approximate_time": "13:30",
+      "is_issue_ongoing": true,
+      "frequency_of_issue": "repeated",
+      "reported_internally": true,
+      "other_patients_affected": false,
+      "physical_harm": true,
+      "staff_involved": "housekeeping_staff"
+    },
+    "hospital_details": {
+      "hospital_name": "Apollo Hospital",
+      "hospital_type": "government",
+      "department": "Facilities Management",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "full_address": "Apollo Hospital, Mumbai, Maharashtra"
+    },
+    "severity_assessment": {
+      "severity": "medium",
+      "severity_reason": "Issue classified as medium based on visible impact on patient safety and hospital standards."
+    },
+    "evidence": {
+      "image_provided": true,
+      "voice_provided": true,
+      "issue_visibility": "partially_visible",
+      "evidence_clarity": "clear"
+    },
+    "ai_core_attributes": {
+      "issue_type": "infrastructure_leak",
+      "failure_point": "facilities_management",
+      "affected_entity": "patient",
+      "condition_state": "degraded"
+    },
+    "validation_layer": {
+      "cross_modal_alignment": "aligned",
+      "consistency_score": 0.85
+    },
+    "system_flags": {
+      "confidence_score": 0.96,
+      "needs_user_review": false
+    },
+    "split": "test",
+    "correction_applied": false,
+    "correction_reason": "none",
+    "routing": {
+      "primary_department": "Facilities Management",
+      "secondary_departments": [
+        "Housekeeping",
+        "Safety"
+      ],
+      "escalation_chain": [
+        "Housekeeping Staff",
+        "Facilities Supervisor",
+        "Safety Officer",
+        "Hospital Administrator"
+      ],
+      "first_responder": "Housekeeping Staff",
+      "resolution_owner": "Facilities Management",
+      "sla_hours": 1,
+      "action_on_report": "Place wet floor warning signs immediately, mop and dry area, identify and fix source of water, check for electrical hazard nearby"
+    },
+    "taxonomy": {
+      "subtypes": [
+        "Slip Hazard from Standing Water",
+        "Ceiling Leak Creating Puddle",
+        "Pipe Leak or Burst",
+        "Inadequate Floor Drainage",
+        "Post-Mopping Residue Not Cleared",
+        "Condensation from AC or Equipment",
+        "Spillage from Patient Room Not Cleaned",
+        "Leak Near Electrical Fittings"
+      ],
+      "visual_indicators": [
+        "Visible puddle on floor",
+        "Wet floor warning sign absent",
+        "Water stains on ceiling or walls",
+        "Dripping from above",
+        "Reflective wet surface"
+      ],
+      "patient_impact": "Fall and fracture risk, electrical hazard, infection from standing water, mobility obstruction",
+      "regulatory_reference": ""
+    }
+  }
+]

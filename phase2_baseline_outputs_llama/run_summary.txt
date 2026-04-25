@@ -1,0 +1,7 @@
+Run time: 2026-04-24T09:23:48.653524
+MODEL_NAME: llama-3.3-70b-versatile
+FALLBACK_MODEL: llama-3.1-8b-instant
+TEST_FILE: /kaggle/input/datasets/anmolchaturvedi12390/dataset/test.jsonl
+TRAIN_FILE: /kaggle/input/datasets/anmolchaturvedi12390/dataset/train.jsonl
+VAL_FILE: /kaggle/input/datasets/anmolchaturvedi12390/dataset/val.jsonl
+MASTER_FILE: /kaggle/input/datasets/anmolchaturvedi12390/dataset/master_with_splits.json

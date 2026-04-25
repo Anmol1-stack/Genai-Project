@@ -1,0 +1,40 @@
+[
+  {
+    "baseline": "Baseline-1-ZeroShot",
+    "model": "llama-3.3-70b-versatile",
+    "total_records": 32,
+    "json_validity_rate": 1.0,
+    "category_accuracy": 0.0,
+    "category_macro_f1": 0.0,
+    "severity_accuracy": 0.2812,
+    "severity_macro_f1": 0.0973,
+    "department_accuracy": 0.125,
+    "department_macro_f1": 0.07,
+    "bleu_score": 0.0069,
+    "rouge1": 0.2569,
+    "rouge2": 0.091,
+    "rougeL": 0.1995,
+    "invalid_category_preds": 32,
+    "invalid_severity_preds": 5,
+    "invalid_department_preds": 28
+  },
+  {
+    "baseline": "Baseline-2-Prompted",
+    "model": "llama-3.3-70b-versatile",
+    "total_records": 32,
+    "json_validity_rate": 1.0,
+    "category_accuracy": 1.0,
+    "category_macro_f1": 1.0,
+    "severity_accuracy": 0.375,
+    "severity_macro_f1": 0.3109,
+    "department_accuracy": 0.875,
+    "department_macro_f1": 0.8778,
+    "bleu_score": 0.0187,
+    "rouge1": 0.3016,
+    "rouge2": 0.0927,
+    "rougeL": 0.2079,
+    "invalid_category_preds": 0,
+    "invalid_severity_preds": 0,
+    "invalid_department_preds": 0
+  }
+]
