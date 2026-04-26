@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hospital Dashboard - MediCare</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css?v=10">
+</head>
+<body>
+    <div class="app-container">
+        <header>
+            <h1 id="hospital-title">Hospital Dashboard</h1>
+            <p>Viewing complaints for your facility</p>
+            <nav style="margin-top: 15px; display: flex; gap: 15px; justify-content: center;">
+                <a href="#" id="logout-btn" class="badge medium" style="text-decoration: none; border: 1px solid var(--primary-color); color: var(--primary-color);">Logout</a>
+            </nav>
+        </header>
+        
+        <main>
+            <section class="dashboard-section panel panel-full">
+                <div class="dashboard-header">
+                    <h2>Live Complaints</h2>
+                    <div class="filters">
+                        <button class="filter-btn active" id="filter-all">All</button>
+                        <button class="filter-btn" id="filter-urgent">Urgent</button>
+                    </div>
+                </div>
+                <div class="complaint-list" id="complaint-list">
+                    <!-- Complaints will be injected here via JS -->
+                </div>
+            </section>
+        </main>
+    </div>
+    <div id="toast"></div>
+    <script src="/static/hospital_dashboard.js"></script>
+</body>
+</html>

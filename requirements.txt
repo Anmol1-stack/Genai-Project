@@ -4,3 +4,11 @@ pydantic
 sqlalchemy
 chromadb
 sentence-transformers
+openai-whisper
+transformers
+torch
+Pillow
+python-multipart
+requests
+groq
+python-dotenv

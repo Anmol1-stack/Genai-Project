@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 complaints.db
 chroma_db/
+.env

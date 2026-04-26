@@ -3,10 +3,12 @@ from typing import Optional
 from datetime import datetime
 
 class ComplaintInput(BaseModel):
-    image_caption: str
-    voice_text: str
+    image_caption: str = ""          # optional – provided by BLIP
+    voice_text: str = ""             # optional – provided by Whisper
     hospital_name: str = "General Hospital"
     city: str = "Metropolis"
+    name: str = "Anonymous"
+    ward: str = "General Ward"
 
 class ComplaintResponse(BaseModel):
     id: int
@@ -17,6 +19,7 @@ class ComplaintResponse(BaseModel):
     description: str
     hospital_name: str
     city: str
+    status: str = "active"
     relevant_sop: Optional[str] = None
 
     class Config:
@@ -26,3 +29,11 @@ class HealthResponse(BaseModel):
     status: str
     database: str
     chromadb: str
+
+class LoginRequest(BaseModel):
+    username: str
+    password: str
+
+class LoginResponse(BaseModel):
+    hospital_name: str
+    message: str

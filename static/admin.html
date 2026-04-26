@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard - MediCare</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css?v=11">
+</head>
+<body>
+    <div class="app-container">
+        <header>
+            <h1>Admin Portal</h1>
+            <p>View all complaints across all hospitals</p>
+            <nav style="margin-top: 15px; display: flex; gap: 15px; justify-content: center;">
+                <a href="/" class="badge medium" style="text-decoration: none;">Public Form</a>
+                <a href="/login" class="badge medium" style="text-decoration: none;">Hospital Login</a>
+            </nav>
+        </header>
+        
+        <main>
+            <section class="dashboard-section panel panel-full">
+                <div class="dashboard-header">
+                    <h2>All Live Complaints</h2>
+                    <div class="filters">
+                        <button class="filter-btn active" id="filter-all">&#9776; All</button>
+                        <button class="filter-btn" id="filter-urgent">&#9888; Urgent</button>
+                        <button class="filter-btn" id="filter-resolved">&#10003; Resolved</button>
+                    </div>
+                </div>
+                <div class="complaint-list" id="complaint-list">
+                    <!-- Complaints will be injected here via JS -->
+                </div>
+            </section>
+        </main>
+    </div>
+    <div id="toast"></div>
+    <script src="/static/admin.js"></script>
+</body>
+</html>
