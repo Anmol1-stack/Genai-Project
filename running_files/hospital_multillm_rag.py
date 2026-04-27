@@ -236,20 +236,6 @@ CATEGORY_ROUTING: Dict[str, Any] = {
 }
 
 
-CATEGORY_DESCRIPTION_KEYWORDS: Dict[str, List[str]] = {
-    "Broken Hospital Bed": ["bed", "broken", "damaged", "defective", "frame", "mattress", "equipment"],
-    "Crowded Hospital Waiting Room": ["waiting room", "overcrowded", "crowded", "congested", "patient", "seating", "queue"],
-    "Dirty Hospital Bathroom": ["bathroom", "toilet", "sanit", "unclean", "dirty", "hygiene", "washroom"],
-    "Empty / Unstaffed Nursing Station": ["nursing station", "unstaffed", "unattended", "unmanned", "vacant", "nurse"],
-    "Overflowing Hospital Trash (Outside)": ["trash", "waste", "overflow", "garbage", "bin", "litter", "rubbish"],
-    "Rats / Rodent Infestation": ["rat", "rodent", "mouse", "mice", "infestation", "pest", "vermin"],
-    "Torn Hospital Privacy Curtain": ["curtain", "torn", "privacy", "screen", "ripped", "partition"],
-    "Unappetizing Hospital Food Tray": ["food tray", "meal", "tray", "unappetizing", "cold food", "tasteless", "dietary"],
-    "Unhygienic / Contaminated Hospital Food": ["food", "contaminat", "unhygienic", "spoil", "unsafe", "bacterial", "kitchen"],
-    "Water Puddle on Hospital Floor": ["water", "puddle", "wet floor", "floor", "spill", "leak", "damp"],
-}
-
-
 CATEGORY_ALIASES = {
     "unappetizing hospital food": "Unappetizing Hospital Food Tray",
     "unappetizing food tray": "Unappetizing Hospital Food Tray",
@@ -298,13 +284,13 @@ class PipelineConfig:
     qwen_base_model_id: str = os.getenv("QWEN_BASE_MODEL_ID", "Qwen/Qwen2.5-1.5B-Instruct")
     qwen_adapter_dir: str = os.getenv("QWEN_ADAPTER_DIR", DEFAULT_QWEN_ADAPTER_DIR)
 
-    # Description generation now routed to local fine-tuned Qwen (via existing description branch).
-    mistral_backend: str = os.getenv("MISTRAL_BACKEND", "local_peft")  # mlx | groq | hf | local_peft
+    # Mistral description generation — fine-tuned model running locally via MLX (Apple Silicon).
+    mistral_backend: str = os.getenv("MISTRAL_BACKEND", "mlx")  # mlx | groq | hf | local_peft
     mistral_mlx_model: str = os.getenv("MISTRAL_MLX_MODEL", "./models/mistral-mlx-4bit")
     mistral_groq_model: str = os.getenv("MISTRAL_GROQ_MODEL", "llama-3.1-8b-instant")
-    mistral_hf_model: str = os.getenv("MISTRAL_HF_MODEL", "Vani0235/hospital-qwen-finetuned")
-    mistral_base_model_id: str = os.getenv("MISTRAL_BASE_MODEL_ID", "Qwen/Qwen2.5-1.5B-Instruct")
-    mistral_adapter_dir: str = os.getenv("MISTRAL_ADAPTER_DIR", DEFAULT_QWEN_ADAPTER_DIR)
+    mistral_hf_model: str = os.getenv("MISTRAL_HF_MODEL", "Vani0235/hospital-mistral-finetuned")
+    mistral_base_model_id: str = os.getenv("MISTRAL_BASE_MODEL_ID", "mistralai/Mistral-7B-Instruct-v0.2")
+    mistral_adapter_dir: str = os.getenv("MISTRAL_ADAPTER_DIR", DEFAULT_MISTRAL_ADAPTER_DIR)
     hf_token_env: str = os.getenv("HF_TOKEN_ENV", "HF_TOKEN")
     hf_provider: Optional[str] = os.getenv("HF_PROVIDER", "").strip() or None
 
@@ -1041,125 +1027,76 @@ class HospitalMultiLLMOrchestrator:
         filtered = matched if matched else contexts[:1]
         return self._context_block(filtered, max_docs=None)
 
-    @staticmethod
-    def _description_template(category: str, hospital_name: str, ward: str, severity: str, department: str) -> str:
-        """Zero-hallucination fallback when LLM output fails keyword validation."""
-        return (
-            f"A {category.lower()} issue has been identified at {hospital_name}, {ward} ward, "
-            f"presenting a {severity}-level safety or hygiene concern. "
-            f"The matter requires immediate attention from the {department} department."
-        )
-
-    def _validate_and_fix_description(
-        self,
-        description: str,
-        category: str,
-        complaint: ComplaintInput,
-        severity: str,
-        department: str,
-    ) -> str:
-        """
-        Post-generation guard: reject descriptions that don't mention the predicted category.
-        Falls back to deterministic template if validation fails.
-        """
-        if not description or len(description.strip()) < 12:
-            return self._description_template(category, complaint.hospital_name, complaint.ward, severity, department)
-
-        keywords = CATEGORY_DESCRIPTION_KEYWORDS.get(category, [])
-        desc_lower = description.lower()
-
-        if keywords and not any(kw in desc_lower for kw in keywords):
-            return self._description_template(category, complaint.hospital_name, complaint.ward, severity, department)
-
-        for other_cat, other_kws in CATEGORY_DESCRIPTION_KEYWORDS.items():
-            if other_cat == category:
-                continue
-            other_hits = sum(1 for kw in other_kws if kw in desc_lower)
-            our_hits = sum(1 for kw in keywords if kw in desc_lower)
-            if other_hits >= 2 and our_hits == 0:
-                return self._description_template(category, complaint.hospital_name, complaint.ward, severity, department)
-
-        return description.strip()
-
     def _mistral_description(self, complaint: ComplaintInput, fusion: Dict[str, Any], contexts: List[Dict[str, Any]], structured: Dict[str, Any]) -> str:
         """
-        Description generation LLM — Llama (Mistral replacement).
+        Description generation LLM — fine-tuned Mistral-7B-Instruct-v0.2.
 
-        INPUT ROUTING POLICY:
-          ✅ Voice text as primary signal (always included)
-          ✅ Image caption only when similarity >= 0.4 (low-similarity captions cause hallucination)
-          ✅ Category-filtered RAG docs only
-          ✅ Full forbidden-categories list
-          ✅ Mandatory keyword anchoring
-          ❌ Fusion metadata (scores/weights) excluded — technical noise for description
-          ❌ Patient name — PII
+        INPUT ROUTING POLICY — Mistral receives full enriched context:
+          ✅ Sent:     ward, hospital_name (narrative grounding)
+          ✅ Sent:     image_caption + voice_text (core complaint signal)
+          ✅ Sent:     category-filtered RAG docs only (prevents cross-category hallucination)
+          ✅ Sent:     already-extracted category/severity/department (anchors the description)
+          ✅ Sent:     contextual metadata signals
+          ❌ Excluded: patient name — PII
+          ❌ Excluded: taxonomy lists — already resolved by Qwen
 
         OUTPUT: plain-text complaint_description (1-2 sentences, formal clinical language)
         """
+        # Only send RAG docs relevant to the predicted category.
+        # Sending all docs causes Mistral to hallucinate content from unrelated SOP entries.
         filtered_context = self._category_filtered_context(contexts, structured.get("category", ""))
-
-        category = structured.get("category", "")
-        severity = structured.get("severity", "")
-        department = structured.get("department", "")
-
-        # Voice-priority input: only include image caption when it is semantically aligned.
-        voice = _normalize_space(fusion.get("voice_text") or complaint.voice_text or complaint.complaint)
-        img = _normalize_space(fusion.get("image_text") or complaint.image_caption)
-        sim_score = float(fusion.get("similarity_score", 0.0))
-
-        if sim_score >= 0.4 and img and img.lower() not in ("", "n/a", "none", "no image"):
-            complaint_signal = (
-                f"Voice complaint (primary signal): {voice}\n"
-                f"Image observation (supplementary): {img}"
-            )
-        else:
-            complaint_signal = f"Voice complaint: {voice}"
 
         meta = complaint.metadata or {}
         contextual_parts: List[str] = []
         if meta.get("physically_harmed") not in (None, "", False, "false", "no", "No"):
             contextual_parts.append(f"Physical harm reported: {meta['physically_harmed']}")
-        for key in ("risk_level", "affected_area", "recurrence", "additional_context"):
+        if meta.get("internally_reported") not in (None, "", False, "false", "no", "No"):
+            contextual_parts.append(f"Already internally reported: {meta['internally_reported']}")
+        for key in ("risk_level", "affected_area", "recurrence", "staff_notified", "additional_context"):
             if meta.get(key):
-                contextual_parts.append(f"{key.replace('_', ' ').title()}: {meta[key]}")
+                label = key.replace("_", " ").title()
+                contextual_parts.append(f"{label}: {meta[key]}")
         contextual_block = (
-            "Additional context:\n" + "\n".join(f"  - {p}" for p in contextual_parts) + "\n\n"
+            "Contextual signals (use to enrich description, do not repeat verbatim):\n"
+            + "\n".join(f"  - {p}" for p in contextual_parts)
+            + "\n\n"
         ) if contextual_parts else ""
 
+        category = structured.get("category", "")
+        severity = structured.get("severity", "")
+        department = structured.get("department", "")
+
+        # Build an explicit forbidden-topics line so the model cannot confuse adjacent categories.
         _forbidden = [c for c in self.valid_categories if c != category]
         forbidden_line = (
-            f"FORBIDDEN — do NOT mention any of these topics even if the context contains them: "
-            f"{', '.join(_forbidden)}.\n"
+            f"FORBIDDEN: Do NOT describe any of these: {', '.join(_forbidden[:6])}{'...' if len(_forbidden) > 6 else ''}. "
+            f"If the retrieved context mentions any of these topics, ignore that part completely.\n"
         )
-
-        must_keywords = CATEGORY_DESCRIPTION_KEYWORDS.get(category, [])
-        keyword_line = (
-            f"REQUIRED: your description MUST include at least one of these words: "
-            f"{', '.join(must_keywords[:6])}.\n"
-        ) if must_keywords else ""
 
         system_prompt = (
             f"You are a hospital triage clinical documentation AI.\n"
-            f"TASK: Write ONE description sentence (max 2 sentences) for this exact complaint type: '{category}'.\n"
+            f"CRITICAL RULE: You are writing a description for ONE specific complaint type: '{category}'.\n"
+            f"You MUST describe ONLY a '{category}' issue. "
             f"{forbidden_line}"
-            f"{keyword_line}"
-            f"Rules:\n"
-            f"  - Describe ONLY the '{category}' issue: what was observed, where, and what risk it poses.\n"
-            f"  - Use formal clinical language.\n"
-            f"  - Do NOT include actions, recommendations, or resolution steps.\n"
-            f"  - Do NOT start with 'The patient'.\n"
-            f"  - Do NOT mention any other complaint type.\n"
-            f"Return ONLY the plain description text. No JSON, no labels, no markdown."
+            f"Write a single complaint_description (1-2 sentences) that:\n"
+            f"  - Describes the specific '{category}' issue observed, where it is, and what risk it poses.\n"
+            f"  - Is written in formal clinical language.\n"
+            f"  - Does NOT include recommendations or actions.\n"
+            f"  - Does NOT start with 'The patient'.\n"
+            f"  - Does NOT mention any issue type other than '{category}'.\n"
+            "Return ONLY the plain description text. No JSON, no labels, no markdown."
         )
 
         user_prompt = (
-            f"COMPLAINT TYPE: {category}\n"
+            f"COMPLAINT TYPE (describe THIS and ONLY THIS): {category}\n"
             f"Severity: {severity} | Department: {department}\n"
             f"Hospital: {complaint.hospital_name} | Ward: {complaint.ward}\n\n"
-            f"{complaint_signal}\n\n"
+            f"Complaint signal (use only the parts relevant to '{category}'):\n"
+            f"{fusion['fused_text']}\n\n"
             f"{contextual_block}"
-            f"SOP reference for '{category}':\n{filtered_context}\n\n"
-            f"Write the clinical description for the '{category}' issue now:"
+            f"Relevant SOP context for '{category}':\n"
+            f"{filtered_context}\n\n"
+            f"Write the complaint_description for the '{category}' issue observed above:"
         )
 
         if self.cfg.mistral_backend == "mlx":
@@ -1412,15 +1349,7 @@ class HospitalMultiLLMOrchestrator:
                 "department": department,
             },
         )
-        complaint_description = _normalize_space(
-            self._validate_and_fix_description(
-                description=descr,
-                category=category,
-                complaint=complaint,
-                severity=severity,
-                department=department,
-            )
-        )
+        complaint_description = _normalize_space(descr)
 
         final_severity, severity_trace = self._apply_hybrid_severity(
             category=category,
