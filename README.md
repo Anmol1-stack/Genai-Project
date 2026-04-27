@@ -11,7 +11,7 @@ An AI-powered hospital complaint triage system using a multi-LLM pipeline (fine-
 │   ├── main.py
 │   ├── database.py
 │   ├── schemas.py
-│   ├── blip_handler.py
+│   ├── blip_h andler.py
 │   ├── whisper_handler.py
 │   ├── chroma_setup.py
 │   └── static/             ← Frontend (complaint form + admin dashboard)
@@ -41,17 +41,3 @@ cd running_files
 pip install -r ../requirements.txt
 uvicorn main:app --reload --port 8000
 ```
-
-## Pipeline Overview
-
-1. **Input**: Voice text (Whisper) + Image caption (BLIP) + Direct complaint text
-2. **Fusion**: Cosine similarity-based weighted fusion of voice + image signals
-3. **Classification**: Fine-tuned Qwen2.5-1.5B → category, severity, department
-4. **RAG Retrieval**: ChromaDB query on SOP docs + train/val corpus
-5. **Description**: Fine-tuned Mistral-7B (via Groq) → formal complaint description
-6. **Guardrails**: Hybrid severity floor + category keyword validation
-7. **Storage**: SQLite + ChromaDB predictions collection
-
-## Note on Older Baseline Attempts
-
-The `older_baseline_attempts/` folder contains **earlier experimental baselines** (LLaMA zero-shot, hybrid LLaMA+Mistral pipelines) that were evaluated during Phase 2 of the project. These are **not part of the final implemented system** and are kept for reference only.
