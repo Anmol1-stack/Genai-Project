@@ -1,0 +1,26 @@
+# FastAPI + server
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Database
+sqlalchemy
+
+# AI models
+openai-whisper
+transformers
+Pillow
+torch
+torchvision
+
+# RAG pipeline
+chromadb
+sentence-transformers
+pydantic>=2.0
+python-dotenv
+
+# Groq fallback
+groq
+
+# MLX (Apple Silicon)
+mlx-lm

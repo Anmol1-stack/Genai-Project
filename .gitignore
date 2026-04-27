@@ -1,0 +1,28 @@
+# Environment
+.env
+.venv*/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Databases (runtime state, not source)
+*.db
+
+# Model weights (too large for git)
+optimizer.pt
+models/
+*.pt
+*.bin
+
+# macOS
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Zip archives (already tracked where needed)
+*.zip

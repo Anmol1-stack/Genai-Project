@@ -1,0 +1,11 @@
+category,file_name,status,record_count
+Broken Hospital Bed,sop_broken_hospital_bed.md,llm_ok,22
+Crowded Hospital Waiting Room,sop_crowded_hospital_waiting_room.md,llm_ok,22
+Dirty Hospital Bathroom,sop_dirty_hospital_bathroom.md,llm_ok,18
+Empty / Unstaffed Nursing Station,sop_empty_unstaffed_nursing_station.md,llm_ok,20
+Overflowing Hospital Trash (Outside),sop_overflowing_hospital_trash_outside.md,llm_ok,18
+Rats / Rodent Infestation,sop_rats_rodent_infestation.md,llm_ok,22
+Torn Hospital Privacy Curtain,sop_torn_hospital_privacy_curtain.md,llm_ok,17
+Unappetizing Hospital Food Tray,sop_unappetizing_hospital_food_tray.md,llm_ok,12
+Unhygienic / Contaminated Hospital Food,sop_unhygienic_contaminated_hospital_food.md,llm_ok,16
+Water Puddle on Hospital Floor,sop_water_puddle_on_hospital_floor.md,llm_ok,18

@@ -1,0 +1,74 @@
+from sqlalchemy import create_engine, Column, Integer, String, Text, DateTime
+from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.orm import sessionmaker
+from datetime import datetime
+
+SQLALCHEMY_DATABASE_URL = "sqlite:///./complaints.db"
+
+engine = create_engine(
+    SQLALCHEMY_DATABASE_URL, connect_args={"check_same_thread": False}
+)
+SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
+
+Base = declarative_base()
+
+
+class ComplaintDatabaseModel(Base):
+    __tablename__ = "complaints"
+
+    id                = Column(Integer, primary_key=True, index=True)
+    timestamp         = Column(DateTime, default=datetime.utcnow)
+    category          = Column(String, index=True)
+    severity          = Column(String, index=True)
+    department        = Column(String, index=True)
+    description       = Column(Text)
+    hospital_name     = Column(String, index=True)
+    city              = Column(String, index=True)
+    status            = Column(String, default="active", index=True)
+    # Extended fields from pipeline output
+    location          = Column(String, nullable=True)
+    needs_human_review= Column(Integer, nullable=True, default=0)
+    sla_hours         = Column(Integer, nullable=True)
+    first_responder   = Column(String, nullable=True)
+    action_on_report  = Column(Text, nullable=True)
+    routing_json      = Column(Text, nullable=True)   # full routing dict as JSON string
+
+
+class HospitalUserModel(Base):
+    __tablename__ = "hospital_users"
+
+    id            = Column(Integer, primary_key=True, index=True)
+    hospital_name = Column(String, unique=True, index=True)
+    username      = Column(String, unique=True, index=True)
+    password      = Column(String)
+
+
+Base.metadata.create_all(bind=engine)
+
+
+def init_default_hospitals(db):
+    default_hospitals = [
+        {"hospital_name": "General Hospital",    "username": "General Hospital",    "password": "password"},
+        {"hospital_name": "City Care",            "username": "City Care",            "password": "password"},
+        {"hospital_name": "Apollo Medical",       "username": "Apollo Medical",       "password": "password"},
+        {"hospital_name": "Sunrise Clinic",       "username": "Sunrise Clinic",       "password": "password"},
+        {"hospital_name": "Metro Health Centre",  "username": "Metro Health Centre",  "password": "password"},
+        {"hospital_name": "Green Valley Hospital","username": "Green Valley Hospital","password": "password"},
+        {"hospital_name": "Max Super Speciality Hospital", "username": "Max Super Speciality Hospital", "password": "password"},
+    ]
+    for h in default_hospitals:
+        try:
+            existing = db.query(HospitalUserModel).filter_by(username=h["username"]).first()
+            if not existing:
+                db.add(HospitalUserModel(**h))
+                db.commit()
+        except Exception:
+            db.rollback()
+
+
+def get_db():
+    db = SessionLocal()
+    try:
+        yield db
+    finally:
+        db.close()

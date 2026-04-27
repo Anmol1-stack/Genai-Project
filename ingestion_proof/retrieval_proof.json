@@ -1,0 +1,13 @@
+{
+  "query": "Rats near hospital kitchen, contamination risk, urgent cleaning required.",
+  "sop_top_ids": [
+    "sop_rats_rodent_infestation_chunk_1",
+    "sop_rats_rodent_infestation_chunk_0",
+    "sop_dirty_hospital_bathroom_chunk_1"
+  ],
+  "trainval_top_ids": [
+    "trainval_rats_11_chunk_0",
+    "trainval_rats_15_chunk_0",
+    "trainval_rats_14_chunk_0"
+  ]
+}

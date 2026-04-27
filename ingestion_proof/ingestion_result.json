@@ -1,0 +1,14 @@
+{
+  "timestamp_utc": "2026-04-25T23:02:36.886679",
+  "chroma_path": "/content/Genai Project/vectordb/chromadb",
+  "sop_collection": {
+    "name": "hospital_sops",
+    "source_docs": 10,
+    "chunks_indexed": 22
+  },
+  "trainval_collection": {
+    "name": "hospital_trainval",
+    "rows_used": 185,
+    "chunks_indexed": 185
+  }
+}
